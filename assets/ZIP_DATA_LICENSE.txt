@@ -1,0 +1,6 @@
+ZIP centroid data: GeoNames, https://download.geonames.org/export/zip/US.zip
+License: Creative Commons Attribution 4.0, https://creativecommons.org/licenses/by/4.0/
+Downloaded 2026-09-22. Distances are approximate centroid distances.
+
+Neighborhood expansion: U.S. Census Bureau 2025 ZCTA Gazetteer, https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2025_Gazetteer/2025_Gaz_zcta_national.zip
+Public-domain federal geographic data. Downloaded 2026-09-23.
