@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 2,
+      "room_label": "Office waiting room",
+      "rationale": "Enclosed indoor waiting room with clearly visible walls, ceiling, and a substantial usable carpeted floor area between the chairs.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 6,
+      "room_label": "Main reception lobby",
+      "rationale": "Distinct enclosed indoor lobby with visible walls and ceiling, plus a broad, clearly visible tiled floor suitable for an epoxy-floor concept.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

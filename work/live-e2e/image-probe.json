@@ -1,0 +1,291 @@
+{
+  "id": "resp_06b27ed657d8594e006ab34fc10c9887d0ac36af1257391e17",
+  "created_at": 1790136257.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "gpt-6-astra",
+  "object": "response",
+  "output": [
+    {
+      "id": "ws_06b27ed657d8594e006ab34fc23e9c87d0a900b0d22b900579",
+      "action": {
+        "type": "search",
+        "queries": [
+          "801 S Miami Ave commercial retail interior"
+        ],
+        "query": "801 S Miami Ave commercial retail interior",
+        "sources": null
+      },
+      "status": "completed",
+      "type": "web_search_call",
+      "results": [
+        {
+          "type": "image_result",
+          "caption": null,
+          "image_url": "https://images1.loopnet.com/i2/YZdMRLN-9566GWQ-pWs1zHXeZKX5jqL1NuVq0RuKsZE/110/image.jpg",
+          "source_website_url": "https://www.loopnet.com/Listing/2001-Biscayne-Blvd-Miami-FL/30569131/",
+          "thumbnail_url": "https://images.openai.com/static-rsc-4/noYakTtw5lx6TZ_iTcIrWVNsgTj7L8T-0Cec-eN5wSnO4yzU9x8fQedBg1xb47InVOQp749e_svBAV1d732oJmM3m_j4XpiDfR6M4ulFbGOa0uzDcupRbj-4Df65jSE_gQdXdPD9JXyIg5PudWMUW3BztdJV2wuysiDs9exOrRg?purpose=inline"
+        },
+        {
+          "type": "image_result",
+          "caption": null,
+          "image_url": "https://images.crexi.com/lease-assets/735022/09b07b1dbe994150aee07c25a15a0061_3000x2000_resize.jpg",
+          "source_website_url": "https://www.crexi.com/lease/properties/735022/florida-3131-ne-7th-ave",
+          "thumbnail_url": "https://images.openai.com/static-rsc-4/yJyu8dreO6kPXO08woei-CGlBRDeiULBkxvMQvh0nOkVSK_5SUvd7wQqI9fdn1F5t6CbalmZe3rHPYFkyNwqIDw6zrDLUyUKiJJuA4dUILJoRARtoKP5hDUxaP-1umB2sCrHC0vNnubu5HcLu8YVLWReYr7NhuD5J_POLv52qIU?purpose=inline"
+        },
+        {
+          "type": "image_result",
+          "caption": null,
+          "image_url": "https://images1.loopnet.com/i2/e1klorq_bmSiilykf4KzELB7Uls6cZ8XO7CjFUtyT-0/110/8051-NE-2nd-Ave-Miami-FL-IMG_7564-3-Large.jpg",
+          "source_website_url": "https://www.loopnet.com/Listing/8051-NE-2nd-Ave-Miami-FL/30793281/",
+          "thumbnail_url": "https://images.openai.com/static-rsc-4/-Dqr0w9bC_yPPPmWpzwuRQmrQFLjWCwgbfomBlGfpXcJhAw1vShxn5vRX7F34e_Y4yItLJoNPdTWA9CRPm6FH4bWWAPCRQPwFAkRTeaWCvZM0WQeZLvLMzDOFr7SFYM9BJRfMmYVwzA20JI7Lgk6r0QmK8HZYOgBd2t1fWupAZ4?purpose=inline"
+        },
+        {
+          "type": "image_result",
+          "caption": null,
+          "image_url": "https://images1.cityfeet.com/i2/HtD2HmgXFiQJlb45gCmp__KujtYKk6yHANdyDeiC104/110/801-brickell-bay-dr-miami-photo-11-of-14.jpg",
+          "source_website_url": "https://www.cityfeet.com/cont/listing/801-brickell-bay-dr-miami-fl-33131/cs35109851",
+          "thumbnail_url": "https://images.openai.com/static-rsc-4/bU8DmczSLzlNaSNzRW2fuWKaZoExls0sO-pdbQlFLgsyBLpLsl-kIVxHYVqwkEescLnhm2V_areoWtU25ZYriXL4VH8Igt2gX32Afrrt8KY2HJJduCjSI-HSa52j8ZrrP8Sc0OKGq7lbuPLrOtL2B51DcwryS-dzC87YPkaY3Rk?purpose=inline"
+        },
+        {
+          "type": "image_result",
+          "caption": null,
+          "image_url": "https://images1.loopnet.com/i2/AbXc_Jt-DCmegOuFBxqsFvvGUSUdZNz6Tve-b-bYcdI/112/image.jpg",
+          "source_website_url": "https://www.loopnet.com/Listing/3138-SW-22nd-St-Miami-FL/37255766/",
+          "thumbnail_url": "https://images.openai.com/static-rsc-4/7s6S6BEqzO0BRDUUEY8CAiwSzTH4Xvm376OMNzdHTGlH6C2Xn68g5CHmWMo1uoMc1oVGOpkwEiGhqFSZ6euMmdjtRB5eAoXuB1P-I1ETr-NvJC04LdS4JGWQizl0WiIJhSeJ7EKDuVjgGCvtQntvDr7ZfVOZqLffEMsqvjJIHB0?purpose=inline"
+        },
+        {
+          "type": "image_result",
+          "caption": null,
+          "image_url": "https://images.crexi.com/lease-assets/720495/f33228ad0ebb403b9e7d94284b0b1021_3000x2000_resize.jpg",
+          "source_website_url": "https://www.crexi.com/lease/properties/720495/florida-the-triangle-building",
+          "thumbnail_url": "https://images.openai.com/static-rsc-4/5urOR5i9eDa28jWCqAUAtC2utH1aD22HlPDP5t8Q9BakEUIn5_Q5-Q0ZqW1S1i_WuweQSZwgowy9_Mp-Jkhw-6Iq7LT3-En95NU4zds3mnN94B8BNRjFHTgNUvsZcwOjvAsFDo4Z0LlYXTAOaQZXuGE-9thXrgU8A0j-atKjR4g?purpose=inline"
+        }
+      ]
+    },
+    {
+      "id": "ws_06b27ed657d8594e006ab34fc547cc87d0b5727b878299c60e",
+      "action": {
+        "type": "search",
+        "queries": [
+          "\"801 S Miami\" \"40717187\"",
+          "\"801 S Miami Ave\" commercial retail lease"
+        ],
+        "query": "\"801 S Miami\" \"40717187\"",
+        "sources": null
+      },
+      "status": "completed",
+      "type": "web_search_call",
+      "results": []
+    },
+    {
+      "id": "ws_06b27ed657d8594e006ab34fc6deec87d0a590b6c1e45310ce",
+      "action": {
+        "type": "search",
+        "queries": [
+          "\"801 S Miami Ave\" interior restaurant"
+        ],
+        "query": "\"801 S Miami Ave\" interior restaurant",
+        "sources": null
+      },
+      "status": "completed",
+      "type": "web_search_call",
+      "results": [
+        {
+          "type": "image_result",
+          "caption": null,
+          "image_url": "https://resizer.otstatic.com/v3/photos/68610674-2",
+          "source_website_url": "https://www.opentable.com/r/the-b100m-miami",
+          "thumbnail_url": "https://images.openai.com/static-rsc-4/UOSu3Bp1DDeYl6EC1NJqjbJR9tvNUKGmdUG_qWBwwy6FUGJxXVa9oXv0rizxvCnKMj0sraDnA5S_eD_1dfQ8yT8TfiOuxZudj3U5koaXCVwCsUe5C3AaWzT1QcYqtu4Jr8hA8vfH1Pi-O3K5bdP3MKAumASdDa9R_si3kYPZQfc?purpose=inline"
+        },
+        {
+          "type": "image_result",
+          "caption": null,
+          "image_url": "https://www.journeyscape.com/app/uploads/2024/03/USA_Florida_Miami_Mandarin-Oriental_Exterior-Restaurant-1024x683-c-center.jpg",
+          "source_website_url": "https://www.journeyscape.com/florida/miami/mandarin-oriental/",
+          "thumbnail_url": "https://images.openai.com/static-rsc-4/pV2IkT1nFujhKlbsbzr7Ya9QOOzkSnHxlnYpA6U5ELciAj-4eZ6weMmTH-znvTPdmldGr1-K9b08tAz8JY92XnqUzh8HioNcZzkYHyUeaRqs5QmnUmDoJZ_K-YJainWVjrJzGj-gGcrIi2ooVRsFMEh5IQlLFEAY2G3sb38By6c?purpose=inline"
+        },
+        {
+          "type": "image_result",
+          "caption": null,
+          "image_url": "https://media.timeout.com/images/106146403/1920/1080/image.jpg",
+          "source_website_url": "https://www.timeout.com/miami/restaurants/the-b100m",
+          "thumbnail_url": "https://images.openai.com/static-rsc-4/rF3LNrRDYQMVlJr6X1MUX9rzsTvxB7CavWSl1uN0FJ0VSn5ec7FrNNvoTIt-Zx5hA3foRKR-sJlgcLaLTVz_Y_E2pEiFs650I3N8iCIVgmZZpRvzTq0vXWL1si9lzB9_09fuPNuTFQTGLmfpVXfBEAx9VFKkcNAzfaNVA3oiE0k?purpose=inline"
+        },
+        {
+          "type": "image_result",
+          "caption": null,
+          "image_url": "https://static.wixstatic.com/media/ca3b83_aeae7699616343869df093784ddf288a~mv2.jpeg/v1/fill/w_782%2Ch_558%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/ca3b83_aeae7699616343869df093784ddf288a~mv2.jpeg",
+          "source_website_url": "https://www.oftmw.com/post/cactus-club-cafe-plans-its-florida-debut-in-downtown-miami",
+          "thumbnail_url": "https://images.openai.com/static-rsc-4/DA5JExfPf8_7mxwiqpqyWsMwWIfGKgrNRqBOw-2HTYV9-5XjkO3HRq79iBx2qd3SlRtO70jKqTv21SxRNYrCdZGs4QWMj09CVYQmWwZQnYQwVVs_KgVJMQqC7oWpHGTnExRyWYORkFR64Y75f0uw14h8tJcAt9GgVVS3yFFJHns?purpose=inline"
+        },
+        {
+          "type": "image_result",
+          "caption": null,
+          "image_url": "https://media.assettype.com/resident%2F2025-10-08%2Fxjtczi4o%2FEight-Bar-Miami-Main-Space-Courtesy-of-Maple-Hospitality-Group.jpg?rect=0%2C0%2C3840%2C2160",
+          "source_website_url": "https://resident.com/food-and-drink/2025/10/08/eight-bar-by-chef-danny-grant-arrives-in-miami-a-neighborhood-bistro-and-raw-bar-with-a-playful-edge",
+          "thumbnail_url": "https://images.openai.com/static-rsc-4/0kWqmoQ681mR2NCD0wWvp3X5b0wM2m4lSwAo-YSadsyzGK7oCnn2sbkMya8R82O7UfRmAcyhJpOgqTfQotigQOnYWvdYIv6zWEkfu9q87PRWNHi0Z_EkPOLrm3NC078_VgryPEgFp0rxzA1Z6v7DDpKT3ZItkykzZPemRAhqKQc?purpose=inline"
+        },
+        {
+          "type": "image_result",
+          "caption": null,
+          "image_url": "https://res.cloudinary.com/the-infatuation/image/upload/c_fill%2Cw_3840%2Car_4%3A3%2Cg_auto%2Cf_auto/images/SBB_Brickell_3_uem8sg",
+          "source_website_url": "https://www.theinfatuation.com/miami/reviews/mister-o1-extraordinary-pizza-brickell",
+          "thumbnail_url": "https://images.openai.com/static-rsc-4/L2ldsHxJDqZHvhC92Z-TLw0hHeXLEmla8J59GXXFCOgeCpidFitf9db1kku2gtORecltOnqgZ5VJt7k1G8QPwTuqt4QM-WU-C05WfnQW2OGYIbNpcNIDz4BGyDNXMq48XrtDNSbie33zqs7e4PQUeZ-8pnw5i_5EmQ-slgOLZMA?purpose=inline"
+        },
+        {
+          "type": "image_result",
+          "caption": null,
+          "image_url": "https://images.squarespace-cdn.com/content/v1/653820f067951356ec09c800/d8d9d2cc-749b-4e5f-8205-01e2d54cbcbe/claudie-interior-restaurant.png?format=750w",
+          "source_website_url": "https://www.claudierestaurant.com/",
+          "thumbnail_url": "https://images.openai.com/static-rsc-4/2ikoaYsKVgS6MrXjUpikDmHKSfdfq2vBhV4_s_KmkwKlCuFdCqt1k4-CpOtE4zf_SCQVc9bM-LJ-NWwcYTFHKbIS1ciEyQvl_SNwaKvgWMDUI3UHmPR83XsdnBaNOKnDhSr52v4fVQUAgPMJD22cO-PUbjQ46nL7F9QwSxUsB3A?purpose=inline"
+        }
+      ]
+    },
+    {
+      "id": "ws_06b27ed657d8594e006ab34fc9f16487d0aac903de7f6fa430",
+      "action": {
+        "type": "search",
+        "queries": [
+          "\"801 S Miami\" \"40717187\"",
+          "\"801 S Miami Ave\" commercial retail lease"
+        ],
+        "query": "\"801 S Miami\" \"40717187\"",
+        "sources": null
+      },
+      "status": "completed",
+      "type": "web_search_call",
+      "results": []
+    },
+    {
+      "id": "rs_06b27ed657d8594e006ab34fcb8ef487d0aff5df1ca74600af",
+      "summary": [],
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqs0_SvvY3TGwE2ChHCcTUh1CgQnJ_oKomX6Yt07QKCx__c95HkrXBsXcC6MicVd6YRAhVCoo5xJfTunpOb0OsHuBpV5fA-r1vOyZAZZpfojrNnDHKYiAk9OWGresEN0JjB_Hjx95ERBWmScoNzKls_r3aToJncXraEowu4DdwKv5vHLFtFiSHs1BkseUllOAmfWrAc_YizPvXAW1huefuGlRfgwEIzEodp6Mtm0FML-wSt5W6CRfk-7iQ04TLWIlMZWRjTX8IrRzriKqhrnqxsExCNjXoRfCRlWSeCy5jZAfMHsSeZqlVTRM0I-9CbdOKD2FX_6hzMbEeuWpv9uN9Hf7oLAqF07qLYKpR9ydBbkC52uryBvf-LOmpb59njbCfVGAjgWpBzZJvP5duPrCIJ89W-oGulSdS1CdgD5LqxM01zlaLvt5RDyfWoKwPfnr0CYs9EHd_ND4kovH2p5nic5rOWlgIoW4JcbdWdzrOaV9jDBv2t3AcWB5CR3SWEzO1ZfrG2_HCMVsKobVXWGAyxpwDV0HZcyd42JiGsqEILR4FSr7Uwgia267OrHjQXVrd1N2aOB8RF9et72hyomxohCY-MVA_97VEKyS3zm6hmWo8x_VFGoiNwZdnazDcZSszFaFeNpF1VBX-hV-zTFW52atSIbWVQEoF4f9sT4GMFYpozs6o1L0kU-v4YkS9ItMGFPGECKe4dnj5bdlKIFN_N8HcRcHJ6uOyFQ5TJTRGdcBz7hqL5KbTTwQTjuPvPqZtUM8BCakEZ84Emw8VlWF61gWODIHH_ZzIYgLv-cr6JfQBgVQqyGSLqXS1g2d_Y4dx0ka_TH_vytsADpq5SrzGAKl2Lbak3blBiR9GzG-dBqIUZq253KaY1mCSfXF2cvNT2qK0Z9egw7T5vmnbSlvwKAn4QQSR1WPvREm71NaZuJ-3j3GQir5H9J1E980eK4OJGgvPnUvzSHAjTB6yZ7GpzytVC11rNmzIB6m5ShzFE0pr1sQL0QLFOGguEqXVwGHqgEn7mSBXmk1prdI2tBpxpSu13mBvehVBtIFxUo0b9VgYnxAaOOVFV7X7pdfFYxFZUJOV1WqFzMXcJXzIu7QCzISkJJBdFW-fM4ccIf4GwOlcqpCYsZlA7F3e5etbzECYr7-7UdIVz0UBe9cdNAb2Y6NIut3Az2jBaL8UKT2qN1HJj_fEPDoQg3Ju4RZVqCYW8LBQyONUhXEMdtihd3X1U5ZIVg==",
+      "status": null
+    },
+    {
+      "id": "ws_06b27ed657d8594e006ab34fcbdf5487d08fd0ca93849b7a9d",
+      "action": {
+        "type": "open_page",
+        "url": "https://www.loopnet.com/Listing/801-S-Miami-Ave-Miami-FL/40717187/"
+      },
+      "status": "completed",
+      "type": "web_search_call",
+      "results": []
+    },
+    {
+      "id": "msg_06b27ed657d8594e006ab34fcf34c087d0a719bb0a4a312b87",
+      "content": [
+        {
+          "annotations": [],
+          "text": "I used image search, but **could not verify any interior photographs belonging to the exact commercial property at 801 S Miami Ave or LoopNet listing 40717187**. The supplied LoopNet page could not be retrieved.\n\nThe image results showed other properties and restaurants, so I excluded them rather than mislabel them as your property.\n\n**Verified image URLs: none.**\n\nIf you upload the listing brochure or screenshots of its photo gallery, I can use those to help identify matching photographs and their original source URLs.",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 1.0,
+  "tool_choice": "required",
+  "tools": [
+    {
+      "type": "web_search",
+      "external_web_access": null,
+      "filters": null,
+      "search_context_size": "medium",
+      "user_location": {
+        "city": null,
+        "country": "US",
+        "region": null,
+        "timezone": null,
+        "type": "approximate"
+      },
+      "image_settings": {
+        "caption": true,
+        "max_results": 12
+      },
+      "return_token_budget": "default",
+      "search_content_types": [
+        "image"
+      ]
+    }
+  ],
+  "top_p": 0.98,
+  "background": false,
+  "completed_at": 1790136273.0,
+  "conversation": null,
+  "max_output_tokens": 3500,
+  "max_tool_calls": null,
+  "moderation": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_diagnostics": null,
+  "prompt_cache_key": null,
+  "prompt_cache_options": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "low",
+    "generate_summary": null,
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 12638,
+    "input_tokens_details": {
+      "cache_write_tokens": 88,
+      "cached_tokens": 4247
+    },
+    "output_tokens": 371,
+    "output_tokens_details": {
+      "reasoning_tokens": 264
+    },
+    "total_tokens": 13009
+  },
+  "user": null,
+  "access_programs": null,
+  "billing": {
+    "payer": "developer"
+  },
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "store": true,
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 4
+    }
+  }
+}

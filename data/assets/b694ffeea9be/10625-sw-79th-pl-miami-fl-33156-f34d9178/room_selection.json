@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 26,
+      "room_label": "Enclosed garage",
+      "rationale": "Garage interior with visible surrounding walls, ceiling-mounted garage-door hardware, and a large unobstructed floor area.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "garage"
+    },
+    {
+      "index": 20,
+      "room_label": "Bedroom",
+      "rationale": "Enclosed interior room with visible walls, closet doors, a window, and clearly visible usable floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "lead_id": "0b8a9fabec775632",
+  "property_type": "industrial properties",
+  "address": "2875 NW 42nd Avenue & 4101 NW 28th Street, Miami, FL 33142",
+  "city": "",
+  "state": "",
+  "zipcode": "33142",
+  "title": "2875 NW 42nd Ave & 4101 NW 28th Street",
+  "source_site": "CommercialCafe",
+  "source_url": "https://www.commercialcafe.com/commercial-property/us/fl/miami/2875-nw-42nd-ave-4101-nw-28th-street/",
+  "price": "Contact for pricing",
+  "size": "6,584 SF building; listing advertises 52,326 SF total available",
+  "notes": "Hosted web search response resp_0fd610f13ed2e5fa006ab3522bb64c87d0bb9bf96981a59256",
+  "category": "",
+  "images": [
+    {
+      "url": "https://images1.loopnet.com/i2/klL04K3aqqzZMTWKXG-svIlwHPZHd1stx0vd4zC4rX4/116/2875-NW-42nd-Ave-Miami-FL-Building-Photo-1-LargeHighDefinition.jpg",
+      "source": "https://www.loopnet.com/Listing/2875-NW-42nd-Ave-Miami-FL/22617017/",
+      "caption": "Building Photo",
+      "room_type_hint": ""
+    }
+  ],
+  "selected_rooms": [],
+  "asset_dir": "",
+  "pdf_path": "",
+  "run_id": "",
+  "status": "new"
+}

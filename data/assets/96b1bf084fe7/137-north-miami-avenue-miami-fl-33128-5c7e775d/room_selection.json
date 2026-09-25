@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 2,
+      "room_label": "Unfinished upper-level loft",
+      "rationale": "Enclosed interior with visible perimeter walls, windows, exposed ceiling beams, and a broad usable floor area.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 4,
+      "room_label": "Ground-floor storefront entrance area",
+      "rationale": "Distinct enclosed entrance area with visible side walls, a ceiling, closed glass doors, and clearly visible interior floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

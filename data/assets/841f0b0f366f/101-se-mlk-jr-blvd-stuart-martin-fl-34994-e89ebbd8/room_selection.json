@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 10,
+      "room_label": "Conference room",
+      "rationale": "Enclosed room with visible walls and usable floor around the meeting table.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 11,
+      "room_label": "Kitchenette",
+      "rationale": "Separate enclosed kitchenette with visible walls and a clear floor area.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

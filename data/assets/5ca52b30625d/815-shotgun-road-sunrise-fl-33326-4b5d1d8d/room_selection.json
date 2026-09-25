@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 27,
+      "room_label": "Warehouse interior",
+      "rationale": "Enclosed industrial warehouse with visible walls, storage racks, equipment, and a broad usable concrete floor area.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 22,
+      "room_label": "Attached industrial office",
+      "rationale": "Separate enclosed office within the industrial property, with visible walls and clearly exposed usable floor around the desks.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

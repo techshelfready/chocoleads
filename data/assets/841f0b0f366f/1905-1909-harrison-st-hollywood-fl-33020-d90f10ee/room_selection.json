@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 9,
+      "room_label": "Interior hallway",
+      "rationale": "Enclosed hallway with visible walls and a large, unobstructed floor area.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 17,
+      "room_label": "Bathroom",
+      "rationale": "Separate enclosed bathroom with visible walls and exposed floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

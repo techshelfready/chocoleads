@@ -58,9 +58,9 @@ class WebResearchSource:
         self.anchor_zip=None
 
     def research(self,prompt,cache_key,max_tokens=7000):
-        path=self.cache/(hashlib.sha256(cache_key.encode()).hexdigest()+'.json')
+        path=self.cache/(hashlib.sha256(f'{settings.openai_text_model}:{settings.openai_reasoning_effort}:{cache_key}'.encode()).hexdigest()+'.json')
         if path.exists() and time.time()-path.stat().st_mtime < 86400:return json.loads(path.read_text())
-        response=self.client.responses.create(model=settings.openai_text_model,reasoning={'effort':'low'},
+        response=self.client.responses.create(model=settings.openai_text_model,reasoning={'effort':settings.openai_reasoning_effort},
             tools=[{'type':'web_search'}],tool_choice='required',
             include=['web_search_call.results','web_search_call.action.sources'],input=prompt,max_output_tokens=max_tokens)
         if response.status!='completed':raise RuntimeError('Web research did not complete. Please retry.')

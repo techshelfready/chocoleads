@@ -1,0 +1,34 @@
+{
+  "lead_id": "d2d22fdf7ab5563e",
+  "property_type": "industrial properties",
+  "address": "2401 NW 34th Avenue, Suite 2401, Miami, FL 33142",
+  "city": "",
+  "state": "",
+  "zipcode": "33142",
+  "title": "2401 NW 34th Ave — 1st Floor — Suite 2401",
+  "source_site": "RE/MAX Industrial Assets",
+  "source_url": "https://jlrteam.com/properties/2401-nw-34th-ave-1st-floor-suite-2401/",
+  "price": "$19.95/SF/YR",
+  "size": "10,080 SF",
+  "notes": "Hosted web search response resp_0fd610f13ed2e5fa006ab3522bb64c87d0bb9bf96981a59256",
+  "category": "",
+  "images": [
+    {
+      "url": "https://jlrteam.com/wp-content/uploads/2026/05/2401-nw-34th-ave-1st-floor-suite-2401-photo-1.jpg",
+      "source": "https://jlrteam.com/properties/2401-nw-34th-ave-1st-floor-suite-2401/",
+      "caption": "Photo",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://jlrteam.com/wp-content/uploads/2026/05/2401-nw-34th-ave-1st-floor-suite-2401-photo-2.jpg",
+      "source": "https://jlrteam.com/properties/2401-nw-34th-ave-1st-floor-suite-2401/",
+      "caption": "Photo",
+      "room_type_hint": ""
+    }
+  ],
+  "selected_rooms": [],
+  "asset_dir": "",
+  "pdf_path": "",
+  "run_id": "",
+  "status": "new"
+}

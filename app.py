@@ -36,20 +36,26 @@ def clear_result():
 with st.container(border=True):
     st.subheader("Generate leads")
     zip_col, type_col, count_col = st.columns([1, 2, 1])
-    with zip_col:
-        zipcode = st.text_input("Zipcode", max_chars=5, value="33130", placeholder="33130", key="zipcode", on_change=clear_result)
     with type_col:
         property_type = st.selectbox("Property type", ["commercial properties", "houses", "industrial properties"], key="property_type", on_change=clear_result)
+    with zip_col:
+        st.text_input("Zipcode", value="Imported dataset", disabled=True, key="dataset_zipcode")
+        zipcode = "dataset"
     with count_col:
         lead_count = st.selectbox("Number of leads", [5, 6, 7, 8, 9, 10], key="lead_count", on_change=clear_result)
     start = st.button("Generate Leads", type="primary", width="stretch", on_click=clear_result)
-    st.caption("For houses, we try Zillow, Redfin, then Realtor.com in each ZIP before searching nearby ZIP codes.")
+    if property_type == "houses":
+        st.caption("Houses use 200 imported Zillow listings across 21 Miami-area ZIP codes. Used homes are skipped automatically.")
+    elif property_type == "commercial properties":
+        st.caption("Commercial leads use the combined Crexi inventory and listing-specific photos. Used properties are skipped automatically.")
+    else:
+        st.caption("Industrial leads use industrial properties in the imported Crexi datasets and verified listing photos. Used properties are skipped automatically.")
 
 if not settings.openai_api_key:
-    st.warning("Lead generation needs an OpenAI API key. Set OPENAI_API_KEY in the project .env file, then restart the app.")
+    st.warning("Lead generation needs an OpenAI API key. Set OPENAI_API_KEY in your local .env or Streamlit app secrets, then restart the app.")
 
 if start:
-    if not zipcode or len(zipcode) != 5 or not zipcode.isdigit():
+    if not zipcode:
         st.error("Enter a valid five-digit US ZIP code.")
     elif not settings.openai_api_key:
         st.error("Configure the OpenAI API key before generating leads.")

@@ -13,12 +13,14 @@ from .image_pipeline import OpenAIFloorRenderer
 from .pdf_report import BrandedPDFReport
 from .geography import search_zipcodes
 from .lead_sources.web_research import WebResearchSource
+from .lead_sources.zillow_dataset import ZillowDatasetSource
+from .lead_sources.crexi_dataset import CrexiDatasetSource
 
 
 def source_chain_for(property_type):
     if property_type not in {'houses','commercial properties','industrial properties'}:
         raise ValueError('Choose a supported property type.')
-    return [WebResearchSource(property_type)]
+    return [ZillowDatasetSource()] if property_type == "houses" else [CrexiDatasetSource(property_type)]
 
 
 def complete_lead(lead):
@@ -38,13 +40,14 @@ def generate_leads(zipcode, property_type, lead_count, progress=None):
             original_progress(message)
     if lead_count not in range(5, 11):
         raise ValueError('Choose between 5 and 10 leads.')
-    areas = iter(search_zipcodes(zipcode.strip()))
+    sources = source_chain_for(property_type)
+    dataset = next((s for s in sources if getattr(type(s), "finite_inventory", False) is True), None)
+    areas = iter([("dataset", 0)]) if dataset else iter(search_zipcodes(zipcode.strip()))
     first = next(areas)  # Validate location before creating a run or charging for renders.
     from itertools import chain
     run_id = uuid.uuid4().hex[:12]
     run_dir = make_run_dir(run_id)
     renderer = OpenAIFloorRenderer()
-    sources = source_chain_for(property_type)
     seen = seen_key_set()
     processed = []
     searched = []
@@ -52,6 +55,7 @@ def generate_leads(zipcode, property_type, lead_count, progress=None):
     consecutive_source_failures = 0
     consecutive_empty_areas = 0
     search_attempts = []
+    checked_candidates = 0
 
     def save_manifest():
         (run_dir / 'run.json').write_text(json.dumps({
@@ -73,13 +77,15 @@ def generate_leads(zipcode, property_type, lead_count, progress=None):
         for area_zips, miles in batches():
             search_zip=area_zips[0]
             searched.extend(area_zips)
-            if progress:
+            if dataset:
+                progress(f'Checking unused properties in the imported dataset: {len(processed)} of {lead_count} ready.')
+            elif progress:
                 progress(f'{len(processed)} of {lead_count} leads ready. Searching ZIPs {", ".join(area_zips)}'
                          + (f' (about {miles:.0f} miles from {zipcode}).' if miles else '.'))
             successful_sources = 0
             area_candidates = 0
             for source in sources:
-                if progress:
+                if progress and not dataset:
                     progress(f"{len(processed)} of {lead_count} leads ready. Trying {source.name} in ZIP {search_zip}...")
                 try:
                     limit=max((lead_count-len(processed))*2, 5)
@@ -93,6 +99,8 @@ def generate_leads(zipcode, property_type, lead_count, progress=None):
                                             'candidates': len(candidates)})
                     save_manifest()
                 except Exception as exc:
+                    if dataset:
+                        raise
                     errors.append({'zip': search_zip, 'source': source.name, 'error': type(exc).__name__})
                     save_manifest()
                     if progress:
@@ -101,6 +109,8 @@ def generate_leads(zipcode, property_type, lead_count, progress=None):
                 for lead in candidates:
                     keys = {lead.address.strip().lower(), lead.source_url.strip().lower()} - {''}
                     if not keys or keys & seen:
+                        continue
+                    if dataset and not dataset.claim(lead, run_id):
                         continue
                     seen.update(keys)
                     if callable(getattr(type(source), 'hydrate', None)):
@@ -111,6 +121,7 @@ def generate_leads(zipcode, property_type, lead_count, progress=None):
                             errors.append({'zip': search_zip, 'source': source.name, 'error': 'insufficient_property_photos', 'url': lead.source_url})
                             save_manifest()
                             continue
+                    checked_candidates += 1
                     lead.run_id = run_id
                     lead.zipcode = lead.zipcode or search_zip
                     lead.property_type = property_type
@@ -118,11 +129,16 @@ def generate_leads(zipcode, property_type, lead_count, progress=None):
                     lead_dir = make_lead_dir(run_id, lead.address + '-' + uuid.uuid4().hex[:8])
                     lead.asset_dir = str(lead_dir)
                     if progress:
-                        progress(f'Preparing before/after images: {len(processed)} of {lead_count} leads ready.')
+                        if dataset:
+                            progress(f'Checking property {checked_candidates} from the imported dataset: {len(processed)} of {lead_count} eligible leads ready.')
+                        else:
+                            progress(f'Preparing before/after images: {len(processed)} of {lead_count} leads ready.')
                     # API/authentication/render failures are surfaced immediately, not hidden by
                     # searching and charging for more properties with the same broken configuration.
                     lead.selected_rooms = renderer.select_room_images(lead, lead_dir)
                     if len(lead.selected_rooms) != 2:
+                        if dataset:
+                            dataset.reject(lead, run_id)
                         errors.append({'zip': search_zip, 'source': source.name, 'error': 'no_eligible_indoor_pair', 'url': lead.source_url})
                         save_manifest()
                         continue
@@ -142,6 +158,8 @@ def generate_leads(zipcode, property_type, lead_count, progress=None):
             if consecutive_source_failures >= 3:
                 raise RuntimeError('Property sources are unavailable in three successive ZIP searches. Please retry later.')
         if len(processed) != lead_count:
+            if dataset:
+                raise RuntimeError(f'The imported dataset has only {len(processed)} remaining eligible properties for the requested {lead_count}. No partial report was generated. Add more listings or request fewer leads; no web search was performed.')
             raise RuntimeError(f'Only {len(processed)} of {lead_count} usable leads were found after expanding the search. No incomplete report was marked successful.')
         if progress:
             progress(f'All {lead_count} properties verified. Generating {lead_count*2} epoxy after-images...')
@@ -164,12 +182,16 @@ def generate_leads(zipcode, property_type, lead_count, progress=None):
             lead.status = 'completed'
         append_leads(processed, run_id)
         save_manifest()
+        if dataset:
+            dataset.finish(run_id, True)
         return run_id, processed, str(pdf_path)
     except Exception:
         # Preserve completed image work and record its status even if a later lead fails.
         for lead in processed:
             lead.status = 'incomplete_run'
-        if processed:
+        if dataset:
+            dataset.finish(run_id, False)
+        elif processed:
             append_leads(processed, run_id)
         save_manifest()
         raise

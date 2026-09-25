@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 1,
+      "room_label": "Enclosed garage",
+      "rationale": "Actual photograph of an enclosed garage with visible walls, ceiling, garage door, and clearly visible usable floor around the parked car.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "garage"
+    },
+    {
+      "index": 6,
+      "room_label": "Reading room",
+      "rationale": "Actual photograph of an enclosed interior reading room with visible walls, bookshelves, windows, and substantial exposed floor around the chair.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

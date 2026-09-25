@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 4,
+      "room_label": "Warehouse storage area",
+      "rationale": "Enclosed industrial warehouse with visible walls and a large usable concrete floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 12,
+      "room_label": "Industrial office reception",
+      "rationale": "Enclosed office area with visible walls and a clear, usable floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

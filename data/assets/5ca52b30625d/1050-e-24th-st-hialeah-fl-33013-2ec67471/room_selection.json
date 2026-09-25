@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 5,
+      "room_label": "Industrial workshop",
+      "rationale": "Enclosed industrial workshop with visible masonry walls, machinery, and substantial usable concrete floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 6,
+      "room_label": "Industrial office",
+      "rationale": "Separate enclosed office within the industrial property, with visible walls and clearly exposed tiled floor around the desk.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

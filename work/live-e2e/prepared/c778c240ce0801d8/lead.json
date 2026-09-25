@@ -1,0 +1,160 @@
+{
+  "lead_id": "c778c240ce0801d8",
+  "property_type": "houses",
+  "address": "175 SW 25th Road, Miami, FL, 33129",
+  "city": "",
+  "state": "",
+  "zipcode": "33129",
+  "title": "Single-story house with attached one-car garage",
+  "source_site": "Zillow",
+  "source_url": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+  "price": "$1,249,500",
+  "size": "1,162 sqft",
+  "notes": "Hosted web search response resp_033b3023ee10b25d006ab3522bb68087d08b5daf027aa16170",
+  "category": "",
+  "images": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/d23bcd8d3bf2f02ca7c7132b0857e1b6-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a9841878b3411a4f91b98461d92e3033-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/48f39f1f0e57eb179ba8981e2534e8d1-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c5e03b3640a4163eb805f28f7a3c1e03-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ede1ee2913f702c4163bd1544b56f4ff-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1ac3397b1f2b20f35b564c4a301cbd30-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/5a5a4263a73f3cdb842c9dad11cacb0d-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/7c00fcf72209f418df38edfa2dc3f9fb-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a7dbccb696c5e1cb6c5e06aab3fb4ec0-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/372def15ae0904a94eb01b01a5a53286-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/4856afe776778bbac5d5b70c55c45cf2-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a28a4cf00b9e8e5c816e297c955c4d4a-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d89d8c6d32030b65aa0d151c5c4dd43d-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/d959d44ab3a55baa84dc4d487513d7dd-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/71d05a78fa054da9fdf526a796e3d5ec-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/f3d80eede963b0aa04d6108fff8333dd-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/03292f4d7c2ef7607cf80bc453a80d2c-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/1777e36dbfd51f69d75d7076c5d8f19f-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/ccd7ba5cc9bac4e7126e4906079b32f4-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/6ac5396b029692e63ce8719f44f441e9-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/c0d530e40980e6cfa3a8d7578547b0aa-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/a307137cd7f8b706565c39f931b8bf29-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://photos.zillowstatic.com/fp/50a740870ce365404121c11142778bbf-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/175-25th-Rd-Miami-FL-33129/462104716_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    }
+  ],
+  "selected_rooms": [],
+  "asset_dir": "",
+  "pdf_path": "",
+  "run_id": "",
+  "status": "new"
+}

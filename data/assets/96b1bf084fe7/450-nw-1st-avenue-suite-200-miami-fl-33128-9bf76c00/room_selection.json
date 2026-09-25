@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 1,
+      "room_label": "Gym exercise room",
+      "rationale": "Enclosed indoor gym with visible perimeter walls and extensive, clearly visible usable floor around the exercise equipment.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 3,
+      "room_label": "Locker room",
+      "rationale": "Distinct enclosed locker room with visible walls and ceiling, plus clearly visible usable floor between the lockers and benches.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

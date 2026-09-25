@@ -1,0 +1,34 @@
+{
+  "lead_id": "4dc15fa5edd812b3",
+  "property_type": "commercial properties",
+  "address": "175 SW 7th Street, Suite 1901, Miami, FL 33130",
+  "city": "",
+  "state": "",
+  "zipcode": "33130",
+  "title": "Turnkey Executive Office — Brickell, Suite 1901",
+  "source_site": "LoopNet",
+  "source_url": "https://www.loopnet.com/Listing/175-SW-7th-St-Miami-FL/40026446/",
+  "price": "$63.00/SF/year",
+  "size": "4,855 SF",
+  "notes": "Hosted web search response resp_0de297ad7a47fbb5006ab351bb18b087d0be67ee4603363c17",
+  "category": "",
+  "images": [
+    {
+      "url": "https://images1.loopnet.com/i2/yvFNx0key47PZY4cBx2eomUNnPA7hQPSZhy9JEyGyo8/116/image.jpg",
+      "source": "https://www.loopnet.com/Listing/175-SW-7th-St-Miami-FL/40026446/",
+      "caption": "Principal Conference Room",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://images1.loopnet.com/i2/OK7FqZDWu2lX3w-OyeG1MK0I7ITQ3FhUwIPpJmWCq4g/118/image.jpg",
+      "source": "https://www.loopnet.com/Listing/175-SW-7th-St-Miami-FL/40026446/",
+      "caption": "Interior Photo",
+      "room_type_hint": ""
+    }
+  ],
+  "selected_rooms": [],
+  "asset_dir": "",
+  "pdf_path": "",
+  "run_id": "",
+  "status": "new"
+}

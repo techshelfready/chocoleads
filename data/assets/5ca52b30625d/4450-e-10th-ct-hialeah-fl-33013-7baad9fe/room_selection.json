@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 4,
+      "room_label": "Industrial warehouse",
+      "rationale": "Enclosed warehouse with visible walls, industrial storage racks, and a broad, clearly visible concrete floor suitable for an epoxy-floor concept.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 1,
+      "room_label": "Industrial office",
+      "rationale": "Separate enclosed office within the industrial property, with visible walls and a clearly visible usable floor in front of the desk.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

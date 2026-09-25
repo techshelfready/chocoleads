@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 2,
+      "room_label": "Caf\u00e9 dining room",
+      "rationale": "Enclosed dining room with visible solid and glass walls and a broad, clearly visible usable floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 5,
+      "room_label": "Back-of-house refrigerated storage area",
+      "rationale": "Separate enclosed indoor storage area with visible walls, a ceiling, and a clearly visible tiled walking aisle.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

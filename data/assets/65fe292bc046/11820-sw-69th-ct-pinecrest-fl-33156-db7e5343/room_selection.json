@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 1,
+      "room_label": "Enclosed garage",
+      "rationale": "Closed garage door, visible walls and ceiling, and a broad, unobstructed concrete floor clearly establish an enclosed garage.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "garage"
+    },
+    {
+      "index": 9,
+      "room_label": "Empty interior room",
+      "rationale": "Clearly enclosed room with solid walls, windows, a ceiling, and substantial unobstructed usable floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

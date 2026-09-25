@@ -1,0 +1,81 @@
+{
+  "lead_id": "3750e8d25231f3fa",
+  "property_type": "commercial properties",
+  "address": "2 South Biscayne Boulevard, Miami, FL 33131",
+  "city": "",
+  "state": "",
+  "zipcode": "33131",
+  "title": "Heal Day — Turnkey Cafe at One Biscayne Tower",
+  "source_site": "Compass",
+  "source_url": "https://www.compass.com/homedetails/2-S-Biscayne-Blvd-Miami-FL-33131/1EFGZV_pid/",
+  "price": "$300,000",
+  "size": "2,587 SF",
+  "notes": "Hosted web search response resp_0b5f183bda73e78b006ab352880ae887d0b2d53947b2405814",
+  "category": "",
+  "images": [
+    {
+      "url": "https://www.compass.com/m/8f8ebdb6d07a759c4a0b451f8970523844892529578eb4fb5974e565f3ce4c78/origin.webp",
+      "source": "https://www.compass.com/homedetails/2-S-Biscayne-Blvd-Miami-FL-33131/1EFGZV_pid/",
+      "caption": "2 South Biscayne Boulevard Miami, FL 33131 - Photo 2 of 12",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://www.compass.com/m/abc24a0feb1db4608fa111a3ec4331af6a5dd6247913f3c20ff0670e289e3cd7/origin.webp",
+      "source": "https://www.compass.com/homedetails/2-S-Biscayne-Blvd-Miami-FL-33131/1EFGZV_pid/",
+      "caption": "2 South Biscayne Boulevard Miami, FL 33131 - Photo 3 of 12",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://www.compass.com/m/ba9af78aa8098063ea922c2a966776b764f395d826c717e18ddfa1fb34f922a6/origin.webp",
+      "source": "https://www.compass.com/homedetails/2-S-Biscayne-Blvd-Miami-FL-33131/1EFGZV_pid/",
+      "caption": "2 South Biscayne Boulevard Miami, FL 33131 - Photo 1 of 12",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://www.compass.com/m/115092853c15484b68c41d6f79b7eceb8f9236ea112803d6a808ced5e48a07ad/origin.webp",
+      "source": "https://www.compass.com/homedetails/2-S-Biscayne-Blvd-Miami-FL-33131/1EFGZV_pid/",
+      "caption": "2 South Biscayne Boulevard Miami, FL 33131 - Photo 5 of 12",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://www.compass.com/m/3e56ef574bdcde608d6bf7561c6f99a325665aa63edc472759123b2af9edf590/origin.webp",
+      "source": "https://www.compass.com/homedetails/2-S-Biscayne-Blvd-Miami-FL-33131/1EFGZV_pid/",
+      "caption": "2 South Biscayne Boulevard Miami, FL 33131 - Photo 4 of 12",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://www.compass.com/m/a8e2983bd8bf117f8515bfdfd0966b5b032e4e8574306a472a0a335477cce0e5/origin.webp",
+      "source": "https://www.compass.com/homedetails/2-S-Biscayne-Blvd-Miami-FL-33131/1EFGZV_pid/",
+      "caption": "2 South Biscayne Boulevard Miami, FL 33131 - Photo 6 of 12",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://www.compass.com/m/6d1b7980f3bc5d986d07a502975efc9d9cbe5fbe7e7fe247997fc7e184d616a7/origin.webp",
+      "source": "https://www.compass.com/homedetails/2-S-Biscayne-Blvd-Miami-FL-33131/1EFGZV_pid/",
+      "caption": "2 South Biscayne Boulevard Miami, FL 33131 - Photo 7 of 12",
+      "room_type_hint": ""
+    }
+  ],
+  "selected_rooms": [
+    {
+      "before_image_url": "https://www.compass.com/m/abc24a0feb1db4608fa111a3ec4331af6a5dd6247913f3c20ff0670e289e3cd7/origin.webp",
+      "before_local_path": "work/live-e2e/prepared/3750e8d25231f3fa/candidate_2.webp",
+      "after_local_path": "",
+      "room_label": "Café dining room",
+      "style_label": "Bold Fusion",
+      "rationale": "Enclosed dining room with visible solid and glass walls and a broad, clearly visible usable floor."
+    },
+    {
+      "before_image_url": "https://www.compass.com/m/3e56ef574bdcde608d6bf7561c6f99a325665aa63edc472759123b2af9edf590/origin.webp",
+      "before_local_path": "work/live-e2e/prepared/3750e8d25231f3fa/candidate_5.webp",
+      "after_local_path": "",
+      "room_label": "Back-of-house refrigerated storage area",
+      "style_label": "Royal Current",
+      "rationale": "Separate enclosed indoor storage area with visible walls, a ceiling, and a clearly visible tiled walking aisle."
+    }
+  ],
+  "asset_dir": "",
+  "pdf_path": "",
+  "run_id": "",
+  "status": "new"
+}

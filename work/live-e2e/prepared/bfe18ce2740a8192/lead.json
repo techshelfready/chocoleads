@@ -1,0 +1,99 @@
+{
+  "lead_id": "bfe18ce2740a8192",
+  "property_type": "commercial properties",
+  "address": "1110 Brickell Avenue, Suites 609A & 609B, Miami, FL 33131",
+  "city": "",
+  "state": "",
+  "zipcode": "33131",
+  "title": "Brickell Office Suites 609A & 609B",
+  "source_site": "LoopingCloud",
+  "source_url": "https://loopingcloud.com/commercial/1110-brickell-ave---609a---609b--miami-florida-33131/25629",
+  "price": "$750,000",
+  "size": "885 SF",
+  "notes": "Hosted web search response resp_0b5f183bda73e78b006ab352880ae887d0b2d53947b2405814",
+  "category": "",
+  "images": [
+    {
+      "url": "https://loopingcloud.com/Assets/ListingAttachments/25629/Img/1110-brickell-ave-loopingcloud-10.jpeg",
+      "source": "https://loopingcloud.com/commercial/1110-brickell-ave---609a---609b--miami-florida-33131/25629",
+      "caption": "Office for Sale in Miami Florida 33131",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://loopingcloud.com/Assets/ListingAttachments/25629/Img/1110-brickell-ave-loopingcloud-9.jpeg",
+      "source": "https://loopingcloud.com/commercial/1110-brickell-ave---609a---609b--miami-florida-33131/25629",
+      "caption": "Office for Sale in Miami Florida 33131",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://loopingcloud.com/Assets/ListingAttachments/25629/Img/1110-brickell-ave-loopingcloud-8.jpeg",
+      "source": "https://loopingcloud.com/commercial/1110-brickell-ave---609a---609b--miami-florida-33131/25629",
+      "caption": "Office for Sale in Miami Florida 33131",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://loopingcloud.com/Assets/ListingAttachments/25629/Img/1110-brickell-ave-loopingcloud-7.jpeg",
+      "source": "https://loopingcloud.com/commercial/1110-brickell-ave---609a---609b--miami-florida-33131/25629",
+      "caption": "Office for Sale in Miami Florida 33131",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://loopingcloud.com/Assets/ListingAttachments/25629/Img/1110-brickell-ave-loopingcloud-6.jpeg",
+      "source": "https://loopingcloud.com/commercial/1110-brickell-ave---609a---609b--miami-florida-33131/25629",
+      "caption": "Office for Sale in Miami Florida 33131",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://loopingcloud.com/Assets/ListingAttachments/25629/Img/1110-brickell-ave-loopingcloud-3.jpeg",
+      "source": "https://loopingcloud.com/commercial/1110-brickell-ave---609a---609b--miami-florida-33131/25629",
+      "caption": "Office for Sale in Miami Florida 33131",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://loopingcloud.com/Assets/ListingAttachments/25629/Img/1110-brickell-ave-loopingcloud-4.jpeg",
+      "source": "https://loopingcloud.com/commercial/1110-brickell-ave---609a---609b--miami-florida-33131/25629",
+      "caption": "Office for Sale in Miami Florida 33131",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://loopingcloud.com/Assets/ListingAttachments/25629/Img/1110-brickell-ave-loopingcloud-5.jpeg",
+      "source": "https://loopingcloud.com/commercial/1110-brickell-ave---609a---609b--miami-florida-33131/25629",
+      "caption": "Office for Sale in Miami Florida 33131",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://loopingcloud.com/Assets/ListingAttachments/25629/Img/1110-brickell-ave-loopingcloud-1.jpeg",
+      "source": "https://loopingcloud.com/commercial/1110-brickell-ave---609a---609b--miami-florida-33131/25629",
+      "caption": "Office for Sale in Miami Florida 33131",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://loopingcloud.com/Assets/ListingAttachments/25629/Img/1110-brickell-ave-loopingcloud-2.jpeg",
+      "source": "https://loopingcloud.com/commercial/1110-brickell-ave---609a---609b--miami-florida-33131/25629",
+      "caption": "Office for Sale in Miami Florida 33131",
+      "room_type_hint": ""
+    }
+  ],
+  "selected_rooms": [
+    {
+      "before_image_url": "https://loopingcloud.com/Assets/ListingAttachments/25629/Img/1110-brickell-ave-loopingcloud-9.jpeg",
+      "before_local_path": "work/live-e2e/prepared/bfe18ce2740a8192/candidate_2.jpeg",
+      "after_local_path": "",
+      "room_label": "Office waiting room",
+      "style_label": "Bold Fusion",
+      "rationale": "Enclosed indoor waiting room with clearly visible walls, ceiling, and a substantial usable carpeted floor area between the chairs."
+    },
+    {
+      "before_image_url": "https://loopingcloud.com/Assets/ListingAttachments/25629/Img/1110-brickell-ave-loopingcloud-3.jpeg",
+      "before_local_path": "work/live-e2e/prepared/bfe18ce2740a8192/candidate_6.jpeg",
+      "after_local_path": "",
+      "room_label": "Main reception lobby",
+      "style_label": "Royal Current",
+      "rationale": "Distinct enclosed indoor lobby with visible walls and ceiling, plus a broad, clearly visible tiled floor suitable for an epoxy-floor concept."
+    }
+  ],
+  "asset_dir": "",
+  "pdf_path": "",
+  "run_id": "",
+  "status": "new"
+}

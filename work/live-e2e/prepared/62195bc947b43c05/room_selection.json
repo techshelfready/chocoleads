@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 1,
+      "room_label": "Main dining area",
+      "rationale": "Enclosed indoor dining area with visible walls and clearly visible usable floor between and around the tables.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 3,
+      "room_label": "Lounge seating area",
+      "rationale": "Distinct enclosed indoor lounge area with visible wood-paneled walls and usable floor around the sofas, chairs, and coffee tables.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

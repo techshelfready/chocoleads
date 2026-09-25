@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 1,
+      "room_label": "Pilates reformer studio",
+      "rationale": "Enclosed studio with visible mural and mirrored walls, a ceiling, and substantial usable floor visible around the reformers.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 2,
+      "room_label": "Strength-training gym",
+      "rationale": "Distinct enclosed gym area with visible solid walls, windows, and an indoor ceiling; usable floor is clearly visible between the strength-training machines.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

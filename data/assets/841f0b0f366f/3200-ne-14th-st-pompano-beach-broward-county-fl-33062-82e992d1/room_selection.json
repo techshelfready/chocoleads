@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 7,
+      "room_label": "Lobby",
+      "rationale": "Enclosed lobby with visible walls and a large, usable floor area.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 15,
+      "room_label": "Office",
+      "rationale": "Enclosed office with visible walls and usable floor around the desks.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

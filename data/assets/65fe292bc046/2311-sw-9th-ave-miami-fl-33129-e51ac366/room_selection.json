@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 1,
+      "room_label": "Enclosed garage",
+      "rationale": "Enclosed garage with visible side and rear walls, overhead garage-door hardware, and a large unobstructed floor area.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "garage"
+    },
+    {
+      "index": 9,
+      "room_label": "Kitchen",
+      "rationale": "Indoor kitchen with clearly visible walls and a substantial exposed floor area between the cabinets and appliances.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

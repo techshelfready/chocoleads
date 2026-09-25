@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 1,
+      "room_label": "Lounge seating room",
+      "rationale": "Enclosed indoor lounge with visible walls, ceiling, and doors; usable carpeted floor is clearly visible between the chairs and tables.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 2,
+      "room_label": "Walk-in cigar display room",
+      "rationale": "Distinct enclosed display room with visible wood-paneled walls and ceiling, plus a clear, unobstructed tiled floor area.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 27,
+      "room_label": "Enclosed garage recreation room",
+      "rationale": "Enclosed garage with a visible sectional garage door, surrounding walls, and exposed usable floor around the seating and games.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "garage"
+    },
+    {
+      "index": 10,
+      "room_label": "Billiards room",
+      "rationale": "Enclosed interior room with clearly visible walls and substantial usable floor surrounding the pool table.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

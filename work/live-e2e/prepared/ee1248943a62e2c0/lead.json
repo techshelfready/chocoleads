@@ -1,0 +1,28 @@
+{
+  "lead_id": "ee1248943a62e2c0",
+  "property_type": "houses",
+  "address": "1525 S Miami Ave, Miami, FL, 33129",
+  "city": "",
+  "state": "",
+  "zipcode": "33129",
+  "title": "Contemporary single-family house with attached two-car garage",
+  "source_site": "Zillow",
+  "source_url": "https://www.zillow.com/homedetails/1525-S-Miami-Ave-Miami-FL-33129/43866469_zpid/",
+  "price": "$5,319,000 (sold)",
+  "size": "4,618 sqft",
+  "notes": "Hosted web search response resp_033b3023ee10b25d006ab3522bb68087d08b5daf027aa16170",
+  "category": "",
+  "images": [
+    {
+      "url": "https://photos.zillowstatic.com/fp/49617b320e8b665bc00638ecdc910e12-cc_ft_1536.jpg",
+      "source": "https://www.zillow.com/homedetails/1525-S-Miami-Ave-Miami-FL-33129/43866469_zpid/",
+      "caption": "",
+      "room_type_hint": ""
+    }
+  ],
+  "selected_rooms": [],
+  "asset_dir": "",
+  "pdf_path": "",
+  "run_id": "",
+  "status": "new"
+}

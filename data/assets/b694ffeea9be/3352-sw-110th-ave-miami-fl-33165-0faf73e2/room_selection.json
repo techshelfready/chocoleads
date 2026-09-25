@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 23,
+      "room_label": "Enclosed garage with gym equipment",
+      "rationale": "Visible walls, ceiling, and closed sectional garage door establish an enclosed garage. Usable floor is clearly visible around the exercise equipment.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "garage"
+    },
+    {
+      "index": 25,
+      "room_label": "Laundry room",
+      "rationale": "An enclosed indoor laundry room with visible walls, cabinetry, and appliances, plus a clearly visible usable floor aisle.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

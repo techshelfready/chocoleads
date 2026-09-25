@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 2,
+      "room_label": "Main dining area",
+      "rationale": "Enclosed dining area with visible interior walls and a clearly exposed floor aisle between the tables, distinct from the bar seating area.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 3,
+      "room_label": "Indoor bar seating area",
+      "rationale": "Enclosed bar area with visible walls and windows, plus usable floor clearly visible around the stools and high tables.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

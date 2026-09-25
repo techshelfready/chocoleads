@@ -1,0 +1,827 @@
+{
+  "id": "resp_0051b4a8be440fb1006ab34f6c846c87d0a56a2ed2b372c919",
+  "created_at": 1790136173.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "gpt-6-astra",
+  "object": "response",
+  "output": [
+    {
+      "id": "ws_0051b4a8be440fb1006ab34f7004c087d0ab1cb4bd0bac588e",
+      "action": {
+        "type": "search",
+        "queries": [
+          "site.bizbuysell.com Miami \"33130\" restaurant",
+          "site.bizbuysell.com Miami restaurant \"33135\""
+        ],
+        "query": "site.bizbuysell.com Miami \"33130\" restaurant",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://www.bizbuysell.com/shared/listings/227/2272329/4239fa93-e1fe-4b0d-ad8f-f849680c3062.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://images.bizbuysell.com/shared/listings/206/2063640/dc46d38d-ae55-4670-98b0-bfec7febb815.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.uszip.com/zip/33135"
+          },
+          {
+            "type": "url",
+            "url": "https://www.loopnet.com/search/restaurants/miami-fl-33135/for-sale/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.commercialcafe.com/commercial-property/us/fl/miami/turnkey-restaurant-opportunity-brickell/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.loopnet.com/Listing/521-SW-8th-St-Miami-FL/34834629/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.loopnet.com/Listing/801-S-Miami-Ave-Miami-FL/40717187/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.partyslate.com/venues/sexy-fish-miami"
+          },
+          {
+            "type": "url",
+            "url": "https://southfloridacommercialpropertysearch.com/properties/FL/Miami/33130/10178/169-sw-7th-st-cu-c-cu-d-miami-fl-33130/654879577"
+          },
+          {
+            "type": "url",
+            "url": "https://southfloridacommercialpropertysearch.com/properties/FL/Homestead/33130/10178/restaurant-for-sale-in-flagler-street-homestead-homestead-fl-33130/494443636"
+          },
+          {
+            "type": "url",
+            "url": "https://realprogroup.com/BUS/BusviewR2.php?view=9742"
+          },
+          {
+            "type": "url",
+            "url": "https://southfloridacommercialpropertysearch.com/properties/FL/Miami/33135/10178/1201-w-flagler-st-miami-fl-33135/494504673"
+          },
+          {
+            "type": "url",
+            "url": "https://www.crexi.com/properties/2214302/florida-take-out-restaurant"
+          },
+          {
+            "type": "url",
+            "url": "https://images1.showcase.com/d2/CECtgQlgNestYYy3IN1CvQrQcf1Ky6Esmyobu1ay0T8/document.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.premierlistings.com/property-search/detail/33/A11994115/little-havana-restaurant-opportunity-miami-fl-33135/"
+          },
+          {
+            "type": "url",
+            "url": "https://ufdcimages.uflib.ufl.edu/AA/00/06/92/21/00223/10-01-2015.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://ufdcimages.uflib.ufl.edu/AA/00/06/92/21/00142/04-03-2014.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://dpanther.fiu.edu/sobek/content/FI/13/06/10/40/00001/FI13061040%20-%20part%202.pdf"
+          }
+        ]
+      },
+      "status": "completed",
+      "type": "web_search_call",
+      "results": [
+        {
+          "type": "text_result",
+          "snippet": "citeturn0search12 [wordlim: 200] Published: 3 months ago; Miami FL, 33135 ... Cafeteria/Restaurant in the Heart of\nFAUSTOCOMMERCIAL.COM\nPRICE:  $120,000\n1713 W FLAGLER ST\nMiami FL, 33135\nUnit Size: 850 Sqft\nLease Rate: $3,500\nLease Term: New/Negotiable \n\"Business For Sale”\nP r o p e r t y  H i g h l i g h t s :\n- G r e a s e  T r a p\n- H o o d  S y s t e m\n- F r y e r s\n- C o f f e e  M a c h i n e s\n- F r e e z e r\n- B a r\n- O n e  B a t h r o o m\n- P r i m e  L i t t l e  H a v a n a  \nWell-Known, \nLong-Running,\nNeighborhood \nVenezuelan\nCafeteria/Restaurant in the Heart of\nLittle Havana right on W Flagler\nStreet. Massive upward trajectory for\nsales as Little Havana population\ncontinues to swell, with an area\npopulation of 100,000+. The site\nfeatures indoor and outdoor seating,\ngrease trap, hood, fryers and great\nprospects for delivery business. The\nbusiness is conveniently located\nright of W Flagler Street and near\nmany residential developments.\nALESSANDRO LIMA\nC: 305.281.4469 \nE: AML@FAUSTOCOMMERCIAL.COM\nVISIT FAUSTOCOMMERCIAL.COM\n1761 W FLAGLER ST, MIAMI, 33135",
+          "title": "flyer template",
+          "url": "https://www.bizbuysell.com/shared/listings/227/2272329/4239fa93-e1fe-4b0d-ad8f-f849680c3062.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn0search13 [wordlim: 200] Published: 5.0 years ago; <tr><td>Sterlin</td><td>Banks</td><td>1090 SW First Ave</td><td>Miami</td><td>Florida</td><td>33130</td><td>(305) 384-8307</td></tr> ... <tr><td>Antonino</td><td>Puleo</td><td>100 Lincoln Road</td><td>Miami Beach</td><td>Florida</td><td>33139</td><td>(786) 779-6508</td></tr>\n<tr><td>Frank</td><td>Morgado</td><td>2891 Gulfstream Rd</td><td>Lake Worth</td><td>Florida</td><td>33461</td><td>(561) 860-4987</td></tr>\n<tr><td>Kaliet</td><td>Perez</td><td>3070 McSherry Drive</td><td>Lake Worth</td><td>Florida</td><td>33461</td><td>(239) 603-1270</td></tr>\n<tr><td>Yaimerys</td><td>Socarras</td><td>2891 Gulfstream Rd</td><td>Lake Worth</td><td>Florida</td><td>33461</td><td>(786) 759-3141</td></tr>\n<tr><td>Herlane</td><td>Barthelemy</td><td>138 N 13th Street</td><td>Lantana</td><td>Florida</td><td>33462</td><td>(561) 584-3312</td></tr>\n<tr><td>Saget</td><td>Demosthene</td><td>513 S 12th Street</td><td>Lantana</td><td>Florida</td><td>33462</td><td>(561) 503-5905</td></tr>\n<tr><td>Sterlin</td><td>Banks</td><td>1090 SW First Ave</td><td>Miami</td><td>Florida</td><td>33130</td><td>(305) 384-8307</td></tr>\n<tr><td>Francisco Gricken</td><td>Carlos Boet</td><td>9001 SW 94th Street</td><td>Miami</td><td>Florida</td><td>33176</td><td></td></tr>\n<tr><td>William</td><td>Gonzalez</td><td>274 NW 64th Court</td><td>Miami</td><td>Florida</td><td>33126</td><td></td></tr>\n<tr><td>Niurka</td><td>Segura</td><td>14752 NE 6th Ave</td><td>Miami</td><td>Florida</td><td>33161</td><td></td></tr>\n",
+          "title": "_",
+          "url": "https://images.bizbuysell.com/shared/listings/206/2063640/dc46d38d-ae55-4670-98b0-bfec7febb815.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn0search0 [wordlim: 200] Crawled: 5 days ago; The page on USZIP.com for the ZIP code 33135 provides a comprehensive overview of this area in Miami, FL. ... Restaurant name  | Address  | Cuisine  | Phone ... Miami, FL 33135  | Fast Food, Hamburgers  | 305-541-0485\n## Restaurants, dining rooms and coffee shops in 33135\n\nRestaurant name  | Address  | Cuisine  | Phone\n--- | --- | --- | ---\nEl Christo  | 1543 SW 8th St\nMiami, FL 33135  | Cuban, Pastries, Sandwiches, Seafood, Steaks, Vegetarian  | 305-643-9992\nAyestaran  | 706 SW 27th Ave\nMiami, FL 33135  | Cuban, International, Spanish  | 305-649-4982\nBurger King  | 2390 W Flagler St\nMiami, FL 33135  | Fast Food, Hamburgers  | 305-541-0485\nCasa Juancho  | 2436 SW 8th St\nMiami, FL 33135  | Cuban, Spanish  | 305-642-2452\nCasa Panza  | 1620 SW Eighth St\nMiami, FL 33135  | Spanish  | 305-643-5343\nCatharsis Restaurant + Lounge  | 1644 SW 8th Street\nMiami, FL 33135  | Latin American  | 305-479-2746\nDomino's Pizza  | 1573 Sw 8th St\nMiami, FL 33135  | Pizza  | 305-642-2583\nEl Atlakat  | 3199 SW 8th St\nMiami, FL 33135  | Spanish  | 305-649-8000\nEl Pub Restaurant  | 1548 SW 8th St\nMiami, FL 33135  | Cuban  | 305-642-9942\nEl Rey De Las Fritas  | 1821 SW 8th St\nMiami, FL 33135  | Cuban  | 305-644-6054\nExquisito Restaurant  | 1510 SW 8th St\nMiami, FL 33135  | Cuban  | 305-643-0227\nGuayacan Restaurant  | 1933 SW 8th St\nMiami, FL 33135  | Nicaraguan  | 305-649-2015\nHy-Vong  | 3458 SW 8th St\nMiami, FL 33135  | Vietnamese  | 305-446-3674\nLa Carreta  | 3632 SW 8th St\nMiami, FL 33135  | Chops, Cuban, Salads, Sandwiches, Seafood  | 305-444-7501\nMcDonald's  | 2940 Sw 8th St\nMiami, FL 33135  | Fast Food, Hamburgers, Sandwiches  | 305-541-4768\nMcDonald's  | 1400 Sw 8th St\nMiami, FL 33135  | Fast Food, Hamburgers, Sandwiches  | 305-285-0974\nMi Rinconcito Mexicano  | 1961 SW 8th St\nMiami, FL 33135  | Mexican  | 305-644-4015\nMr Yum  | 1945 SW 8th St\nMiami, FL 33135  | Japanese, Sushi, Thai  | 786-360-2371\nPizza Hut  | 1529 SW 8th St\nMiami, FL 33135  | Italian, Pizza, Salads  | 305-642-4411\nRey Pizza  | 2391 W Flagler St\nMiami, FL 33135  | Pizza  | 305-856-7535\nYambo  | 1643 SW First St\nMiami, FL 33135  | Nicaraguan  | 305-649-0203\n\n",
+          "title": "Miami, FL ZIP code : 33135",
+          "url": "https://www.uszip.com/zip/33135"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn0search1 [wordlim: 200] Crawled: 4 months ago; ###### LUXURY CORAL GABLES Restaurant FOR LEASE ... ## Restaurants for Sale in 33135 (Miami)\n\nBlue Listings from CoStar are offered to broker professionals like you. Blue pins are NOT shown to the millions of regular LoopNet users.\n\n# Restaurants for Sale in 33135\n\n16 Results\n\n  * Selected\n  * [Button: Select All]\n  * [Button: Clear]\n\n  * Generate Reports\n  * The following listings have unknown addresses\n\n  *     * Image: Florida Commercial Property Investment Group\n\nImage: More details for 1000 SW 8th St, Miami, FL - Retail for Sale\n\n#### 1000 SW 8th St\n\nMiami, FL 33130\n\n    * $5,620,000\n    * 8,959 SF Retail Building\n    * Built in 1924\n\n  *     * Image: Florida Realty of Miami\n\nImage: More details for 441-455 SW 8th St, Miami, FL - Retail for Sale\n\n#### 441-455 SW 8th St\n\nMiami, FL 33130\n\n    * $280,000\n    * 9,731 SF Retail Building\n    * Built in 1969\n\n  *     * Image: Canvas Real Estate\n\nImage: More details for 3595 NW 54th St, Miami, FL - Industrial for Sale\n\nMiami, FL 33127\n\n    * Price Upon Request\n    * 6,695 SF Retail Building\n    * Built in 1951\n\n  *     * Image: DWNTWN Realty Advisors\n\nImage: More details for The Campus on 5th – Retail for Sale, Miami, FL\n\n#### The Campus on 5th\n\n    * Price Upon Request\n    * 5 Retail Properties\n\n  *     * Image: RD Group\n\nImage: More details for Coral Way Portfolio 1820-1830 SW 3rd Ave – Retail for Sale, Miami, FL\n\n#### Coral Way Portfolio 1820-1830 SW 3rd Ave\n\n    * Price Upon Request\n    * 2 Retail Properties\n\n  *     * Image: Fortune Christie's International\n\nImage: More details for 1200 Brickell Ave, Miami, FL - Office for Sale\n\n#### 1200 Brickell Ave\n\n###### Retail Former BB&T Bank\n\nMiami, FL 33131\n\n    * Price Upon Request\n    * 2 Units Available\n    * Office and Retail Condos\n\n  * Image: More details for Income-Producing Redevelopment – for Sale, Miami, FL\n\n#### Income-Producing Redevelopment\n\n    * $9,000,000\n    * 2 Properties | Mixed Types\n\n\n## Restaurants for Sale in 33135 (Miami)\n\nCITIES\n\n  * Miami Restaurants\n  * Fort Lauderdale Restaurants\n  * Hollywood Restaurants\n  * Coral Gables Restaurants\n  * Dania Beach Restaurants",
+          "title": "Restaurants for Sale in 33135 (Miami) | LoopNet",
+          "url": "https://www.loopnet.com/search/restaurants/miami-fl-33135/for-sale/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn0search2 [wordlim: 200] Crawled: today; ## 871 South Miami Avenue, Miami, FL 33130 ... Strategically located in Brickell, Miami’s premier urban district, characterized by a dense residential population, major financial institutions, and a high-spending consumer base.FA Commercial is pleased to present an exclusive off-market business sale opportunity for a fully built, high-end restaurant.\n\n# Turnkey Restaurant Opportunity | Brickell\n\n## 871 South Miami Avenue, Miami, FL 33130\n\n### Property Information\n\n  * For Lease Contact for pricing\n  * Property Type Retail - Street Retail\n  * Property Size 4,900 SF\n  * Lot Size 1 Acre\n  * Date Updated Sep 17, 2026\n\n### Description\n\nStrategically located in Brickell, Miami’s premier urban district, characterized by a dense residential population, major financial institutions, and a high-spending consumer base.FA Commercial is pleased to present an exclusive off-market business sale opportunity for a fully built, high-end restaurant. This turnkey space features complete kitchen infrastructure, bar build-out, HVAC, and FF&E, offering immediate operational capability with minimal downtime and capital expenditure. The existing layout and infrastructure provide flexibility for a variety of culinary concepts, making it an ideal opportunity for operators seeking a seamless entry into a prime, high-demand location.\n\n### Highlights\n\n  * Existing high-end infrastructure and layout\n",
+          "title": "871 South Miami Avenue, Miami, FL 33130 | CommercialCafe.com",
+          "url": "https://www.commercialcafe.com/commercial-property/us/fl/miami/turnkey-restaurant-opportunity-brickell/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn0search3 [wordlim: 200] Published: 1.6 years ago; Crawled: 2 months ago;   * Rare opportunity to acquire a turnkey, fully licensed restaurant and speakeasy in the heart of Miami’s vibrant Urban Core. ... The Little Havana Retail Property at 521 SW 8th St, Miami, FL 33130 is no longer being advertised on LoopNet.com.\n\n# 521 SW 8th St\nMiami, FL 33130\nWest Brickell Restaurant & Speakeasy · Retail Property For Sale\n\n## \n\nImage: 521 SW 8th St, Miami, FL for sale - Building Photo - Image 1 of 1\n\n### Investment Highlights\n\n  * Rare opportunity to acquire a turnkey, fully licensed restaurant and speakeasy in the heart of Miami’s vibrant Urban Core.\n  * Upgrades in the past 7 yrs include electrical and plumbing systems, 2 GBD 250 grease traps (2021), kitchen hood, freezers, elevator lift, HVAC system\n  * Outside Seating Waiver approved April 2024 – 78 occupants\n\n  * Fully licensed restaurant and bar w/ seating capacity for over 227 patrons indoors, 4COP-SFS Alcoholic Beverage & Tobacco License, and outdoor seating\n  * Full Kitchen with all equipment included in the sale\n  * Prime location with over 24,000 vehicles per day and direct access to I-95 on and off-ramps.\n\n### Property Facts\n\nProperty Type\n\nRetail\n\nProperty Subtype\n\nRestaurant\n\nBuilding Size\n\n5,920 SF\n\nBuilding Class\n\nC\n\nYear Built\n",
+          "title": "521 SW 8th St, Miami, FL 33130 | LoopNet",
+          "url": "https://www.loopnet.com/Listing/521-SW-8th-St-Miami-FL/34834629/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn0search4 [wordlim: 200] Crawled: 6 days ago; # Turnkey Restaurant Opportunity | Brickell 801 S Miami Ave 450 Unit Apartment Building $650,000 ($1,444/Unit) Miami, FL 33130\n\n# Turnkey Restaurant Opportunity | Brickell 801 S Miami Ave 450 Unit Apartment Building $650,000 ($1,444/Unit) Miami, FL 33130\n\nImage: 801 S Miami Ave, Miami, FL for sale - Interior Photo - Image 1 of 12\n\nImage: 801 S Miami Ave, Miami, FL for sale - Interior Photo - Image 2 of 12\n\nImage: 801 S Miami Ave, Miami, FL for sale - Interior Photo - Image 3 of 12\n\nMap\n\nSaved Save to Favorites\n\n#### Save this listing!\n\nFavorite this listing to get notified of price updates, new media and more\n\n### Investment Highlights\n\n  * Turnkey Luxury Restaurant Space\n  * 1,413 SF Ground Floor + 3,498 SF Mezzanine\n\n  * Business Sale with Key Money\n  * $22/SF NNN\n\n### Executive Summary\n\nTurnkey Luxury Restaurant Space\nBusiness Sale with Key Money\n1,413 SF ground floor + 3,498 SF mezzanine\n$4.5M+ replacement cost\nFully built-out with FF&E, HVAC, hoods, grease trap & bar\nLocated within a high-end mixed-use development\nStrong built-in foot traffic and affluent customer base\n  * Washer/Dryer\n  * Kitchen\n  * Hardwood Floors\n\n  * Refrigerator\n  * Oven\n  * Stainless Steel Appliances\n  * Tub/Shower\n\n  * Walk-In Closets\n  * Wheelchair Accessible (Rooms)\n  * Quartz Countertops\n  * Floor to Ceiling Windows\n\n### Site Amenities\n\n  * Concierge\n  * Fitness Center\n  * Playground\n\n  * Pool\n  * Spa\n  * Tennis Court\n\n  * Grill\n  * Elevator\n\n  * Lounge\n  * Multi Use Room\n\n[Input]\n\n1 1\n\n  * Aerial\n  * Map\n\nImage: 801 S Miami Ave, Miami, FL - Aerial map view - Image1\n\nExceptionally walkable\n\n90/100\n\nModerately drivable\n\n70/100\n\nExceptional public transit\n\n100/100\n\nFairly bikeable\n\n50/100\n\nSource: Local Logic^{®}\n\n### Property Taxes\n\nParcel Numbers  | Multiple\n\n  * 01-0205-050-1045\n  * 01-0205-050-1055\n | Improvements Assessment  | $0\nLand Assessment  | $0  | Total Assessment  | $20,627,695\n\n### Property Taxes\n\nParcel Numbers\n\nMultiple\n\n  * 01-0205-050-1045\n  * 01-0205-050-1055\n\nLand Assessment\n\n$0\n\nImprovements Assessment\n\n$0\n\nTotal Assessment\n\n$20,627,695\n\n[Button: Call ] (786) 905-3140\n\n[Button: Message ]\n\n#### Still interested?\n\nContact the brokers for more information about this property\n\n### Contacts\n\n  * Fabio F. Faerman\n\n  * Sebastian Faerman\n\n  * Fortune Christie's International\n\n  * #### Listing ID: 40717187\n\n  * #### Date on Market: 5/29/2026\n\n  * #### Last Updated:\n\n  * #### Address: 801 S Miami Ave, Miami, FL 33130",
+          "title": "801 S Miami Ave, Miami, FL 33130 - Turnkey Restaurant Opportunity | Brickell | LoopNet",
+          "url": "https://www.loopnet.com/Listing/801-S-Miami-Ave-Miami-FL/40717187/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn0search5 [wordlim: 200] Crawled: yesterday; 1001 S Miami Ave, Miami, FL 33130, USA ... The restaurant offers multiple options for events from a semi-private table within the main restaurant, a dedicated private reception or dining room, alternatively larger receptions or buy outs within the main restaurant.\nPrivate dining room, The Rainbow Reef Room, is available for up to 45 guests - seated and 50 guests - standing. Semi-private space, The Chef's Table available for up to 20 guests. Large tables available for groups of 12 or more.\n\n[Button: Read More]\n\n## Event Spaces 5\n\n250 max seated • 350 max standing\n\n2 Full Restaurant - Exclusive Hire 250 Seated 350 Standing Restaurant2 Poseidon's Table 22 Seated Restaurant1 Bar 100 Standing Restaurant1 The Chef's Table 20 Seated Restaurant4 The Rainbow Reef Room 45 Seated 50 Standing Restaurant\n\n## Pricing Packages\n\nUpdated 10 months ago\n\n  * ### The Rainbow Reef Room First seating\n\nMinimum Spend\n    $10,000\n\n[Button: Request a Quote]\n\n## Amenities\n\n  * A/V Equipment\n\n  * Coat Check\n\n  * Handicap Accessible\n\n  * Kosher Kitchen\n\n  * Media Room\n\n  * Pet Friendly\n\n  * Pool\n\n  * Street Parking\n\n  * Valet Parking\n\n  * WiFi\n\n  * Windows\n\n  * Dance Floor\n\n  * Breakout Rooms\n\nIn-house caterer only\n\nIn-house suppliers only\n\n## FAQs 12\n\nDoes the venue offer on-site catering options?\n    Japanese inspired restaurant\n\nIs the venue handicap accessible?\n    Yes\n\nIs there a venue coordinator available to help with event logistics?\n    Yes\n\nDoes the venue have an approved or preferred vendor list?\n    Yes\n\nIs there a venue coordinator available to help with event logistics?\n    Yes\n\n[Button: View All]\n\n## Map\n\n1001 S Miami Ave, Miami, FL 33130, USA",
+          "title": "Sexy Fish Miami | Miami Venue | PartySlate",
+          "url": "https://www.partyslate.com/venues/sexy-fish-miami"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn0search6 [wordlim: 200] Crawled: last week; Miami, FL 33130 ... Ideal for restaurant, café, boutique retail, fitness, showroom, or service-oriented concepts seeking a vibrant, high-exposure Brickell location.\n\n# 169 SW 7th St, #CU-C & CU-D\n\nMiami, FL 33130\n\n3,522 sqft\n\n$75\n\nActive\n\nShowing Info\n\n## Property Description\n\nPrime Brickell retail space offering ±3,522 SF of ground-floor area + an additional ±300 SF outdoor terrace. Exceptional street visibility along SW 7th Street and 1st Avenue with strong pedestrian and vehicle traffic throughout the day and evening. Surrounded by residential towers, Class-A office buildings, hotels, and transit connections, creating consistent demand for retail, dining, and service uses. The area features high residential density, significant daytime employment, strong purchasing power, and a walkable urban environment. Ideal for restaurant, café, boutique retail, fitness, showroom, or service-oriented concepts seeking a vibrant, high-exposure Brickell location. The space has an open layout and can be delivered either as a vanilla shell or in its current as-is condition\n\n## Property Details\n\n### Essential\n\n  * Status Active\n  * Days On Site 301\n  * MLS#A11915404\n  * Property Type Commercial Sale\n  * Property Sub Type Retail\n  * Number of Stories 1.0\n  * Property Size 3,522 sqft\n  * Lot Size Square Feet\n  * Tax Amount$16,414\n  * HOA No\n  * Data Source Miami Association of REALTORS®\n  * Latest Update 06/29/2026",
+          "title": "169 SW 7th St, #CU-C & CU-D",
+          "url": "https://southfloridacommercialpropertysearch.com/properties/FL/Miami/33130/10178/169-sw-7th-st-cu-c-cu-d-miami-fl-33130/654879577"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn0search7 [wordlim: 200] Published: 3 months ago; Crawled: 2 months ago; Homestead, FL 33130 ... *****THIS CAN SERVE AS A GHOST KITCHEN OR BUSINESS VISA OPPORTUNITY ******You can apply for Beer and Wine License ******** Well-established and successful Business/ Restaurant (Puerto Rican food )for sale due to Owner's health. ...   * Data Source Miami Association of REALTORS®\n\n# Restaurant For Sale in Flagler Street Homestead\n\nHomestead, FL 33130\n\n$90,000\n\nClosed\n\n## Property Description\n\n*****THIS CAN SERVE AS A GHOST KITCHEN OR BUSINESS VISA OPPORTUNITY ******You can apply for Beer and Wine License ******** Well-established and successful Business/ Restaurant (Puerto Rican food )for sale due to Owner's health. The lease is $2388 per month. Asset sale with great revenue of @$300,000 per year, even though closed 2 days a week. (Tuesday and Wednesday). This restaurant can accommodate about 28 guests. 1200 SQUARE FT. Also has room outdoors but not used at the time. 4.6 google review 575 reviews. Please don't disturb the operating business, clients, or staff. CAMPBELL DRIVE PAID BUS STOP OPENING SOON NEXT TO THE RESTAURANT TO DRIVE MORE TRAFFIC. Youtube Video Available. CALL US ANYTIME, WE PICK UP!\n\n\n## Property Details\n\n### Essential\n\n  * Status Closed\n  * Days On Site 1109\n  * Days To Sale 39\n  * MLS#A11408640\n  * Property Type Business Opportunity\n  * Lot Size Square Feet\n  * HOA No\n  * Data Source Miami Association of REALTORS®\n  * Latest Update 06/06/2026",
+          "title": "Restaurant For Sale in Flagler Street Homestead",
+          "url": "https://southfloridacommercialpropertysearch.com/properties/FL/Homestead/33130/10178/restaurant-for-sale-in-flagler-street-homestead-homestead-fl-33130/494443636"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn0search8 [wordlim: 200] Published: 3.0 years ago; Crawled: last month; ..8TH ST Miami FL, 33130 ... Well-known, long-running Sushi Restaurant.\n\n# Business Opportunities: Food\n\nTheir are 38 Images for this Propety Click Photo to View All Images\nClick Here to Map This Property\nArea Information & Zip Code Map\n | \n..8TH ST Miami FL, 33130\nPrice: $225,000\nCounty: Miami-Dade County\nParking Spaces:\nSale Of: Business Only\nSale Includes: Equipment,Inventory,Leases,License\nID#: 1011453859\nListed Date: 2023-09-15\nProperty Description:   RESTAURANT\nNumber of Employees: 10\nNumber of Offices: 1\nNumber of Seats: 45\nStatus of Listing: Active\nYear Established: 6\nIncome/Expense Period: 0\nParking Description: Common Parking,Free Parking\nRoad Frontage: City Road\nWell-known, long-running Sushi Restaurant. Turn-key in the heart of Brickell. The business has six years of operations, and the lease can be extended for five or ten years. Premises are 1400 sqft equipped with more than one cooler freezer, hood, grease trap, food separation table, and full kitchen. Seating capacity: 45 seats inside, and can also add two tables outside. Excellent lunch business and point for delivery. Beer and wine license. This is a fantastic opportunity if you are looking for a restaurant in the Brickell area.\nClick Here to email this listing to a Friend\n\nRealPro Group, Inc.\nLicensed Real Estate Broker\nImage: Equal Housing Opportunity  | \nJoe A. Ardolino\nBroker\nPhone: 305 710-0119\n | Image: Realtor - Multiple Listing Service\njoe@realprogroup.com",
+          "title": "South Florida Business For Sale - Miami-Dade, Broward and Palm Beach County",
+          "url": "https://realprogroup.com/BUS/BusviewR2.php?view=9742"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn0search9 [wordlim: 200] Published: 1.3 years ago; Crawled: 5 months ago; Miami, FL 33135 ... Fausto Commercial is pleased to present “La Pizzeria” Set Up Your Restaurant on W Flagler St.\n\n# 1201 W Flagler St\n\nMiami, FL 33135\n\n1,500 sqft\n\n$7,000\n\n\n## Property Description\n\nFausto Commercial is pleased to present “La Pizzeria” Set Up Your Restaurant on W Flagler St. This retail building in the heart of Little Havana offers 2,000sf, recently renovated with brand new Kitchen, Grease Trap, Hood, Pizza Oven, floors, paint, bathrooms, new A/c, new impact windows & doors. Great signage visibility. This building is located on one of the hottest parts of W Flagler St. The area enjoys great public transportation, centric to all the major neighborhoods and employment centers, walkability, and a rich cultural environment.\n\nDownload Share\n\n## Property Details\n\n### Essential\n\n  * Status Closed\n  * Days On Site 976\n  * Days To Sale 74\n  * MLS#A11434649\n  * Property Type Commercial Sale\n  * Property Sub Type Restaurant/Entertainment\n  * Property Size 1,500 sqft\n  * Lot Size 22500.00 Square Feet\n  * Tax Amount$61,934\n  * HOA No\n  * Data Source Miami Association of REALTORS®\n  * Latest Update 05/29/2025",
+          "title": "1201 W Flagler St",
+          "url": "https://southfloridacommercialpropertysearch.com/properties/FL/Miami/33135/10178/1201-w-flagler-st-miami-fl-33135/494504673"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn0search10 [wordlim: 200] Crawled: 5 months ago; # 0000 SW 00, Miami, FL 33135 ... [Button: View phone number ] ... ## Take Out Restaurant\n\nView Flyer\n\n# 0000 SW 00, Miami, FL 33135\n\nView Map Street View 1 Photo\n\nImage: 27642869\n\nImage: JM\n\nJuan Malouf\n\n3101900\n\n[Button: View phone number ]\n\n[Button: View email ]\n\nMalouf Int'l Realty, Inc.\n\nListed by Malouf Int'l Realty, Inc.\n\n$600,000\n\n|\n\n179 days on market\n\n| Updated 166 days ago\n\n## Take Out Restaurant\n\nDetails\n\nAPN 01-41-02-000-0000\n\nProperty Type Business for Sale, Retail\n\nSub Type Business Only, Restaurant (+1)\n\nYear Built 1995\n\nZoning SD-14\n\nParking Spaces 15 spaces\n\n## Business for Sale\n\n### Marketing description\n\nThis spot is a fantastic place for an authentic Latin America food, offering delicious traditional dishes and excellent customer service in a spotless, modern setting. The décor feels rich and inviting, giving the restaurant an upscale yet comfortable vibe. Although seating is somewhat limited, the generous portions, smooth ordering process, and warm hospitality make this place truly stand out. The Carne Asada Completa and Queso Frito are especially delicious—perfectly cooked, flavorful, and served in impressive portions. The takeout specials are also a pleasant surprise—affordable, authentic, and a great introduction to Latin American morning cuisine. Clean, well-run, and consistently tasty, this is a must-visit for anyone craving genuine, freshly made food in Little Havana and Downtown.\n\nImage: Icon\n\nPowered by Miami Association Of Realtors\n\n\n## Listing Contacts\n\nSubmit LOI\n\nImage: JM\n\nJuan Malouf\n\n3101900\n\n[Button: View phone number ]\n\n[Button: View email ]\n\nMalouf Int'l Realty, Inc.\n\nListed by Malouf Int'l Realty, Inc.\n",
+          "title": "0000 SW 00, Miami, FL 33135 | Crexi.com",
+          "url": "https://www.crexi.com/properties/2214302/florida-take-out-restaurant"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn0search14 [wordlim: 200] Published: 4 months ago; 66 West Flagler Street, Miami, FL 33130 ... with double-height ceilings, arrives fully equipped: restaurant-grade plumbing,\n",
+          "title": "6,000 SF OF 2nd GENERATION RESTAURANT/BAR SPACE IN DOWNTOWN MIAMI",
+          "url": "https://images1.showcase.com/d2/CECtgQlgNestYYy3IN1CvQrQcf1Ky6Esmyobu1ay0T8/document.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn0search11 [wordlim: 200] Crawled: today; Address Little Havana Restaurant Opportunity, Miami, FL 33135\n",
+          "title": "Little Havana Restaurant Opportunity Miami, FL 33135 | MLS A11994115",
+          "url": "https://www.premierlistings.com/property-search/detail/33/A11994115/little-havana-restaurant-opportunity-miami-fl-33135/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn0search15 [wordlim: 200] Published: 11.0 years ago; DOWNTOWN MIAMI — $165 WK — CHEAP Rooms, 124NE 14th St, Miami 33132. ... 167 Restaurants/Hotels/ClubsHigh Volume French/Canadian restaurant in Broward County is hiring seasonal experienced servers (Oct-Apr) Eng-lish/French speaking preferred. ... Conceived by Alan Faena, FAENA HOTEL MIAMI BEACH will set a new benchmark for hospitality and service ... 33130\n",
+          "title": "REAL ESTATE & RENTALS",
+          "url": "https://ufdcimages.uflib.ufl.edu/AA/00/06/92/21/00223/10-01-2015.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn0search16 [wordlim: 200] Published: 12.5 years ago; Top-center ad for La Loggia Ristorante & Bar with logo, food image, and text: “RESERVATION • CATER • EVENTS,” “68 WEST FLAGLER ST, MIAMI FL 33130,” “305.373.4800 • WWW.LALOGGIA.ORG,” “OPEN 11:15AM - 9PM MON - FRI,” “Eat, Drink, Loggia.” ... Top-right ad for “3 CHEFS Chinese Restaurant” with headline “NEW LOCATION IN BRICKELL,” “SPECIALIZING IN CHINESE & VIETNAMESE CUISINE NOW SERVING BUBBLE TEA AND SMOOTHIES!,” “NEW LOCATION OPENING IN BRICKELL,” addresses and phone numbers including “48 SW 12 STREET MIAMI, FL 33130,” “305.377.8338 | 305.358.7288 | 305.358.7428,” “1800 BISCAYNE BLVD. ... Bottom-center ad for Pizza Pazza / Pazzza Authentic Neapolitan Style with text: “15% OFF OR FREE BOTTLE OF WINE WITH ANY 2 DINNER PURCHASES,” “HAPPY HOUR 2-4-1 WINE & BEER W/PIZZA TASTING MON-FRI 4PM-7PM,” “LUNCH SPECIAL MON-FRI 11PM-3PM $9.99 (includes soft drink w/ent),” “WE DELIVER 786.762.2238,” “WWW.PIZZAPAZZAMIAMI.COM,” “275 NE 18TH ST #109 MIAMI (BISCAYNE BLVD BETWEEN 18TH & 19TH ST).”\n",
+          "title": "<visual_element id=\"e1\">",
+          "url": "https://ufdcimages.uflib.ufl.edu/AA/00/06/92/21/00142/04-03-2014.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn0search17 [wordlim: 200] Published: 2.1 years ago; BLUE BEACH RESTAURANT 460 OCEAN DR ... PAULEY REALTY, 2759 W Flagler 5, Miami, Fla (33135),\n",
+          "title": "THE\nBUYERS'\nGUIDE\nCONTAINS\nTHE\nCLASSIFIED \nADVERTI",
+          "url": "https://dpanther.fiu.edu/sobek/content/FI/13/06/10/40/00001/FI13061040%20-%20part%202.pdf"
+        }
+      ]
+    },
+    {
+      "id": "ws_0051b4a8be440fb1006ab34f723ee887d09ab39db52bc20a83",
+      "action": {
+        "type": "open_page",
+        "url": "https://www.loopnet.com/Listing/801-S-Miami-Ave-Miami-FL/40717187/"
+      },
+      "status": "completed",
+      "type": "web_search_call",
+      "results": [
+        {
+          "type": "text_result",
+          "snippet": "citeturn1view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({\"ref_id\":\"turn0search4\",\"lineno\":null}); Total lines: 575\nL131: #### This feature is unavailable at the moment.\nL132: \nL133: We apologize, but the feature you are trying to access is currently unavailable. We are aware of this issue and our team is working hard to resolve the matter.\nL134: \nL135: Please check back in a few minutes. We apologize for the inconvenience.\nL136: \nL137: - LoopNet Team\nL138: \nL139: cite6†Close L140: ### Share This Listing\nL141: \nL142: [Input] [Input]\nL143: \nL144: Email*\nL145: \nL146: [Input: Email Address]\nL147: \nL148: Please enter a valid email address.\nL149: \nL150: To send this property to multiple individuals, insert a semi-colon between each recipient's email address.\nL151: \nL152: Message\nL153: \nL154: Please take a look at Turnkey Restaurant Opportunity | Brickell | 801 S Miami Ave\nL155: \nL156: 919 characters remaining\nL157: \nL158: Hmm, there seems to have been an error sending your message. Please try again.\nL159: \nL160: [Input] Send me a copy\nL161: \nL162: Cancel [Button: Send ]\nL163: \nL164: Your email has been sent.\nL165: \nL166: [Button: Call ]\nL167: Message\nL168: #### Still interested?\nL169: \nL170: Contact the brokers for more information about this property\nL171: # Turnkey Restaurant Opportunity | Brickell 801 S Miami Ave 450 Unit Apartment Building $650,000 ($1,444/Unit) Miami, FL 33130\nL172: \nL173: cite7†Image: 801 S Miami Ave, Miami, FL for sale - Interior Photo - Image 1 of 12†images1.loopnet.com L174: \nL175: cite8†Image: 801 S Miami Ave, Miami, FL for sale - Interior Photo - Image 2 of 12†images1.loopnet.com L176: \nL177: cite9†Image: 801 S Miami Ave, Miami, FL for sale - Interior Photo - Image 3 of 12†images1.loopnet.com L178: \nL179: Map\nL180: \nL181: Saved Save to Favorites\nL182: #### Save this listing!\nL183: \nL184: Favorite this listing to get notified of price updates, new media and more\nL185: \nL186: ### Investment Highlights\nL187: \nL188:   * Turnkey Luxury Restaurant Space\nL189:   * 1,413 SF Ground Floor + 3,498 SF Mezzanine\nL190: \nL191:   * Business Sale with Key Money\nL192:   * $22/SF NNN\nL193: ### Executive Summary\nL194: \nL195: Turnkey Luxury Restaurant Space\nL196: Business Sale with Key Money\nL197: 1,413 SF ground floor + 3,498 SF mezzanine\nL198: $4.5M+ replacement cost\nL199: Fully built-out with FF&E, HVAC, hoods, grease trap & bar\nL200: Located within a high-end mixed-use development\nL201: Strong built-in foot traffic and affluent customer base\nL202: Seating Capacity: 97 (Expandable to 120)\nL203: 7 assigned parking spaces\nL204: Valet parking via SLS lobby\nL205: ### Attachments\nL206: \nL207: cite10†Brochure - Turnkey Restaurant Opportunity _ Brickell - FA Commercial†images1.loopnet.com L208: ### Property Facts\nL209: Price  | $650,000  | Apartment Style  | Hi-Rise\nL210: Price Per Unit  | $1,444  | Building Class  | A\nL211: Sale Type  | Investment  | Lot Size  | 2.21 AC\nL212: Sale Condition  | Business Value Included  | Building Size  | 938,984 SF\nL213: No. Units  | 450  | No. Stories  | 57\nL214: Property Type  | Multifamily  | Year Built  | 2018\nL215: Property Subtype  | Apartment  |  |\nL216: Zoning  | 6408\nL217: Price  | $650,000\nL218: Price Per Unit  | $1,444\nL219: Sale Type  | Investment\nL220: Sale Condition  | Business Value Included\nL221: No. Units  | 450\nL222: Property Type  | Multifamily\nL223: Property Subtype  | Apartment\nL224: Apartment Style  | Hi-Rise\nL225: Building Class  | A\nL226: Lot Size  | 2.21 AC\nL227: Building Size  | 938,984 SF\nL228: No. Stories  | 57\nL229: Year Built  | 2018\nL230: Zoning  | 6408\nL231: ### Amenities\nL232: \nL233: ### Unit Amenities\nL234: \nL235:   * Air Conditioning\nL236:   * Balcony\nL237:   * Dishwasher\nL238:   * Disposal\nL239: \nL240:   * Microwave\nL241:   * Washer/Dryer\nL242:   * Kitchen\nL243:   * Hardwood Floors\nL244: \nL245:   * Refrigerator\nL246:   * Oven\nL247:   * Stainless Steel Appliances\nL248:   * Tub/Shower\nL249: \nL250:   * Walk-In Closets\nL251:   * Wheelchair Accessible (Rooms)\nL252:   * Quartz Countertops\nL253:   * Floor to Ceiling Windows\nL254: ### Site Amenities\nL255: \nL256:   * Concierge\nL257:   * Fitness Center\nL258:   * Playground\nL259: \nL260:   * Pool\nL261:   * Spa\nL262:   * Tennis Court\nL263: \nL264:   * Grill\nL265:   * Elevator\nL266: \nL267:   * Lounge\nL268:   * Multi Use Room\nL269: \nL270: [Input]\nL271: \nL272: 1 1\nL273: \nL274:   * Aerial\nL275:   * Map\nL276: \nL277: cite11†Image: 801 S Miami Ave, Miami, FL - Aerial map view - Image1†images1.loopnet.com L278: \nL279: Exceptionally walkable\nL280: \nL281: 90/100\nL282: \nL283: Moderately drivable\nL284: \nL285: 70/100\nL286: \nL287: Exceptional public transit\nL288: \nL289: 100/100\nL290: \nL291: Fairly bikeable\nL292: \nL293: 50/100\nL294: \nL295: cite12†Source: Local Logic^{®}†docs.locallogic.co L296: ### Property Taxes\nL297: \nL298: Parcel Numbers  | Multiple\nL299: \nL300:   * 01-0205-050-1045\nL301:   * 01-0205-050-1055\nL302:  | Improvements Assessment  | $0\nL303: Land Assessment  | $0  | Total Assessment  | $20,627,695\nL304: \nL305: ### Property Taxes\nL306: \nL307: Parcel Numbers\nL308: \nL309: Multiple\nL310: \nL311:   * 01-0205-050-1045\nL312:   * 01-0205-050-1055\nL313: \nL314: Land Assessment\nL315: \nL316: $0\nL317: \nL318: Improvements Assessment\nL319: \nL320: $0\nL321: \nL322: Total Assessment\nL323: \nL324: $20,627,695\nL325: \nL326: [Button: Call ] (786) 905-3140\nL327: \nL328: [Button: Message ]\nL329: \nL330: #### Still interested?\nL331: \nL332: Contact the brokers for more information about this property\nL333: ### Contacts\nL334: \nL335:   * Fabio F. Faerman\nL336: \nL337:   * Sebastian Faerman\nL338: \nL339:   * cite13†Fortune Christie's International L340: \nL341:   * #### Listing ID: 40717187\nL342: \nL343:   * #### Date on Market: 5/29/2026\nL344: \nL345:   * #### Last Updated:\nL346: \nL347:   * #### Address: 801 S Miami Ave, Miami, FL 33130\nL348: \nL349: The cite14†Brickell Multifamily Property at 801 S Miami Ave, cite15†Miami , FL cite16†33130 is currently available. Contact Fortune Christie's International for more information.\nL350: ### MULTIFAMILY PROPERTIES IN NEARBY NEIGHBORHOODS\nL351:   * cite17†Downtown Miami Apartment Buildings L352:   * cite18†North Beach Apartment Buildings L353:   * cite19†South Beach Apartment Buildings L354:   * cite20†Mid-Beach Apartment Buildings L355:   * cite21†Little Havana Apartment Buildings L356:   * cite22†Flamingo Apartment Buildings L357:   * cite23†Allapattah Apartment Buildings L358:   * cite24†North Shore Apartment Buildings L359:   * cite14†Brickell Apartment Buildings L360:   * cite25†Wynwood Apartment Buildings L361:   * cite26†Normandy Isles Apartment Buildings L362:   * cite27†Douglas Apartment Buildings L363:   * cite28†Coral Way Apartment Buildings L364:   * cite29†Liberty City Apartment Buildings L365:   * cite30†Little River Apartment Buildings L366: ### NEW NEARBY MULTIFAMILY LISTINGS\nL367:   * cite31†3760 SW 1st St, Fort Lauderdale FL L368:   * cite32†2904 N Ocean Blvd, Fort Lauderdale FL L369:   * cite33†1091 E 17th St, Hialeah FL L370:   * cite34†828 Pennsylvania Ave, Miami Beach FL L371:   * cite35†1607 Ponce de Leon, Coral Gables FL L372:   * cite36†1700 NW 58th Ter, Sunrise FL L373:   * cite37†921-925 NE 17th Ave, Fort Lauderdale FL L374:   * cite38†2221 NW 58th Ave, Lauderhill FL L375:   * cite39†1859 Lincoln St, Hollywood FL L376:   * cite40†625 Michigan Ave, Miami Beach FL L377:   * cite41†465 E 30th St, Hialeah FL L378:   * cite42†3740 W Hallandale Beach Blvd, Pembroke Park FL L379: ### NEARBY LISTINGS\nL380: \nL381:   * cite43†918 NW 5th St, Miami FL L382:   * cite44†727 Collins Ave, Miami Beach FL L383:   * cite45†1212 SW 30th Pl, Miami FL L384:   * cite46†2160 NW 18th Ter, Miami FL L385:   * cite47†1915 NW 28th St, Miami FL L386:   * cite48†2170 NW Flagler Ter, Miami FL L387:   * cite49†2080-2090 NW 31st St, Miami FL L388:   * cite50†1300 Lincoln Rd, Miami Beach FL L389:   * cite51†501 NE 31st St, Miami FL L390:   * cite52†1440 SW 4th St, Miami FL L391: \nL392: 1 of 13\nL393: \nL394: Videos\nL395: \nL396: Matterport 3D Exterior\nL397: \nL398: Matterport 3D Tour\nL399: \nL400: Photos\nL401: \nL402: Street View Street\nL403: \nL404: Map\nL405: cite53†Image: 801 S Miami Ave, Miami, FL for sale Interior Photo- Image 1 of 13†images1.loopnet.com Interior - For Visual Purposes Only\nL406: \nL407: Interior\nL408: \nL409: Interior\nL410: \nL411: Interior\nL412: \nL413: Interior\nL414: \nL415: 1st Floor Plan\nL416: \nL417: Mezzanine Floor Plan\nL418: \nL419: SLS Lux Aerial\nL420: \nL421: SLS Lux Interioir\nL422: \nL423: SLS Lux Aerial\nL424: \nL425: SLS Lux Exterior\nL426: \nL427: Brickell\nL428: \nL429: 1 of 1\nL430: \nL431:   * Aerial\nL432:   * Map\nL433: \nL434: cite11†Image†images1.loopnet.com L435: \nL436: Connect with us\nL437: \nL438: © 2026 CoStar Group\nL439: The LoopNet service and information provided therein, while believed to be accurate, are provided \"as is\". LoopNet disclaims any and all representations, warranties, or guarantees of any kind.\nL440:   * cite54†About Us L441:   * cite55†Careers†careers.costargroup.com L442:   * cite56†Contact Us L443:   * cite57†Search L444:   * cite58†Find a Broker L445:   * cite59†Product Overview L446:   * cite60†Mobile L447:   * cite4†Terms of Use L448:   * cite5†Privacy Notice†www.costar.com L449:   * cite61†Cookie Policy†www.costar.com L450:   * cite62†Exercise Your Rights†privacy.costar.com L451:   * cite63†Licensing†www.ten-x.com L452: \nL453: [Input] [Input] [Input]\nL454: \nL455: Contact the Sale Advisors\nL456: \nL457: Turnkey Restaurant Opportunity | Brickell | 801 S Miami Ave\nL458: \nL459: Have an account? Log In\nL460: \nL461: What's your inquiry about?*\nL462: Select Option\nL463: \nL464: [Input] Financials\nL465: \nL466: [Input] Pricing\nL467: \nL468: [Input] Request a Tour\nL469: \nL470: [Input] Other\nL471: \nL472: Select at least one option\nL473: \nL474: Preferred Date*\nL475: \nL476: [Input: Select Tour Date]\nL477: \nL478: Preferred date is required\nL479: \nL480: First Name*\nL481: \nL482: [Input: First Name]\nL483: \nL484: First name is required\nL485: \nL486: Last Name*\nL487: \nL488: [Input: Last Name]\nL489: \nL490: Last name is required\nL491: \nL492: Email*\nL493: \nL494: [Input: Email Address]\nL495: \nL496: Email address is required\nL497: \nL498: Valid email address is required This email address is already in use. Please Login or try a different email address.\nL499: \nL500: Phone*\nL501: \nL502: [Input: Phone Number]\n",
+          "title": "801 S Miami Ave, Miami, FL 33130 - Turnkey Restaurant Opportunity | Brickell | LoopNet",
+          "url": "https://www.loopnet.com/Listing/801-S-Miami-Ave-Miami-FL/40717187/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn1view1 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn0search6\",\"lineno\":null}); Total lines: 33\nL0: Log In\nL1: \nL2: # 169 SW 7th St, #CU-C & CU-D\nL3: \nL4: Miami, FL 33130\nL5: \nL6: 3,522 sqft\nL7: \nL8: $75\nL9: \nL10: Active\nL11: \nL12: Showing Info\nL13: ## Property Description\nL14: Prime Brickell retail space offering ±3,522 SF of ground-floor area + an additional ±300 SF outdoor terrace. Exceptional street visibility along SW 7th Street and 1st Avenue with strong pedestrian and vehicle traffic throughout the day and evening. Surrounded by residential towers, Class-A office buildings, hotels, and transit connections, creating consistent demand for retail, dining, and service uses.\nL15: The area features high residential density, significant daytime employment, strong purchasing power, and a walkable urban environment. Ideal for restaurant, café, boutique retail, fitness, showroom, or service-oriented concepts seeking a vibrant, high-exposure Brickell location. The space has an open layout and can be delivered either as a vanilla shell or in its current as-is condition\nL16: Download Share\nL17: ## Property Details\nL18: \nL19: ### Essential\nL20: \nL21:   * Status Active\nL22:   * Days On Site 310\nL23:   * MLS#A11915404\nL24:   * Property Type Commercial Sale\nL25:   * Property Sub Type Retail\nL26:   * Number of Stories 1.0\nL27:   * Property Size 3,522 sqft\nL28:   * Tax Amount$16,414\nL29:   * HOA No\nL30:   * Data Source Miami Association of REALTORS®\nL31:   * Latest Update 06/29/2026\nL32: Expand\n",
+          "title": "169 SW 7th St, #CU-C & CU-D",
+          "url": "https://southfloridacommercialpropertysearch.com/properties/FL/Miami/33130/10178/169-sw-7th-st-cu-c-cu-d-miami-fl-33130/654879577"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn1view2 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({\"ref_id\":\"turn0search9\",\"lineno\":null}); Total lines: 32\nL0: Log In\nL1: \nL2: # 1201 W Flagler St\nL3: \nL4: Miami, FL 33135\nL5: \nL6: 1,500 sqft\nL7: \nL8: $7,000\nL9: \nL10: Closed\nL11: ## Property Description\nL12: Fausto Commercial is pleased to present “La Pizzeria” Set Up Your Restaurant on W Flagler St. This retail building in the heart of Little Havana offers 2,000sf, recently renovated with brand new Kitchen, Grease Trap, Hood, Pizza Oven, floors, paint, bathrooms, new A/c, new impact windows & doors. Great signage visibility. This building is located on one of the hottest parts of W Flagler St.\nL13: The area enjoys great public transportation, centric to all the major neighborhoods and employment centers, walkability, and a rich cultural environment.\nL14: Download Share\nL15: ## Property Details\nL16: \nL17: ### Essential\nL18: \nL19:   * Status Closed\nL20:   * Days On Site 1102\nL21:   * Days To Sale 74\nL22:   * MLS#A11434649\nL23:   * Property Type Commercial Sale\nL24:   * Property Sub Type Restaurant/Entertainment\nL25:   * Property Size 1,500 sqft\nL26:   * Lot Size 22500.00 Square Feet\nL27:   * Tax Amount$61,934\nL28:   * HOA No\nL29:   * Data Source Miami Association of REALTORS®\nL30:   * Latest Update 06/06/2026\nL31: Expand\n",
+          "title": "1201 W Flagler St",
+          "url": "https://southfloridacommercialpropertysearch.com/properties/FL/Miami/33135/10178/1201-w-flagler-st-miami-fl-33135/494504673"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn1view3 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({\"ref_id\":\"turn0search3\",\"lineno\":null}); Total lines: 325\nL58: Last name is required\nL59: \nL60: Email*\nL61: \nL62: [Input: Enter email address]\nL63: \nL64: Email is required This value should be a valid email.\nL65: \nL66: Password*\nL67: \nL68: [Input: Enter password]\nL69: \nL70: Password is required Password is too common or does not have at least 8 characters\nL71: \nL72: [Input]\nL73: \nL74: I agree to receive marketing messages from CoStar Group and its affiliates by email, SMS, and phone, including automated or prerecorded messages. I can unsubscribe at any time. Standard message and data rates may apply. Privacy Notice\nL75: \nL76: [Button: Sign Up]\nL77: [Button: Continue]\nL78: \nL79: or continue with\nL80: \nL81: By clicking the button, you agree to LoopNet's\nL82: cite4†Terms of Use and Privacy Notice.\nL83: ### Thank you!\nL84: Your account has successfully been created.\nL85: \nL86: Are you primarily looking to use LoopNet to...\nL87: \nL88: [Input] FIND properties to lease or buy\nL89: \nL90: [Input] LIST properties to lease or sell\nL91: \nL92: [Button: Finish]\nL93: #### This feature is unavailable at the moment.\nL94: \nL95: We apologize, but the feature you are trying to access is currently unavailable. We are aware of this issue and our team is working hard to resolve the matter.\nL96: \nL97: Please check back in a few minutes. We apologize for the inconvenience.\nL98: \nL99: - LoopNet Team\nL100: \nL101: cite6†Close L102: \nL103: # 521 SW 8th St\nL104: Miami, FL 33130\nL105: West Brickell Restaurant & Speakeasy · Retail Property For Sale\nL106: \nL107: ##\nL108: \nL109: cite7†Image: 521 SW 8th St, Miami, FL for sale - Building Photo - Image 1 of 1†images1.loopnet.com L110: ### Investment Highlights\nL111: \nL112:   * Rare opportunity to acquire a turnkey, fully licensed restaurant and speakeasy in the heart of Miami’s vibrant Urban Core.\nL113:   * Upgrades in the past 7 yrs include electrical and plumbing systems, 2 GBD 250 grease traps (2021), kitchen hood, freezers, elevator lift, HVAC system\nL114:   * Outside Seating Waiver approved April 2024 – 78 occupants\nL115:   * Fully licensed restaurant and bar w/ seating capacity for over 227 patrons indoors, 4COP-SFS Alcoholic Beverage & Tobacco License, and outdoor seating\nL116:   * Full Kitchen with all equipment included in the sale\nL117:   * Prime location with over 24,000 vehicles per day and direct access to I-95 on and off-ramps.\nL118: ### Property Facts\nL119: \nL120: Property Type\nL121: \nL122: Retail\nL123: \nL124: Property Subtype\nL125: \nL126: Restaurant\nL127: \nL128: Building Size\nL129: \nL130: 5,920 SF\nL131: \nL132: Building Class\nL133: \nL134: C\nL135: \nL136: Year Built\nL137: \nL138: 1930\nL139: \nL140: Percent Leased\nL141: \nL142: 100%\nL143: \nL144: Tenancy\nL145: \nL146: Multiple\nL147: \nL148: Building Height\nL149: \nL150: 2 Stories\nL151: \nL152: Building FAR\nL153: \nL154: 0.85\nL155: \nL156: Lot Size\nL157: \nL158: 0.16 AC\nL159: \nL160: Zoning\nL161: \nL162: C-1 - Commercial uses like retail, offices, and personal services.\nL163: \nL164: Frontage\nL165: \nL166: 47’ on SW 8th St\nL167: \nL168: [Input]\nL169: \nL170: ### Property Taxes\nL171: \nL172: Parcel Number  | 01-0204-080-1180  | Improvements Assessment  | $0\nL173: Land Assessment  | $0  | Total Assessment  | $1,558,994\nL174: ### Property Taxes\nL175: \nL176: Parcel Number\nL177: \nL178: 01-0204-080-1180\nL179: \nL180: Land Assessment\nL181: \nL182: $0\nL183: \nL184: Improvements Assessment\nL185: \nL186: $0\nL187: \nL188: Total Assessment\nL189: \nL190: $1,558,994\nL191: \nL192: * * *\nL193: \nL194: \nL195: \nL196:   * #### Listing ID: 34834629\nL197: \nL198:   * #### Date on Market: 2/14/2025\nL199: \nL200:   * #### Last Updated:\nL201: \nL202:   * #### Address: 521 SW 8th St, Miami, FL 33130\nL203: \nL204: The cite8†Little Havana Retail Property at 521 SW 8th St, cite9†Miami , FL cite10†33130 is no longer being advertised on LoopNet.com. Contact Marcus & Millichap for information on availability.\nL205: ### RETAIL PROPERTIES IN NEARBY NEIGHBORHOODS\nL206: \nL207:   * cite11†Biscayne Highlands Restaurants L208:   * cite12†Downtown Kendall Restaurants L209:   * cite13†Flagami Restaurants L210:   * cite8†Little Havana Restaurants L211:   * cite14†Brickell Restaurants L212:   * cite15†Midtown Miami Restaurants L213:   * cite16†Edgewater Restaurants L214:   * cite17†Miami Design District Restaurants L215:   * cite18†Little River Restaurants L216:   * cite19†Northeast Coconut Grove Restaurants L217:   * cite20†Lummus Park Restaurants L218:   * cite21†Downtown Miami Restaurants L219:   * cite22†South Beach Restaurants L220: ### NEW NEARBY RETAIL LISTINGS\nL221:   * cite23†3160 NW 7th st, Miami FL L222:   * cite24†5600 N Nob Hill Rd, Tamarac FL L223:   * cite25†1781 NW 152nd Ter, Opa-locka FL L224:   * cite26†3134-3150 NE 9th St, Fort Lauderdale FL L225:   * cite27†853 N Fort Lauderdale Beach Blvd, Fort Lauderdale FL L226:   * cite28†917 N Fort Lauderdale Beach Blvd, Fort Lauderdale FL L227:   * cite29†2501 SW 101st Ave, Miramar FL L228:   * cite30†4010-4054 NW 9th Ave, Oakland Park FL L229:   * cite31†1975-1977 71st St, Miami Beach FL L230:   * cite32†261 NW 71st St, Miami FL L231:   * cite33†3061 N Federal Hwy, Fort Lauderdale FL L232:   * cite34†101 NE 79th St, Miami FL L233: ### NEARBY LISTINGS\nL234: \nL235:   * cite35†150 SE 2nd Ave, Miami FL L236:   * cite36†1353 SW 1st St, Miami FL L237:   * cite37†1111 SW 1st Ave, Miami FL L238:   * cite38†242 NW 12th Ave, Miami FL L239:   * cite39†1520 Alton Rd, Miami Beach FL L240:   * cite40†727 Collins Ave, Miami Beach FL L241:   * cite41†45 NW 22nd Ave, Miami FL L242:   * cite42†161 NE 24th St, Miami FL L243:   * cite43†1300 Lincoln Rd, Miami Beach FL L244:   * cite44†501 NE 31st St, Miami FL L245:   * cite45†114 NW 22nd Ave, Miami FL L246:   * cite46†2899 NW 7th Ave, Miami FL L247:   * cite47†2475 S Douglas Rd, Miami FL L248: \nL249: 1 of 1\nL250: \nL251: Videos\nL252: Matterport 3D Exterior\nL253: \nL254: Matterport 3D Tour\nL255: \nL256: Photos\nL257: \nL258: Street View Street\nL259: \nL260: Map\nL261: \nL262: cite48†Image: 521 SW 8th St, Miami, FL for sale Building Photo- Image 1 of 1†images1.loopnet.com Building Photo\nL263: \nL264: Connect with us\nL265: \nL266: © 2026 CoStar Group\nL267: \nL268: The LoopNet service and information provided therein, while believed to be accurate, are provided \"as is\". LoopNet disclaims any and all representations, warranties, or guarantees of any kind.\nL269:   * cite49†About Us L270:   * cite50†Careers†careers.costargroup.com L271:   * cite51†Contact Us L272:   * cite52†Search L273:   * cite53†Find a Broker L274:   * cite54†Product Overview L275:   * cite55†Mobile L276:   * cite4†Terms of Use L277:   * cite5†Privacy Notice†www.costar.com L278:   * cite56†Cookie Policy†www.costar.com L279:   * cite57†Exercise Your Rights†privacy.costar.com L280:   * cite58†Licensing†www.ten-x.com L281: \nL282: [Input] [Input] [Input]\nL283: \nL284: Link copied\nL285: \nL286: Your LoopNet account has been created!\nL287: \nL288: Thank you for your feedback.\nL289: ### Please Share Your Feedback\nL290: \nL291: We welcome any feedback on how we can improve LoopNet to better serve your needs.\nL292: \nL293: [Input]\nL294: \nL295: {{ getErrorText(feedbackForm.starRating, \"rating\") }}\nL296: \nL297: 255 character limit ({{ remainingChars() }} character characters remaining over)\nL298: \nL299: {{ getErrorText(feedbackForm.msg, \"rating\") }}\nL300: \nL301: [Input: First Name]\nL302: \nL303: {{ getErrorText(feedbackForm.fname, \"first name\") }}\nL304: \nL305: [Input: Last Name]\nL306: \nL307: {{ getErrorText(feedbackForm.lname, \"last name\") }}\nL308: \nL309: [Input: Phone Number (numbers only)]\nL310: {{ getErrorText(feedbackForm.phone, \"phone number\") }}\nL311: \nL312: [Input: Ext.]\nL313: \nL314: {{ getErrorText(feedbackForm.phonex, \"phone extension\") }}\nL315: \nL316: [Input: Email Address]\nL317: \nL318: {{ getErrorText(feedbackForm.email, \"email address\") }}\nL319: \nL320: You can provide feedback any time using the Help button at the top of the page.\nL321: \nL322: [Button: Cancel] [Button: Submit]\nL323: \nL324: cite59†iframe†www.googletagmanager.com ",
+          "title": "521 SW 8th St, Miami, FL 33130 | LoopNet",
+          "url": "https://www.loopnet.com/Listing/521-SW-8th-St-Miami-FL/34834629/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn1view4 [wordlim: 200] Crawled: 11 months ago; Content type: application/pdf; Number of pages: 1; Source: open({\"ref_id\":\"turn0search12\",\"lineno\":null}); Total lines: 36\nL0@P0: Unit Size: 850 Sqft\nL1@P0: Lease Rate: $3,500\nL2@P0: Lease Term: New/Negotiable\nL3@P0: PRICE: $120,000\nL4@P0: Well-Known, Long-Running,\nL5@P0: Neighborhood Venezuelan\nL6@P0: Cafeteria/Restaurant in the Heart of\nL7@P0: Little Havana right on W Flagler\nL8@P0: Street. Massive upward trajectory for\nL9@P0: sales as Little Havana population\nL10@P0: continues to swell, with an area\nL11@P0: population of 100,000+. The site\nL12@P0: features indoor and outdoor seating,\nL13@P0: grease trap, hood, fryers and great\nL14@P0: prospects for delivery business. The\nL15@P0: business is conveniently located\nL16@P0: right of W Flagler Street and near\nL17@P0: many residential developments.\nL18@P0: 1713 W FLAGLER ST\nL19@P0: Miami FL, 33135\nL20@P0: FAUSTOCOMMERCIAL.COM\nL21@P0: VISIT FAUSTOCOMMERCIAL.COM\nL22@P0: 1761 W FLAGLER ST, MIAMI, 33135\nL23@P0: ALESSANDRO LIMA\nL24@P0: C: 305.281.4469\nL25@P0: E: AML@FAUSTOCOMMERCIAL.COM\nL26@P0: \"Business For Sale”\nL27@P0: P r o p e r t y H i g h l i g h t s :\nL28@P0: - G r e a s e T r a p\nL29@P0: - H o o d S y s t e m\nL30@P0: - F r y e r s\nL31@P0: - C o f f e e M a c h i n e s\nL32@P0: - F r e e z e r\nL33@P0: - B a r\nL34@P0: - O n e B a t h r o o m\nL35@P0: - P r i m e L i t t l e H a v a n a\n",
+          "title": "flyer template",
+          "url": "https://www.bizbuysell.com/shared/listings/227/2272329/4239fa93-e1fe-4b0d-ad8f-f849680c3062.pdf"
+        }
+      ]
+    },
+    {
+      "id": "rs_0051b4a8be440fb1006ab34f74c2f087d08b00f625cf6ca6a9",
+      "summary": [],
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqs0-NHs74yZ2Dzl3bnfddDYQo7D19FoSAykzLBt2EZBDC3gXBzxDSuVpn-ps9X_kI9H9Heie9APXMpmGXk6CHCPEHODNQyIb3S0dvVjdOjOP4MHis_GRtlQw-TvcAJtbjUbHnWs1KrJ3nqBVAvftaOwEUBCzGWJer3SrK_bUsf64R7J21VSjPldl40YK4YH9vuRmEriRz7XzJScZmbMzjbOMpLSo11NM2MqX2MADYFPDWuqnFwuvUAH-sDpS7D8gKN1wNyB20A2wnE5X5tdSpfwZAl0SdFBCqOFPHYtDqlP4CBg1Y7ZKX3eJiOJG_mVMEBz3X1WUBiWPtKv5uFlFoaRM_nDK3JzSjEn4RG591eSUfTwtNghAA1zf-9yUlpXRl2OQSFvM9d2JDoouHS5qCo79gfderyjIyyNVGQt4QQoD1nIRIVP9xOCLApzaT6yVQNR2lVTr0F0n5g9h8zZ3CSSedwxWo2KGw_s5p3OhkGdrG3J1_bGg89jknsT7YywG5HKybwo4uXyWsH7q4biIb5SREd6S2KK55eNCMpN3IylaYMwzYyPK28OkL_p-YcBr1ERcNzIrRoRtq2iqo-2tWCAuTaY-Q7Dyh6gR8YmMaG78rEO_Fwe66JZUZrXIx-4ostPmSs42ZOvN3zH9XTxLVK0vEK1c5zTGPcdTKPPuVQ2e7EhY_tLUUyPYKwAYdEm0xzjEX0TohkHziKTaJvktQn_8kPvbakMgaMaFI8xPIogO5E-qsZk6I_AhzLVVEc84tS35ZJ3aAx918Yfx_sn9lrIDzmWsBbuXgjDmPNGCmWdUfVTgK_eGbxUEiXI8FNLOYOiQmGu7_YWo_nPl3SDKYi7kMaeBcq_eVvtEc6-rfjgLxjOiUyni-cH-rowqhVUEoUkvzDhnA3QO5OuaLkK9os_MmcB0LnwH61JKGUSCRbtWWM2bTz7ELqchIP-5SxHMwXOl1SDNP0i4fzKiKiP7Siln6h3vjWrUiI8xVgAXTEz1FiaMonGBsFt-bN5qquSNjYKHWrYhGvuNzcf5Mw17-ukFnNzOBLuzQ-5lmmMnC97l7AzvKkHIACx-yFqU6V6HuMz_s4I9tGh-DuU_EElfwAI9kuMvb46kPGIAyA2BJeIrWbVVFhzuZSV4YPvjeyW8tr1csYnklD7JaiLa70PoZpZ7KgeLeuNsZe0AbS8L3tsbr2wIyZbjqIyVvGyC3dIRiem8NuR4opx0A_oedPWGxttR-ehmm215QdcXWh6aA5EYIbnlZa7Oncy6tFGaIMDUJRwez",
+      "status": null
+    },
+    {
+      "id": "ws_0051b4a8be440fb1006ab34f75128887d0870dade104858691",
+      "action": {
+        "type": "search",
+        "queries": [
+          "\"1713\" \"Flagler\" \"faustocommercial\"",
+          "\"521 SW 8th\" restaurant",
+          "\"169 SW 7th\" retail lease interior"
+        ],
+        "query": "\"1713\" \"Flagler\" \"faustocommercial\"",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://www.commercialcafe.com/commercial-property/us/fl/miami/turnkey-restaurant-opportunity-brickell/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.loopnet.com/Listing/521-SW-8th-St-Miami-FL/34834629/"
+          },
+          {
+            "type": "url",
+            "url": "https://blufmi.com/market.php?zcta=33130"
+          },
+          {
+            "type": "url",
+            "url": "https://jacober.com/blog/jacober-little-havana/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.corner.inc/place/pnF1PSYMSBT9"
+          },
+          {
+            "type": "url",
+            "url": "https://www.crexi.com/properties/492162/florida-neo-vertika-cu-cd"
+          },
+          {
+            "type": "url",
+            "url": "https://www.crexi.com/properties/1680906/florida-169-sw-7th-st"
+          },
+          {
+            "type": "url",
+            "url": "https://miamifl.casa/inmueble/a11915404-169-sw-7th-street-cu-c-cu-d-miami-fl-33130/"
+          },
+          {
+            "type": "url",
+            "url": "https://nestirealestate.com/properties/547229-commercial-lease-169-sw-7th-st-cu-c-%26amp%3B-cu-d-miami-florida-3313-miami-florida-33130-usd75/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.fec.state.fl.us/FECWebFi.nsf/0/BABD25012D0B4CB885258D4C00526CC2/%24file/22-043%2BEith%2C%2BRonnie_Redacted.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://realmo.com/storefront-properties/for-lease/fl/miami/?page=4"
+          },
+          {
+            "type": "url",
+            "url": "https://www.zillow.com/homedetails/169-SW-7th-St-Miami-FL-33130/72579054_zpid/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.miamiherald.com/miami-com/restaurants/article224344865.html"
+          },
+          {
+            "type": "url",
+            "url": "https://recetasmexas.com/en-us/restaurant/taquerias-el-mexicano-miami"
+          },
+          {
+            "type": "url",
+            "url": "https://www.miamiandbeaches.com/getmedia/359e77ee-789c-49a5-aa48-f281d97814e2/2019-20-Multicultural-Guide.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://res.cloudinary.com/jll-global-ods/image/upload/v1576088766/prod/clientfirst/availability/yooyoswp6h0n6cvvqlx8.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.miaminewtimes.com/media/pdf/mad_room_complaint.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www2.myfloridalicense.com/abt/documents/CityFeeDistribution3rdQtr2024-2025.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://watscocenter.com/wp-content/uploads/2016/10/BankUnited-Center-Market-Profile-2014.pdf"
+          }
+        ]
+      },
+      "status": "completed",
+      "type": "web_search_call",
+      "results": [
+        {
+          "type": "text_result",
+          "snippet": "citeturn2search0 [wordlim: 200] Published: 1.6 years ago; Crawled: 2 months ago; West Brickell Restaurant & Speakeasy · Retail Property For Sale ...   * #### Address: 521 SW 8th St, Miami, FL 33130\n\n# 521 SW 8th St\nMiami, FL 33130\nWest Brickell Restaurant & Speakeasy · Retail Property For Sale\n\n## \n\nImage: 521 SW 8th St, Miami, FL for sale - Building Photo - Image 1 of 1\n\n### Investment Highlights\n\n  * Rare opportunity to acquire a turnkey, fully licensed restaurant and speakeasy in the heart of Miami’s vibrant Urban Core.\n  * Upgrades in the past 7 yrs include electrical and plumbing systems, 2 GBD 250 grease traps (2021), kitchen hood, freezers, elevator lift, HVAC system\n  * Outside Seating Waiver approved April 2024 – 78 occupants\n\n  * Fully licensed restaurant and bar w/ seating capacity for over 227 patrons indoors, 4COP-SFS Alcoholic Beverage & Tobacco License, and outdoor seating\n  * Full Kitchen with all equipment included in the sale\n  * Prime location with over 24,000 vehicles per day and direct access to I-95 on and off-ramps.\n\n### Property Facts\n\nProperty Type\n\nRetail\n\nProperty Subtype\n\nRestaurant\n\nBuilding Size\n\n5,920 SF\n\nBuilding Class\n\nC\n\nYear Built\n\n1930\n\nTenancy\n\nMultiple\n\nBuilding Height\n\n2 Stories\n\nBuilding FAR\n\n0.85\n\nLot Size\n\n0.16 AC\n\nZoning\n\nC-1 - Commercial uses like retail, offices, and personal services.\n\nFrontage\n\n47’ on SW 8th St\n\n[Input]\n\n### Property Taxes\n\nParcel Number  | 01-0204-080-1180  | Improvements Assessment  | $0\nLand Assessment  | $0  | Total Assessment  | $1,558,994\n\n### Property Taxes\n\nParcel Number\n\n01-0204-080-1180\n\nLand Assessment\n\n$0\n\nImprovements Assessment\n\n$0\n\nTotal Assessment\n\n$1,558,994\n \n\n  * #### Listing ID: 34834629\n\n  * #### Date on Market: 2/14/2025\n\n  * #### Last Updated:\n\n  * #### Address: 521 SW 8th St, Miami, FL 33130\n\nThe Little Havana Retail Property at 521 SW 8th St, Miami, FL 33130 is no longer being advertised on LoopNet.com. Contact the broker for information on availability.\n\n1 of 1\n\nVideos\n\nMatterport 3D Exterior\n\nMatterport 3D Tour\n\nPhotos\n\nStreet View Street\n\nMap\n\nImage: 521 SW 8th St, Miami, FL for sale Building Photo- Image 1 of 1Building Photo",
+          "title": "521 SW 8th St, Miami, FL 33130 | LoopNet",
+          "url": "https://www.loopnet.com/Listing/521-SW-8th-St-Miami-FL/34834629/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn2search1 [wordlim: 200] Crawled: today; Brickell / Miami Benihana  | Restaurant (service type not stated)  |  | <p>54 SW 10th Street, Miami, FL 33130  | open ... Taquerias El Mexicano  | Restaurant (service type not stated)  | Mexican  | 521 SW 8th St  | open\nLos Altos  | Bar  |  | 521 SW 8th St  | open\nLos Catrachos II Restaurant  | Restaurant (service type not stated)  | Latin American (other)  | 18 SW 11th Ave  | open\nLos Catrachos Restaurant  | Restaurant (service type not stated)  | Latin American (other)  | 755 W Flagler St  | open\nLos Paisanos Export & Import  | Restaurant (service type not stated)  | Mexican · Latin American (other)  | 880 SW 1st St  | open\nLos Paisanos Restaurant  | Restaurant (service type not stated)  | Latin American (other)  | 824 W Flagler St  | open\nLouLou le Petit Bistro  | Restaurant (service type not stated)  | French  | 638 S Miami Ave  | open\nLovepeace Soup Kitchen  | Restaurant (service type not stated)  |  | 66 W Flagler St Ste 900  | open\nLovers Not Haters  | Bar  | American  | 1167 SW 6th St  | open\nMAC  | Restaurant (service type not stated)  | American · Cajun, Creole, Southern  | 268 SW 8th St  | open\nMama Roma  | Restaurant (service type not stated)  | Italian  | 100 S Miami Ave  | open\nMammamia Brickell  | Dessert  | Ice cream / frozen desserts  | 834 S Miami Ave  | open\nTaitas Chicken Xpress  | Restaurant (service type not stated)  | Peruvian · Latin American (other)  | 100 S Miami Ave  | open\nTalkin' Tacos Brickell Talkin' Tacos  | Restaurant (service type not stated)  | Mexican · Latin American (other)  | 97 SW 8th St  | open\nTaquerias El Carnal  | Restaurant (service type not stated)  | Mexican  | 1128 SW 8th St  | open\nTaquerias El Mexicano  | Restaurant (service type not stated)  | Mexican  | 521 SW 8th St  | open\nTaverna Opa  | Restaurant (service type not stated)  | Greek · Mediterranean  | 900 S Miami Ave  | open\nTd Lux Inc  | Restaurant (service type not stated)  |  | 901 S Miami Ave Ste 207  | open\nTeamwork ceiba  | Casual dining · Bar  | Mexican · Latin American (other)  | 815 W Flagler St  | open\nTelva Sweet Bakery  | Bakery  | Bakery  | 543 SW 12th Ave  | open\nTemaris  | Restaurant (service type not stated)  | Japanese  | 1250 S Miami Ave #5  | open\nTerras Miami Rooftop  | Bar  | Spanish / tapas · Latin American (other)  | 528 SW 9th Ave  | open\nThe Dunch  | Restaurant (service type not stated)  |  | 4 W Flagler St  | open\n",
+          "title": "Market 33130 · Miami-Dade County, Florida — BMIE",
+          "url": "https://blufmi.com/market.php?zcta=33130"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn2search2 [wordlim: 200] Crawled: 2 months ago; 521 SW 8th Street ... A go-to spot in the neighborhood for food that feels muy auténtico, with their brightly lit technicolor street decor, features floor-to-ceiling Mexican-themed designs and Los Altos, the new second-story cocktail lounge and bar above the restaurant (be forewarned – no shorts allowed – we should know).\n### Taquerias El Mexicano & Los Altos\n\n521 SW 8th Street\nTaquerias El Mexicano is that spot on Calle Ocho that made us scratch our heads for a bit. Mexican? Here? But then we ate their delicious, home-cooked style fare and were hooked! A go-to spot in the neighborhood for food that feels muy auténtico, with their brightly lit technicolor street decor, features floor-to-ceiling Mexican-themed designs and Los Altos, the new second-story cocktail lounge and bar above the restaurant (be forewarned – no shorts allowed – we should know). Order a drink, and enjoy cocktails that are intricate concoctions made with tequila or mezcal, fresh fruits, veggies, and spices. ¡Salud! \n Image: Azucar Ice Cream in Little Havana\n\n### Azucar Ice Cream\n\n1503 SW 8th Street\nFamily-owned Azucar is Little Havana’s first artisanal ice cream shop. They serve up sweet scoops of ice cream and sorbet made from high-quality ingredients. Everything is locally sourced from neighborhood fruit stands and farms run by Florida growers in the Redlands (viva los locals!). ",
+          "title": "Jacober Creative | Little Havana, Miami’s Iconic Cuban Neighborhood",
+          "url": "https://jacober.com/blog/jacober-little-havana/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn2search3 [wordlim: 200] Published: last month; Crawled: 2 weeks ago; 169 SW 7th St, Miami\n\nExpert espresso drinks and açaí bowls fuel the steady stream of students and remote workers. Small indoor space opens to a nice patio, with plenty of outlets and self-service ordering that keeps things moving. Great for study sessions, casual meetings, or just settling in with a book.\n\nSAVED ON CORNER BY\n\nmargielamanalyshorkisa.fcjohannabaronowitzdanielashleymeghan.1emi6aikaacat_4gabbiebvinipranbecca8umamimastravelsofimoreel1zabethryannn\n\n### VIBE\n\nSelf-serve kiosks for ordering but real baristas pulling shots with Great Circle Roasters beans. Study-friendly spot where laptop people and coffee purists coexist peacefully.(1)Image\n\nlooks super chill inside and cozy vibe to the place — @margielaman, 10mo ago\n\n### WHAT TO GET\n\nThe 10oz latte has the perfect milk-to-coffee ratio, or try the açaí bowl if you're settling in for a while.\n\n### THE MOVE\n\nAsk for Melanie or Lisa behind the bar - regulars swear they pull the best shots.\n\n### THE SPACE\n\nCozy corner setup with plenty of indoor outlets for laptops, plus a street-facing patio that catches some traffic noise.\n\n## What people are saying\n\nlooks super chill inside and cozy vibe to the place — @margielaman, 10mo ago\n\nguys OMG THE PERFECT THIRD SPACE CAFE and the food is buss — @alyshork, 10mo ago\n\n## Places you might also like\n\nSome other cafes and cultures you might like in the area are Naughty Coffee, Brewing Buddha Cafe & Arthouse, and Pura Vida Miami.\n\n1 Naughty Coffee☕️danish coffee roastery 28 saves (+3 this week)2 Brewing Buddha Cafe & Arthouse🎨️coffee to wine bar 8 saves (+2 this week)3 Pura Vida Miami🥑health-focused cafe 33 saves4 Surry Hills Coffee | Brunch Miami☕️aussie coffee 24 saves5 Sesame Bakery🥐pink bakery 16 saves6 Pura Vida Miami🥗health cafe 15 saves7 Sagrado Cafe🇧🇷brazilian cafe 10 saves8 maman🥐french cafe 8 saves\n\n## From Curators\n\ncafecito @umamimastravel · 14 places🇺🇸usa@aikaa · 93 placesmiami eats@becca8 · 100 placesmiami days@gabbieb · 15 placesmiami@johannabaronowitz · 37 places\n",
+          "title": "i think she is - 169 SW 7th St, Miami | Corner",
+          "url": "https://www.corner.inc/place/pnF1PSYMSBT9"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn2search4 [wordlim: 200] Crawled: 3 months ago; Image: image of property at 169 SW 7TH ST Miami FL 33130 ... Property Type Retail ... Tenant has a 10 Year Triple Net Lease, which expires on August 14, 2026.\n\nImage: image of property at 169 SW 7TH ST Miami FL 33130\n\n169 SW 7TH ST Miami FL 33130\n\nUnpriced\n\n* * *\n\nProperty HistoryContact InformationProperty DetailsContactsMapComparable PropertiesClimate RiskDemographicsLocation Insights\n\n# 169 SW 7TH ST Miami FL 33130\n\n## [Locked]\n\nView Map Street View 18 Photos\n\nImage\n\nImage\n\nImage\n\nImage\n\nImage\n\nImage\n\nImage\n\nImage\n\nImage\n\nImage\n\nImage\n\nImage\n\nImage\n\nImage\n\nImage\n\nImage\n\nImage\n\nImage\n\nDetails\n\nProperty Type Retail\n\nSub Type Storefront\n\nYear Built 2006\n\nDays on Market ******\n\nLatitude 25.7674\n\nLongitude -80.1965\n\nMarketing Description\n\nThe property consists of approximately 3,522 SF of Net Rentable Area, built in 2006. This property offers an outstanding opportunity to acquire an income producing property at 6% Cap Rate (in place). Tenant has a 10 Year Triple Net Lease, which expires on August 14, 2026. Property sits on high-traffic SW 7th Street in Brickell, across from Brickell City Centre and adjacent to The Underline which is which is transforming the land below Miami's Metrorail into parks, urban trail and canvas for art (to be completed summer 2020).\n\n## Loan History\n\nImage: Intelligence Badge\n\nUpgrade to Intelligence\n\n## Financial History\n\nImage: Intelligence Badge\n\nUpgrade to Intelligence\n\n## Tax History\n\nImage: Intelligence Badge\n\nUpgrade to Intelligence\n\n## Contact Information\n\nWant to pull contact information for hundreds of properties at once? Try our new tool, Data Enrichment, and streamline your workflow. Try Data Enrichment Image: Intelligence Badge\n\nUpgrade to Intelligence\n\n[email protected]\n\n[email protected]\n\n[email protected]\n\nThese phone numbers and email addresses are checked against the litigator and TCPA lists. Report an error\n\n## Ownership Information\n\nImage: Intelligence Badge\n\nUpgrade to Intelligence\n\n## Property Details\n\nImage: Intelligence Badge\n\nUpgrade to Intelligence\n\nThere are no additional details for this property\n\n## Contacts\n\nListing removed on\n\n BY:\n\nDS\n\nDavid Salazar\n\n•••.•••.3596\n\n••••azar@•••••••••••.com\n\nAffinity International Realty\n",
+          "title": "169 SW 7TH ST Miami FL 33130 | Crexi.com",
+          "url": "https://www.crexi.com/properties/492162/florida-neo-vertika-cu-cd"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn2search5 [wordlim: 200] Published: 4 months ago; Crawled: 2 months ago; # 169 SW 7th St, Miami, FL 33130 ... ## 169 SW 7th St\n\nImage: 20288989\n\nImage: 20243980\n\nDetails Listing Contacts History Similar Properties\n\nReport\n\nRequest Info\n\nView Flyer\n\n# 169 SW 7th St, Miami, FL 33130\n\nView Map Street View 74 Photos\n\nImage: 20243980\n\nImage: 20288989\n\nImage: 20288970\n\nImage: 20243961\n\nImage: 20288968\n\nImage: 20288967\n\nImage: 20243959\n\nImage: 20288966\n\nImage: 20288965\n\nImage: 20243958\n\nImage: 20288964\n\nImage: 20288963\n\nImage: 20243957\n\nImage: 20288962\n\nImage: 20288961\n\nImage: 20243956\n\nImage: 20288960\n",
+          "title": "169 SW 7th St, Miami, FL 33130 | Crexi.com",
+          "url": "https://www.crexi.com/properties/1680906/florida-169-sw-7th-st"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn2search6 [wordlim: 200] Published: 10 months ago; Crawled: last month; # Negocio Minorista en renta en 169 SW 7th Street CU-C & CU-D, Miami, FL 33130 con MLS-A11915404\n\n### Estatus y Tipo\n\nTipo de Listado: En Renta\n\nEstatus: Activo\n\nTipo de negocio: Restaurante, Venta minorista\n\nCategoría: Alquiler Comercial\n\nTipo de Propiedad: Venta minorista\n\nDescripción de la última actualización importante: Precio reducido\n\nLa última actualización importante se efectuó el: 30 de junio de 2026 12:55 am\n\n### Medidas\n\nÁrea Construida: 3,522 Sqft / 327.20 m²\n\n### Características\n\nSeguridad: Otro\n\nAire Acondicionado: Sí\n\nSistema de Aire Acondicionado: Central individual\n\n### Construcción\n\nAño de Construcción: 2006\n\nMateriales de la construcción: Bloque\n\nTipo de Piso: Concreto\n\nNúmero de Plantas/Pisos: 1\n\nTipo de estructura: Venta minorista\n\nCódigo de zona de inundación: AE\n\n### Impuestos y Gastos\n\nCantidad del Impuesto de la propiedad anual: $16,414.00\n\nInformación Importante Sobre el Impuesto Predial (Impuesto de la Propiedad en Florida)\n\n### Estacionamiento\n\nPlazas totales de aparcamiento: 4\n\nCaracterísticas del Estacionamiento: Planta baja\n\n### Servicios Públicos\n\nFuente de agua: Público\n",
+          "title": "Negocio minorista en renta 169 SW 7th Street CU-C & CU-D, Miami, FL 33130 (MLS-A11915404) – MiamiFl.Casa",
+          "url": "https://miamifl.casa/inmueble/a11915404-169-sw-7th-street-cu-c-cu-d-miami-fl-33130/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn2search7 [wordlim: 200] Crawled: 5 days ago;     169 Sw 7th St Cu-c & Cu-d, Miami, Florida 3313 ... Lease Term: ...     Retail\n\nProperty Description\n\nWaterfront,65 feet, with NO fixed bridges to the ocean. This 3 bedroom 2 bathroom POOL home with a 2 car garage is in Move in ready condition. Large kitchen with wood cabinets, granite countertops, and stainless steel appliances with a breakfast bar that opens to a sensational dining / living room with vaulted ceilings. Enjoy marvelous entertaining as doors open across the back of the home to a magnificent covered patio and heated pool area inviting the outdoors in. Pool is 42\n\nAddress Map\n\nState:\n    FL\n\nCounty:\n    Miami-Dade\n\nCity:\n    Miami\n\nZipcode:\n    33130\n\nStreet:\n    169 Sw 7th St Cu-c & Cu-d, Miami, Florida 3313\n\nLongitude:\n    W81° 48' 23''\n\nLatitude:\n    N25° 46' 27''\n\nMLS Addon\n\nBuilding Area:\n    3,522 Sqft\n\nConstruction Materials:\n    Block\n\nCumulative DOM:\n    224\n\nDOM:\n    225\n\nFlooring:\n    Concrete\n\nInternet Address Display:\n    1\n\nInternet Listing Display:\n    1\n\nLease Term:\n    Long Term\n\nParcel Number:\n    01-41-38-122-4460\n\nStructure Type:\n    Retail\n\nTax Annual Amount:\n    $16,414\n\nVirtual Tour:\n    Click Here\n\nWindow Features:\n    Impact Glass\n\n# Commercial Lease For Rent\n\n## 169 Sw 7th St Cu-c & Cu-d, Miami, Florida 3313, Miami, Florida 33130\n\n$75\n\nMLS # #A11915404\n\nBasic Details\n\nProperty Type :\n    Commercial Lease\n\nListing Type :\n    For Rent\n\nPrice :\n    $75\n\nYear Built :\n    2006\n\nMLS # :\n    A11915404\n\nAgent info\n\n  *   * joe@josephlazzaro.com\n\nContact Agent",
+          "title": "Commercial Lease For Rent - - - - Price $75 - A11915404",
+          "url": "https://nestirealestate.com/properties/547229-commercial-lease-169-sw-7th-st-cu-c-%26amp%3B-cu-d-miami-florida-3313-miami-florida-33130-usd75/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn2search12 [wordlim: 200] Published: 1.1 years ago; Crawled: 10 months ago; <th>(7) Full Name (Last, Suffix, First, Middle) Street Address &amp; City, State, Zip Code</th> ... <td>TST Calle Ocho,<br>521 Sw 8th St<br>Miami, FL 33130</td> ... <td>17 Restaurant,<br>1751 Alton Road<br>Miami Beach, FL 33139</td>\nCAMPAIGN TREASURER’S REPORT – ITEMIZED EXPENDITURES\n\n(1) Name: Ronnie Eith  \n(2) I.D. Number: 69  \n(3) Cover Period: 10/29/2021 through 1/31/2022  \n(4) Page 1 of 3\n\n<table id=\"e1\">\n<tr>\n<th>(5) Date</th>\n<th>(6) Sequence Number</th>\n<th>(7) Full Name (Last, Suffix, First, Middle) Street Address &amp; City, State, Zip Code</th>\n<th>(8) Purpose (add office sought if contribution to a candidate)</th>\n<th>(9) Expenditure Type</th>\n<th>(10) Amendment</th>\n<th>(11) Amount</th>\n</tr>\n<tr>\n<td>11/1/2021<br>1</td>\n<td>TST Calle Ocho,<br>521 Sw 8th St<br>Miami, FL 33130</td>\n<td>coffee meeting with donors</td>\n<td>MO</td>\n<td></td>\n<td>$14.74</td>\n</tr>\n<tr>\n<td>11/1/2021<br>2</td>\n<td>BOMBBOM,<br>90 Cascade Ave<br>Colorado Springs, CO 80903</td>\n<td>online video marketing</td>\n<td>MO</td>\n<td></td>\n<td>$49.00</td>\n</tr>\n<tr>\n<td>11/1/2021<br>3</td>\n<td>Facebook,<br>1 Hacker Way<br>Menlo Park, CA 94025</td>\n<td>online marketing</td>\n<td>MO</td>\n<td></td>\n<td>$409.67</td>\n</tr>\n<tr>\n<td>11/1/2021<br>4</td>\n<td>Olivers Bistro,<br>901 West Ave<br>Miami Beach, FL 33139</td>\n<td>business lunch with staff</td>\n<td>MO</td>\n<td></td>\n<td>$52.40</td>\n</tr>\n<tr>\n<td>11/2/2021<br>5</td>\n<td>17 Restaurant,<br>1751 Alton Road<br>Miami Beach, FL 33139</td>\n<td>campaign dinner with staff</td>\n<td>MO</td>\n<td></td>\n<td>$212.57</td>\n</tr>\n<tr>\n<td>11/2/2021<br>6</td>\n<td>Deem Marketing,<br>7156 Laurel Lane<br>Miami Lakes, FL 33014</td>\n<td>campaign marketing</td>\n<td>MO</td>\n<td></td>\n<td>$2,400.00</td>\n</tr>\n<tr>\n<td>11/3/2021<br>7</td>\n<td>Smith &amp; Wollensky,<br>1 Washington Ave<br>Miami Beach, FL 33139</td>\n<td>campaign dinner with marketing team</td>\n<td>MO</td>\n<td></td>\n<td>$206.58</td>\n</tr>\n<tr>\n<td>11/3/2021<br>8</td>\n<td>Citibank,<br>1801 Alton Road<br>Miami Beach, FL 33139</td>\n<td>bank fee</td>\n<td>MO</td>\n<td></td>\n<td>$15.01</td>\n</tr>\n</table>\n\nDS-DE 14 (Rev. 11/13)  \nSEE REVERSE FOR INSTRUCTIONS AND CODE VALUES",
+          "title": "CAMPAIGN TREASURER’S REPORT – ITEMIZED EXPENDITURES",
+          "url": "https://www.fec.state.fl.us/FECWebFi.nsf/0/BABD25012D0B4CB885258D4C00526CC2/%24file/22-043%2BEith%2C%2BRonnie_Redacted.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn2search8 [wordlim: 200] Crawled: last week; #### 169 SW 7th St #CU-C & CU-D, Miami, FL 33130 ... High-Visibility Corner Retail Suite ... Open storefront space includes private offices, an interior restroom, customer access, and on-site parking.\n\nMultiple retail suites are available within a mixed-use building featuring residences above and substantial structured parking.\n\nView details\n\nRetail Space with Outdoor Terrace\n\n#### 169 SW 7th St #CU-C & CU-D, Miami, FL 33130\n\n$75 SF/Yr\n\n3,522 sqft\n\nGround-floor retail space with an outdoor terrace and open layout, offering strong street visibility on a busy urban corridor.\n\nView details\n\nHigh-Visibility Corner Retail Suite\n\n#### 669-75-6211 Nw 7th Ave, Miami, FL 33130\n\n$4,900/Mo\n\n1,873 sqft\n\nCorner retail suite on a busy intersection with recent upgrades and high vehicle and pedestrian activity.\n\nView details\n\nNeighborhood Strip Center Retail Bay\n\n#### Miami, FL 33176\n\nContact for pricing\n\n1,200 sqft\n\nOpen storefront space includes private offices, an interior restroom, customer access, and on-site parking.\n\nView details\n\nNew Retail Space\n\n#### 7890 SW 104th St, Miami, FL 33156\n\nContact for pricing\n\n2,100 sqft\n\nRetail space within a new development serving the Miami market.\n",
+          "title": "Page 4 - Miami, FL Storefront properties for Rent & Lease | Realmo",
+          "url": "https://realmo.com/storefront-properties/for-lease/fl/miami/?page=4"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn2search9 [wordlim: 200] Crawled: last month; * Image: 1st image of 169 SW 7th St ... # 169 SW 7th St, Miami, FL 33130 ... GEAT EXPOSURE-THIS RETAIL SPACE IS LOCATED DIRECTLY ON SW 7 ST - A HIGH TRAFFIC OCATION NEXT TO MAIN ARTERY TO I-95. ... ### Interior\n\nGet started\n\nList with your own agent\n\nGet your home in front of millions of buyers by listing it on Zillow.\n\nLearn how to do it\n\nSell it yourself\n\nTake full control of how buyers see your home on Zillow by listing For Sale by Owner (FSBO).\n\nList your home\n\n## What's special\n\nCORNER COMMERCIAL SPACE OF 1,801 SQFT IN TREND DEFINING BUILDING. GEAT EXPOSURE-THIS RETAIL SPACE IS LOCATED DIRECTLY ON SW 7 ST - A HIGH TRAFFIC OCATION NEXT TO MAIN ARTERY TO I-95. 2 MINUTES FROM BRICKELL VILLAGE & 10 MINUTES FROM SOUTH BEACH. VISITORS MAY DOCK THEIR BOAT & TAKE A STROLL ON RIVERFRONT. UNIT INCLUDES 2 ASSIGNED PARKING SPACES & METERED OFF/ST & VALET. LOW MIANTENANCE FEES OF JUST $47/MONTH. LIGHT CEILING HEIGHT OF OVER 16 FT & GREASE TRAPS UP TO 950 GALLONS.<br/><br/>Brokered And Advertised By: Neo Realty LLC<br/>Listing Agent: Maria Calderon\n\nThis property is off market, which means it's not currently listed for sale or rent on Zillow. This may be different from what's available on other websites or public sources.\n\nHide\n\n## Facts & features\n\n### Interior\n\n###### Interior area\n\n  * Total interior livable area: 101 sqft\n\n### Property\n\n###### Details\n\n  * Parcel number: 0141381224440\n\n### Construction\n\n###### Type & style\n\n  * Home type: MultiFamily\n\n###### Condition\n\n  * Year built: 2006\n\n### Community & HOA\n\n###### Location\n\n  * Region: Miami\n\n### Financial & listing details\n\n  * Price per square foot: $7,402/sqft\n  * Tax assessed value: $797,900\n  * Annual tax amount: $9,975\n\nHide\n\n## Price history\n\nDate  | Event  | Price\n--- | --- | ---\n2/2/2011  | Sold  | $268,800-38.5%$2,661/sqft\nSource: Public Record Report a problem\n6/22/2010  | Listing removed  | $437,000$4,327/sqft\nSource: Neo Realty LLC #M1279223 Report a problem\n5/20/2010  | Listed for sale  | $437,000$4,327/sqft\nSource: Neo Realty LLC #M1279223 Report a problem\n\n## Public tax history\n\nYear  | Property taxes  | Tax assessment\n--- | --- | ---\n2025  | $9,975 +4.5%  | $350,658 +10%\n2024  | $9,549 -14.7%  | $318,780 -24.5%\n2023  | $11,195 +41.5%  | $422,180 +10%\n",
+          "title": "169 SW 7th St, Miami, FL 33130 | Zillow",
+          "url": "https://www.zillow.com/homedetails/169-SW-7th-St-Miami-FL-33130/72579054_zpid/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn2search10 [wordlim: 25] Published: 7.6 years ago; Crawled: 3 months ago; The team behind Ball & Chain has just added another property to their Little Havana  collection, recently acquiring the ownership of  Calle Ocho Mexican mainstay, Taquerias el Mexicano at 521 SW 8th St.While it is retro (circa 1985 retro), and, like Ball & Chain will remain so, the restaurant will have a few modern twists.\n\n# This Little Havana taco shop is getting a makeover -- and a Mexican candy shop\n\nBy Lesley Abravanel\n\nUpdated February 7, 2019 4:28 AM\n\nImage\n\nThe team behind Ball & Chain has just added another property to their Little Havana  collection, recently acquiring the ownership of  Calle Ocho Mexican mainstay, Taquerias el Mexicano at 521 SW 8th St. While it is retro (circa 1985 retro), and, like Ball & Chain will remain so, the restaurant will have a few modern twists.\n\n“We want to keep the venue as authentic as possible,” says co-owner Zack Bush. “Several key employees that have been an integral part of the restaurant for 15 to 20 years have played a crucial role in ensuring the integrity of this landmark establishment. We are proud and honored to carry the Taquerias torch on Calle Ocho.”\n\nImage: TEM_Exterior\n\nFans of Taquerias’ handmade tortillas, signature mole and traditional Mexican fare from tacos and tortas to burritos and fajitas, will be happy to taste that not much has changed, but a few things will be different.\n\nOpening in late October is Los Altos Dulceria, the restaurant’s second-floor Mexican novelty store and candy shop selling all sorts of sweets, including signature Taquerias el Mexicano-branded candy, and even costumes.\n\nWhen new owners Zack and Ben Bush and Bill Fuller traveled to Mexico several times to ensure the authenticity of the food and cocktails, they met renowned Mexican bartender Erick Gaytan, who consulted on and modified the booze menu to reflect his passion for mezcal and tropical cocktails. Among the features on the cocktail menu: La Famosa Frozen Horchata, a recipe that is secret. The classics are also there and you can try them all during their daily happy hour from 3-7 p.m. featuring two for one margaritas and beers.\n\nThis story was originally published October 14, 2018 at 11:10 PM.",
+          "title": "Little Havana taco shop Taquerias el Mexicano has new owners | Miami.com | Miami Herald",
+          "url": "https://www.miamiherald.com/miami-com/restaurants/article224344865.html"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn2search11 [wordlim: 200] Published: 2 weeks ago; Crawled: 2 weeks ago; 521 SW 8th St, Miami, Florida ... ## About the restaurant\n\n# Taquerias El Mexicano\n\n521 SW 8th St, Miami, Florida\n\nTaqueria$$\n\n  1. Home\n  2. Restaurants\n  3. Taquerias El Mexicano\n\n## About the restaurant\n\nLittle Havana institution serving Mexican classics on Calle Ocho since 1985, now run by the Ball & Chain team with the Los Altos speakeasy bar upstairs.\n\nIn Miami (Florida) you'll find Taquerias El Mexicano, a spot specialising in tacos and Mexican antojitos. Prices are moderate ($$).\n\nWebsite +1 305-456-5905\n\nGet directions\n\nListing created by the directory\n\nThis business does not yet manage its listing. Data may not be up to date.Last updated: 3 Sept 2026\n\n\n## Make it at home\n\nLove the food at Taquerias El Mexicano? Cook authentic Mexican recipes in your own kitchen.\n\nGorditas de la VillaElote en Vaso (Mexican Street Corn in a Cup)Potato and Cheese FlautasYucatecan Joroches\n\n\n## Other Mexican restaurants in Miami\n\nTacology Taqueria·$$Bakan Mexican·$$Autentica Taqueria Taqueria·$$Cha Cha Chá Mexican·$$$",
+          "title": "Taquerias El Mexicano — Restaurant in Miami | Recetas Mexas",
+          "url": "https://recetasmexas.com/en-us/restaurant/taquerias-el-mexicano-miami"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn2search13 [wordlim: 200] Published: 7.2 years ago; Lung Yai Thai Tapas Restaurant ... 521 SW 8th St.\n",
+          "title": "LITTLE HAVANA",
+          "url": "https://www.miamiandbeaches.com/getmedia/359e77ee-789c-49a5-aa48-f281d97814e2/2019-20-Multicultural-Guide.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn2search14 [wordlim: 200] Published: 10 months ago; RESTAURANT SPACE FOR LEASE•UNIT CU-E169 SW 7TH STREET• MIAMI\n",
+          "title": "RESTAURANT SPACE FOR LEASE•UNIT CU-E",
+          "url": "https://res.cloudinary.com/jll-global-ods/image/upload/v1576088766/prod/clientfirst/availability/yooyoswp6h0n6cvvqlx8.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn2search15 [wordlim: 200] Published: 11 months ago; Mexican restaurant located at 521 SW 8th Street.\n",
+          "title": "Case 1:21-cv-23485-XXXX   Document 1   Entered on FLSD Docket 09/30/2021   Page 1 of 66",
+          "url": "https://www.miaminewtimes.com/media/pdf/mad_room_complaint.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn2search16 [wordlim: 200] Published: 1.4 years ago; <td>EL RINCONCITO LATINO RESTAURANT<br>8488 SW 8TH STREET, MIAMI</td> ... <td>TAQUERIAS EL MEXICANO<br>521 SW 8 STREET, MIAMI</td>\n",
+          "title": "State of Florida",
+          "url": "https://www2.myfloridalicense.com/abt/documents/CityFeeDistribution3rdQtr2024-2025.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn2search17 [wordlim: 200] Published: 12.1 years ago; Taqueria El Mexicano — 521 SW 8th St ... TGI Fridays Restaurant — 500 Ocean Dr., Miami Beach, FL\n",
+          "title": "Goodfella's — 10442 SW 186th St.",
+          "url": "https://watscocenter.com/wp-content/uploads/2016/10/BankUnited-Center-Market-Profile-2014.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn2view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({\"ref_id\":\"turn0search2\",\"lineno\":null}); Total lines: 277\nL17: Strategically located in Brickell, Miami’s premier urban district, characterized by a dense residential population, major financial institutions, and a high-spending consumer base.FA Commercial is pleased to present an exclusive off-market business sale opportunity for a fully built, high-end restaurant. This turnkey space features complete kitchen infrastructure, bar build-out, HVAC, and FF&E, offering immediate operational capability with minimal downtime and capital expenditure.\nL18: The existing layout and infrastructure provide flexibility for a variety of culinary concepts, making it an ideal opportunity for operators seeking a seamless entry into a prime, high-demand location.\n",
+          "title": "871 South Miami Avenue, Miami, FL 33130 | CommercialCafe.com",
+          "url": "https://www.commercialcafe.com/commercial-property/us/fl/miami/turnkey-restaurant-opportunity-brickell/"
+        }
+      ]
+    },
+    {
+      "id": "rs_0051b4a8be440fb1006ab34f796a0887d0954725171dc33a9f",
+      "summary": [],
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqs0-N5YTGrbV4Z8HlpUsZDU0046a8agiJnmdqp1SfIgYu0O3Vyhq72QnyYL2diYGq89HHu74XrU18t4vGxZq9V6yjfhikyasmaK_KVestrbQeiK5gr4KMtSenEpT3JvZ58szDnZ-xMSGwKQGzedpK7rt__HFURWyNu3WuETmG7ZaVSlS-BXXjXyrIh30IpZX39uTCZQMEgZaH6MC9rEfgJ-Y-HGv47XoyUU4V13undqzqOhiVJf9JgIT1-iPWegYUBzR6GcUuEOwgnPTdzs7MNHe99txsUO7anzIe3-wWUb4WKyyHykjwHZSjw0nsruuyX9bCT__ASTvbmQz5h44LxanCTVgZx-pguvprUMx84o3i1ke6tuXUMfDpFmyLDTWw8Aqj-pOXkOyRBNKffV8R2lSSK3-SPOeUhFo7BcYNeSeysgS5RnNLV-5ARBRbMeyaOKfeYIVGCfgUNj8b0D3HSYUfldc-reJ7Dg7AV5IxqnWTGVg5RNKL7tlEh4Pfv13i_qNX8FfZWGB1OYWxBAzyKDNcHJ4lMr3aFiSDVXGmRv5UnBi6WeMI9IU_QXr-8YZj6jzXb-dimNXi3bKPJgwUlQq6FkDL6FJK4bGgR72dssjQNDY6CTY_RyqELOVVoJL5rxtoMZ1up5h-qaIvI7iAPfTrWfOmkcFT_sU0V73SLz_A31Jbbg4p0hnInK7b7B0e-TjfWMM2iW_2mw-KL4qOeT8NytMwcHAqNDfL4eQLNrEl80htU-I9N6OeEWvJAEWcWG5siA3Ly7HlgZDjAq2JWkn58GM1XXrX7oCl_HVdy4onYf9W_cpd3j9Z0HZtnDy1FWu5b8pvg0zVyDytaulmDAYzTbp_ZwcijHOcsoP0QFK4b5C4-4B8q5YVhn8TYboBgUg7tOPq7rErtBLi-WInTnbE15tC9w81ZCj3Hqr8ALqk0gxqMS_QcU8859jeimvQJ-wp3rSW1EM4Qog-GauU3b7ODwcX1CXACGDORpL5UeuJFYIK0L1J_HyFu_tEONdnH1_fwJ3fm8ykwVikalQ0vWYeyll0vfei6F8qe5ZDDI3xJ7Rw_FpxA5m7sYzCSnVU3TSAN-2HVx6fNgDMZN4zcXZ4-ueBphDovqaty7oYlSGr1uuotpUtLhbHkaYmn1pJEHPXe2cg4UOsRDeHOwhC9bhQQ7dXeGaII_KV43xy39jcmq1DfqAi_H10FEeIdpr7PrIknvW2Rb2_jRVyTOGRHvkpYtj_BUK5ul6fUEFutjFRcgo1VWkcCFuYRVLZqeamaxkP",
+      "status": null
+    },
+    {
+      "id": "ws_0051b4a8be440fb1006ab34f79dbf887d0b135cf00c91f6bf0",
+      "action": {
+        "type": "search",
+        "queries": [
+          "\"1713 W Flagler\" restaurant sale",
+          "\"1201 W Flagler\" restaurant photos"
+        ],
+        "query": "\"1713 W Flagler\" restaurant sale",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://miamifl.casa/inmueble/a11915404-169-sw-7th-street-cu-c-cu-d-miami-fl-33130/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.bizbuysell.com/shared/listings/227/2272329/4239fa93-e1fe-4b0d-ad8f-f849680c3062.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.propertyshark.com/mason/Property/27240524/1713-W-Flagler-St-Miami-FL-33135/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.hawkinscre.com/sales_news_story/0141030120340/1/1/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.loopnet.com/property/1713-w-flagler-st-miami-fl-33135/12086-0141030120340/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.realty.com/commercial-listings/1037301454/1713-W-Flagler-St-Miami-FL-33135"
+          },
+          {
+            "type": "url",
+            "url": "https://www2.myfloridalicense.com/abt/documents/CityFeeDistribution3rdQtr2025-2026.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www2.myfloridalicense.com/abt/documents/CityFeeDistribution2ndQtr2025-2026.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.homes.com/property/1713-w-flagler-st-miami-fl/rr3fs8yew00y0/"
+          },
+          {
+            "type": "url",
+            "url": "https://www2.myfloridalicense.com/abt/documents/CountyFeeDistribution2ndQtr2025-2026.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.loopnet.com/Listing/1713-W-Flagler-St-Miami-FL/37245513/"
+          },
+          {
+            "type": "url",
+            "url": "https://realmo.com/listing/13056588"
+          },
+          {
+            "type": "url",
+            "url": "https://www.restaurantji.com/fl/miami/cacao-cafe-/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.exprealty.com/miami-fl-real-estate/1201-w-flagler-st"
+          },
+          {
+            "type": "url",
+            "url": "https://elementix.com/investors/fl/antonio-bigorra"
+          },
+          {
+            "type": "url",
+            "url": "https://consentdecreepdr.azurewebsites.net/Home/DownloadDocument?documentName=Response+to+the+EPA+and+FDEP+Comments+in+the+FOG+Control+Program.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.showcase.com/1713-w-flagler-st-miami-fl-33135/37245513/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.postcard.inc/places/cacao-cafe-miami-jMbibHMzvQa"
+          },
+          {
+            "type": "url",
+            "url": "https://images1.showcase.com/d2/PKhX5EQKgr-xuJgiV3aWlHl34labnMiNOUetfJ3UoFI/document.pdf"
+          }
+        ]
+      },
+      "status": "completed",
+      "type": "web_search_call",
+      "results": [
+        {
+          "type": "text_result",
+          "snippet": "citeturn3search12 [wordlim: 200] Published: 3 months ago; 1713 W FLAGLER ST ... \"Business For Sale” ... Cafeteria/Restaurant in the Heart of\nFAUSTOCOMMERCIAL.COM\nPRICE:  $120,000\n1713 W FLAGLER ST\nMiami FL, 33135\nUnit Size: 850 Sqft\nLease Rate: $3,500\nLease Term: New/Negotiable \n\"Business For Sale”\nP r o p e r t y  H i g h l i g h t s :\n- G r e a s e  T r a p\n- H o o d  S y s t e m\n- F r y e r s\n- C o f f e e  M a c h i n e s\n- F r e e z e r\n- B a r\n- O n e  B a t h r o o m\n- P r i m e  L i t t l e  H a v a n a  \nWell-Known, \nLong-Running,\nNeighborhood \nVenezuelan\nCafeteria/Restaurant in the Heart of\nLittle Havana right on W Flagler\nStreet. Massive upward trajectory for\nsales as Little Havana population\ncontinues to swell, with an area\npopulation of 100,000+. The site\nfeatures indoor and outdoor seating,\ngrease trap, hood, fryers and great\nprospects for delivery business. The\nbusiness is conveniently located\nright of W Flagler Street and near\nmany residential developments.\nALESSANDRO LIMA\nC: 305.281.4469 \nE: AML@FAUSTOCOMMERCIAL.COM\nVISIT FAUSTOCOMMERCIAL.COM\n1761 W FLAGLER ST, MIAMI, 33135",
+          "title": "flyer template",
+          "url": "https://www.bizbuysell.com/shared/listings/227/2272329/4239fa93-e1fe-4b0d-ad8f-f849680c3062.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn3search0 [wordlim: 200] Crawled: last week; Also known as: 1713 W Flagler St ... ## Sales history for 1713 West Flagler Street, Miami, FL 33135Sale date  | Sale price  | Buyer name  | Seller name\n\n# 1713 West Flagler Street, Miami, FL 33135 - Property report\n\nAlso known as: 1713 W Flagler St\n\nImage: Property image for 1713 West Flagler Street, Miami, FL 33135\n\nImage: static Mapbox map\n\nProperty type\n\nStore: Retail Outlet (1111)\n\nYear built\n\n1977\n\nAcreage\n\n0.071\n\nSale price\n\n$600,000\n\n## General information\n\nAddress\n\nPrimary address\n\n1713 West Flagler Street\n\nZIP code\n\n33135\n\nCounty\n\nMiami-Dade\n\nMunicipality\n\n01\n\nNeighborhood\n\n014103012\n\nParcel ID\n\n0141030120340\n\nSales\n\nSale date\n\n07/02/2025\n\nSale price\n\n$600,000\n\nArm's length\n\nUnlock info\n\nTax\n\nTax year\n\n2025\n\nCurrent property tax\n\n$7,774\n\nBuilding\n\nProperty type\n\nStore: Retail Outlet (1111)\n\nBuilding sq. ft.\n\n1,836\n\nBuildings on lot\n\n1\n\nStories\n\n1\n\nYear built\n\n1977\n\nLot\n\nTotal sq. ft.\n\n1,836\n\nAcreage\n\n0.071\n\nZoning & Use\n\nZoning\n\nUnlock info\n\n## Area overview\n\nWalk score\n\n91 /100.  Walker's Paradise\n\nTransit score\n\n54 /100.  Good Transit\n\nBike score\n\n56 /100.  Bikeable\n\nSchool district\n\nMiami-Dade County Public Schools\n\nBroadband internet providers and speed map\n\nUnlock info\n\nTypes of broadband connections\n\nUnlock info\n\nOwnership\n\n## Ownership information for 1713 West Flagler Street, Miami, FL\n\nProperty owner name\n\nRegistered owner\n\nUnlock info\n\nSource\n\nDeed\n\nOwner contact information\n\nPhone number\n\nUnlock info\n\nOwner address\n\nUnlock info\n\nDocuments\n\n## Sales history for 1713 West Flagler Street, Miami, FL 33135\n\nSale date  | Sale price  | Buyer name  | Seller name\n--- | --- | --- | ---\n07/02/2025  | $600,000  | XXXXXXX X XXXXXX XXX XXX  | XXXXXXXXX XXXXX X\n08/22/2006  | $215,000  | XXXXX XXXX  | XXXXXXX, XXXXXXX XXX XX; XXXXXXX, XXXXXX; XXXXXXXX, XXXXXX\n09/28/1993  | $10  | XXXXXXXX, XXXXXX  | XXXXXXXX, XXXXXXX\n\n*Most recent sales on record for this property.\n\nMore about Miami-Dade County property records.\n\n",
+          "title": "1713 W Flagler St, Miami, FL 33135 - Owner, Sales, Taxes",
+          "url": "https://www.propertyshark.com/mason/Property/27240524/1713-W-Flagler-St-Miami-FL-33135/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn3search1 [wordlim: 200] Published: 1.2 years ago; Crawled: 3 months ago; When considering this 1713 W Flagler St property sale one should consider other properties within its zip code 33135, some of which are currently for sale in this same zip code, as well as off-market listings in the area. ... NOTE: This is a commercial real estate sales new story only - NOT a listing - about the July 01, 2025 sale of the commercial real estate property with Miami-Dade folio number 01-1030-012-0340 (0141030120340 without the dashes) and an address of 1713 W Flagler St in Miami, Florida 33135.\n\nHome » Commercial Property Sales News\n\n# The Commercial Property at the Street Address 1713 W Flagler St, Miami, FL 33135 Changed Hands On July 01, 2025\n\n`\nWarning: Undefined array key \"adr\" in /home/hawkinscre/public_html/engine/sources.php on line 369\n\nImage: Street View for folio 0141030120340\n\nThis is a news story only, not a listing.\n\nIt has been officially reported that the property located at 1713 W Flagler St in Miami within zip code 33135 and with the folio number 01-1030-012-0340 sold on July 01, 2025\nWarning: Undefined variable $salesprice in /home/hawkinscre/public_html/engine/sources.php on line 409\n. The sale type was recorded as \"Qual by exam of deed.\" Sales prices as recorded by the property appraiser frequently do not represent the whole story; thus full transaction details should be confirmed with the parties. Specific information about the buyer and seller in this transaction may be found by navigating to our property appraiser links for this property, clicking through on the link to \"Main Page with Lot Outline, Aerial Views,\" then clicking through on the applicable sale on the date July 01, 2025 and with an amount of $600,000.00 about two thirds down the page, under the heading \"Sales Information.\"\n\nWhen considering this 1713 W Flagler St property sale one should consider other properties within its zip code 33135, some of which are currently for sale in this same zip code, as well as off-market listings in the area. Information on prior sales of area properties as well as current listings can be useful to gauge area pricing, but are not perfectly reliable. Current zip code 33135 demographics information, with a dizzying array of charts, can be informative, as can the Zip Code 33135 Commercial Property Investment Profile page, displaying metrics on sales trends, turnover, and more. Demographics for Miami, the South Florida city in which the property is located, may also be worth reviewing.\n\nCommercial properties that are currently listed in zip code 33135 can also give a representation of current market value, although it should be noted that actual selling prices are a better indicator as an asking price for any property is only that, an asking price. \nUpdate: This 1713 W Flagler St property in Miami within the zip code 33135 in Florida has subsequently been reported by the Miami-Dade Property Appraiser to have 1,563 adjusted square feet of building that was built in 1977 showing an effective year built (also) of 1977. This 1,563 square footage (adjusted) of building put it in the 0 to 2,500 square feet range. Having a lot size of 3,112 square feet, one would perhaps put it in the 0 to 5,000 square feet range as far as lot size. Further, again on a date after the sale, the property is referenced by Miami-Dade county as zoned 6100 - COMMERCIAL - NEIGHBORHOOD with a land use of 1111 - STORE : RETAIL OUTLET.\nWarning: Undefined variable $muniname in /home/hawkinscre/public_html/engine/sources.php on line 586\nThis Miami-Dade reference for zoning is believed to translate into T6-8 O zoning in Miami, Florida, information about which may be found here. Any such (T6-8 O zoned properties) in may be found here. Note that since this was reported subsequent to the sale, it is possible these were different at the time of the sale.\n\nNOTE: This is a commercial real estate sales new story only - NOT a listing - about the July 01, 2025 sale of the commercial real estate property with Miami-Dade folio number 01-1030-012-0340 (0141030120340 without the dashes) and an address of 1713 W Flagler St in Miami, Florida 33135.\n\nImage: James Hawkins | Hawkins Commercial Realty | Miami, Florida\n\nJames Hawkins\nHawkins Commercial Realty\njames@hawkinscre.com\n(786)581-7990",
+          "title": "The Commercial Property at the Street Address 1713 W Flagler St, Miami, FL 33135 Changed Hands On July 01, 2025 | Commercial Property News | HawkinsCRE.com",
+          "url": "https://www.hawkinscre.com/sales_news_story/0141030120340/1/1/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn3search2 [wordlim: 200] Crawled: 4 months ago; This page contains information about the property located at 1713 W Flagler St, Miami, FL, 33135. ... LoopNet.com has seen the following sale and lease activity for the property located at 1713 W Flagler St, Miami, FL\n\n$1,200,000\n\n2,900 SF\n\nOffice\n\n  * 403 SW 12th Ave\n\nMiami, FL 33130\n\n$1,749,000\n\n3,528 SF\n\nMultifamily\n\n  * 2268 SW 8th St\n\nMiami, FL 33135\n\n$4,180,000\n\n8,739 SF\n\nRetail\n\n  * 2390 NW 7th St\n\nMiami, FL 33125\n\n$7,990,000\n\n14,112 SF\n\nOffice\n\n  * 1000 SW 8th St\n\nMiami, FL 33130\n\n$5,620,000\n\n8,959 SF\n\nRetail\n\n  * 69 NW 27th Ave\n\nMiami, FL 33125\n\n## DEMOGRAPHICS near 1713 W Flagler St\n\n1 mile\n\n3 mile\n\n5 mile\n\n2025 Total Population\n\n60,381\n\n364,920\n\n570,562\n\n2030 Population\n\n64,496\n\n394,272\n\n616,608\n\nPop Growth 2025-2030\n\n+ 6.82%\n\n+ 8.04%\n\n+ 8.07%\n\nAverage Age\n\n43\n\n41\n\n41\n\n2025 Total Households\n\n23,999\n\n157,080\n\n237,238\n\nHH Growth 2025-2030\n\n+ 6.97%\n\n+ 8.29%\n\n+ 8.32%\n\nMedian Household Inc\n\n$40,669\n\n$69,626\n\n$69,608\n\nAvg Household Size\n\n2.40\n\n2.20\n\n2.30\n\n2025 Avg HH Vehicles\n\n1.00\n\n1.00\n\n1.00\n\nMedian Home Value\n\n$531,396\n\n$615,556\n\n$642,891\n\nMedian Year Built\n\n1962\n\n1983\n\n1977\n\n## Nearby Places\n\n## PUBLIC TRANSPORTATION\n\nCOMMUTER RAIL\n\nDrive\n\nWalk\n\nDistance\n\n5 min\n\n1.8 mi\n\nCulmer (Metrorail Green Line - Miami-Dade Transit (Metrorail/Metromover))\n\nDrive\n\nWalk\n\nDistance\n\nCulmer (Metrorail Green Line - Miami-Dade Transit (Metrorail/Metromover))\n\n6 min\n\n2.3 mi\n\nAIRPORT\n\nMiami International\n\nDrive\n\nWalk\n\nDistance\n\nMiami International\n\n20 min\n\n9.9 mi\n\nFort Lauderdale/Hollywood International\n\nDrive\n\nWalk\n\nDistance\n\nFort Lauderdale/Hollywood International\n\n36 min\n\n24.1 mi\n\nFreight Ports\n\nPort of Miami\n\nDrive\n\nWalk\n\nDistance\n\nPort of Miami\n\n11 min\n\n4.5 mi\n\n## SALE & LEASE HISTORY\n\nLoopNet.com has seen the following sale and lease activity for the property located at 1713 W Flagler St, Miami, FL\n\n \n\nLISTING DATE\n\nSALE/LEASE\n\nAug 12, 2025\n\nFor Lease\n\n## Nearby Properties",
+          "title": "1713 W Flagler St, Miami, FL 33135 - APN/Parcel ID: 01-4103-012-0340",
+          "url": "https://www.loopnet.com/property/1713-w-flagler-st-miami-fl-33135/12086-0141030120340/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn3search3 [wordlim: 200] Published: 1.3 years ago; Crawled: 1.3 years ago; Image: Map location of 1713 W Flagler St, Miami, FL 33135 ... # 1713 W Flagler St, Miami, FL 33135 ... Profitable cafeteria/restaurant for sale with huge growth potential. ...   * Miami Beach, FL Homes for Sale\n\nImage: Map location of 1713 W Flagler St, Miami, FL 33135\n\n$98,000\n\nUnlock Price Rating!\n\n# 1713 W Flagler St, Miami, FL 33135\n\nListing By: Ricardo Rodriguez - Power One Real Estate Services, Inc. 786-486-2188Image: flramb Realty.com\n\n Contact\n\n- Beds\n\n0 Baths\n\n1,836 Sq Ft\n\nTurnkey Opportunity! Profitable cafeteria/restaurant for sale with huge growth potential. Currently open limited hoursbut imagine the revenue boost with extended service! Located in a high-traffic area, this established business already generates income and is ready to scale. Ideal for owner-operators or investors looking to capitalize on untapped demand. Sale includes all fixtures and equipment. Landlord guarantees a minimum 5-year lease to new owner. Step in and start earning from day oneexpand and watch profits soar!\n\n  * MLS# A11810556\n  * Date Listed05/27/2025\n  * Bedrooms -\n  * Bathrooms\n  * Lot Size -\n  * Sewer Public Sewer\n  * Property Type Business\n  * County Miami-Dade\n  * Year Built 1977\n",
+          "title": "1713 W Flagler St, Miami, FL 33135, MLS# A11810556 - flramb",
+          "url": "https://www.realty.com/commercial-listings/1037301454/1713-W-Flagler-St-Miami-FL-33135"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn3search13 [wordlim: 200] Published: 5 months ago; <td>FOOD MART<br>1695 NW 119TH ST, MIAMI</td> ... <td>CACAO CAFE<br>1713 W FLAGLER ST, MIAMI, MIAMI</td>\n<td>53.20</td>\n<td>A</td>\n</tr>\n<tr>\n<td>2338704</td>\n<td>RISHTEDAR<br>232 NW 24 ST, MIAMI</td>\n<td>4COP</td>\n<td>SFS</td>\n<td>258644356</td>\n<td>03/27/2026</td>\n<td>002102</td>\n<td>691.60</td>\n<td>A</td>\n</tr>\n<tr>\n<td>2338707</td>\n<td>CACAO CAFE<br>1713 W FLAGLER ST, MIAMI, MIAMI</td>\n<td>2APS</td>\n<td></td>\n<td>258648274</td>\n<td>03/28/2026</td>\n<td>002102</td>\n<td>53.20</td>\n<td>A</td>\n</tr>\n<tr>\n<td>2338710</td>\n<td>EL COLISEO<br>7317 SW 107TH AVE, MIAMI</td>\n<td>2COP</td>\n<td></td>\n<td>258567314</td>\n<td>02/24/2026</td>\n<td>002102</td>\n<td>106.40</td>\n<td>A</td>\n</tr>\n<tr>\n<td>2338712</td>\n<td>MI PEQUENA NICARAGUA<br>761 NW 29TH ST, MIAMI</td>\n<td>2APS</td>\n<td></td>\n<td>258544890</td>\n<td>02/16/2026</td>\n<td>002102</td>\n<td>53.20</td>\n<td>A</td>\n</tr>\n<tr>\n<td>2338714</td>\n<td>LA UCHIRENA KENDALL<br>13742 SW 56 ST, MIAMI</td>\n<td>2COP</td>\n<td></td>\n<td>258583187</td>\n<td>03/04/2026</td>\n<td>002102</td>\n<td>106.40</td>\n<td>A</td>\n</tr>\n<tr>\n<td>2338722</td>\n<td>CASA LUCAS<br>7950 SW 8 ST, MIAMI</td>\n<td>2COP</td>\n<td></td>\n<td>258645153</td>\n<td>03/27/2026</td>\n<td>002102</td>\n<td>106.40</td>\n<td>A</td>\n</tr>\n<tr>\n<td>2338724</td>\n<td>GASNAN2 LLC<br>16299 BISCAYNE BLVD, NORTH MIAMI</td>\n<td>2APS</td>\n<td></td>\n<td>258612767</td>\n<td>03/17/2026</td>\n<td>002102</td>\n<td>53.20</td>\n<td>A</td>\n</tr>\n</tbody>\n</table>\n\nApril 10, 2026 07:04  \nfldp42 - Fee Disbursement Balance  \nPage 880 of 3168",
+          "title": "State of Florida",
+          "url": "https://www2.myfloridalicense.com/abt/documents/CityFeeDistribution3rdQtr2025-2026.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn3search14 [wordlim: 200] Published: 7 months ago; <td>STREET FOOD<br>6752 W FLAGLER ST, MIAMI</td> ... <td>CACAO CAFE<br>1713 W FLAGLER ST, MIAMI, MIAMI</td>\n<td>4COP</td>\n<td>SFS</td>\n<td>257299149</td>\n<td>10/01/2025</td>\n<td>002045</td>\n<td>345.80</td>\n<td>A</td>\n</tr>\n<tr>\n<td>2338697</td>\n<td>NUEVO MINI MARKET LLC<br>7295 SW 24 ST, MIAMI</td>\n<td>2APS</td>\n<td></td>\n<td>257325392</td>\n<td>10/08/2025</td>\n<td>002045</td>\n<td>26.60</td>\n<td>A</td>\n</tr>\n<tr>\n<td>2338699</td>\n<td>STREET FOOD<br>6752 W FLAGLER ST, MIAMI</td>\n<td>2COP</td>\n<td></td>\n<td>257321006</td>\n<td>10/07/2025</td>\n<td>002045</td>\n<td>53.20</td>\n<td>A</td>\n</tr>\n<tr>\n<td>2338704</td>\n<td>RISHTEDAR<br>232 NW 24 ST, MIAMI</td>\n<td>4COP</td>\n<td>SFS</td>\n<td>257341653</td>\n<td>10/14/2025</td>\n<td>002045</td>\n<td>345.80</td>\n<td>A</td>\n</tr>\n<tr>\n<td>2338707</td>\n<td>CACAO CAFE<br>1713 W FLAGLER ST, MIAMI, MIAMI</td>\n<td>2APS</td>\n<td></td>\n<td>257321088</td>\n<td>10/07/2025</td>\n<td>002045</td>\n<td>26.60</td>\n<td>A</td>\n</tr>\n<tr>\n<td>2338710</td>\n<td>EL COLISEO<br>7317 SW 107TH AVE, MIAMI</td>\n<td>2COP</td>\n<td></td>\n<td>257362063</td>\n<td>10/20/2025</td>\n<td>002045</td>\n<td>53.20</td>\n<td>A</td>\n",
+          "title": "State of Florida",
+          "url": "https://www2.myfloridalicense.com/abt/documents/CityFeeDistribution2ndQtr2025-2026.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn3search4 [wordlim: 200] Crawled: last month; This home is located at 1713 W Flagler St, Miami, FL 33135 and is currently estimated at $576,606, approximately $314 per square foot. ... [Button: Homes for Sale] [Button: Sold Homes]\n## Purchase History\n\nWe collect this data history from publicly available records. To have your information removed, we recommend requesting removal directly through your county’s website.\n\nDate  | Buyer  | Sale Price  | Title Company\n--- | --- | --- | ---\nJul '25  | Sign in to view  | $600,000  | None Listed On Document\nJul '06  | Sign in to view  | $215,000  | Attorney\nAug '91  | Sign in to view  | --  | --\n\nSource: Public Records\n\n## Mortgage History\n\nWe collect this data history from publicly available records. To have your information removed, we recommend requesting removal directly through your county’s website.\n\nDate  | Status  | Borrower  | Loan Amount\n--- | --- | --- | ---\nJul '06  | Previous Owner  | Sign in to view  | $160,000\n\nSource: Public Records\n\n## Tax History\n\nWe collect this data history from publicly available records. To have your information removed, we recommend requesting removal directly through your county’s website.\n\nYear  | Tax Paid  | Tax Assessment Tax Assessment Total Assessment is a certain percentage of the fair market value that is determined by local assessors to be the total taxable value of land and additions on the property.  | Land  | Improvement\n--- | --- | --- | --- | ---\n2025  | $7,068  | $377,762  |  | \n2024  | $7,067  | $343,420  |  | \n2023  | $7,067  | $312,200  | $0  | $0\n2022  | $6,092  | $283,819  | $0  | $0\n2021  | $5,946  | $258,018  | $0  | $0\n2020  | $5,313  | $279,132  | $186,720  | $92,412\n2019  | $4,896  | $261,312  | $171,160  | $90,152\n2018  | $4,475  | $231,665  | $140,040  | $91,625\n2017  | $4,843  | $186,459  | $0  | $0\n2016  | $4,661  | $212,771  | $0  | $0\n2015  | $4,632  | $208,329  | $0  | $0\n2014  | $4,692  | $206,877  | $0  | $0\n\n\n",
+          "title": "1713 W Flagler St, Miami, FL 33135 | Homes.com",
+          "url": "https://www.homes.com/property/1713-w-flagler-st-miami-fl/rr3fs8yew00y0/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn3search15 [wordlim: 200] Published: 7 months ago; | 2338699 | STREET FOOD<br>6752 W FLAGLER ST, MIAMI | 2COP |  | 257321006 | 10/07/2025 | 002045 | 33.60 | A | ... | 2338707 | CACAO CAFE<br>1713 W FLAGLER ST, MIAMI, MIAMI | 2APS |  | 257321088 | 10/07/2025 | 002045 | 16.80 | A |\n",
+          "title": "State of Florida",
+          "url": "https://www2.myfloridalicense.com/abt/documents/CountyFeeDistribution2ndQtr2025-2026.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn3search5 [wordlim: 200] Published: 1.1 years ago; Crawled: 4 months ago; The Little Havana Retail Property at 1713 W Flagler St, Miami, FL 33135 is no longer being advertised on LoopNet.com. ... Image: 1713 W Flagler St, Miami, FL for sale Primary Photo- Image 1 of 1 Primary Photo\n",
+          "title": "1713 W Flagler St, Miami, FL 33135 | LoopNet",
+          "url": "https://www.loopnet.com/Listing/1713-W-Flagler-St-Miami-FL/37245513/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn3search6 [wordlim: 200] Published: 1.6 years ago; Crawled: today;   * For Sale ... # 1713-1717 W Flagler St, Miami, FL 33125 ... This property features: Well‑known, long‑running Venezuelan cafeteria/restaurant on W Flagler Street in Little Havana; Restaurant space includes indoor and outdoor seating; Cooking equipment included, along with grease trap and hood for prepared‑food operations\n",
+          "title": "1713-1717 W Flagler St, Miami, FL, 33125 - Venezuelan Restaurant with Seating - Realmo",
+          "url": "https://realmo.com/listing/13056588"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn3search7 [wordlim: 200] Published: last month; Crawled: 4 weeks ago;   * 1713 W Flagler St, Miami ...   * 1713 W Flagler St, Miami, FL 33135\n",
+          "title": "Cacao Cafe, Miami - Menu, Reviews (43), Photos (23) - Restaurantji",
+          "url": "https://www.restaurantji.com/fl/miami/cacao-cafe-/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn3search8 [wordlim: 200] Crawled: 3 months ago; Image: 1201 W Flagler St | Image 1\n",
+          "title": "1201 W Flagler St, Sold in Miami - eXp Realty",
+          "url": "https://www.exprealty.com/miami-fl-real-estate/1201-w-flagler-st"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn3search9 [wordlim: 200] Crawled: last week; 1713 W FLAGLER ST,\n",
+          "title": "Antonio Bigorra - Real Estate Investor in Miami-Fort Lauderdale, FL | Elementix - Lender intelligence",
+          "url": "https://elementix.com/investors/fl/antonio-bigorra"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn3search16 [wordlim: 200] Published: 9.4 years ago; DBA EL DISCO CAFE</td><td>GDO</td><td>2772</td><td>1713 W FLAGLER ST</td><td>3</td></tr> ... <tr><td>1778</td><td>RESTAURANT GROUP OF MIAMI, LLC DBA DENNY'S RESTAURANT</td><td>GDO</td><td>2790</td><td>3850 SW 137 AVE</td><td>3,450</td></tr> ... <tr><td>1845</td><td>UPTOWN BUFFET ACQUISITION CORP.</td><td>GDO</td><td>2897</td><td>8275 W FLAGLER ST #43</td><td>1,725</td></tr>\n",
+          "title": "<table id=\"e1\">",
+          "url": "https://consentdecreepdr.azurewebsites.net/Home/DownloadDocument?documentName=Response+to+the+EPA+and+FDEP+Comments+in+the+FOG+Control+Program.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn3search10 [wordlim: 200] Crawled: 4 months ago; Commercial Real Estate /Florida /Miami/Dade County /Miami /1713 W Flagler St\n",
+          "title": "1713 W Flagler St Miami, FL 33135 - Retail Property for Sale on Showcase.com",
+          "url": "https://www.showcase.com/1713-w-flagler-st-miami-fl-33135/37245513/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn3search11 [wordlim: 200] Published: 6 months ago; Crawled: 5 months ago; Venezuelan restaurant · Little Havana · ... 1713 W Flagler St, Miami, FL 33135 Get directions ... 1713 W Flagler St, Miami, FL 33135 Get directions\n",
+          "title": "Cacao Cafe - Venezuelan restaurant in Little Havana, Miami | Reviews, Photos & Information on Postcard",
+          "url": "https://www.postcard.inc/places/cacao-cafe-miami-jMbibHMzvQa"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn3search17 [wordlim: 200] Published: 1.2 years ago; 1201 W Flagler St ... Restaurant\n",
+          "title": "FOR LEASE\n$35/SF GROSS\n5,000 SF\nAVAILABLE RETAIL S",
+          "url": "https://images1.showcase.com/d2/PKhX5EQKgr-xuJgiV3aWlHl34labnMiNOUetfJ3UoFI/document.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn3view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn2search6\",\"lineno\":null}); Total lines: 268\nL0: cite0†✉️ ESCRÍBANOS L1: \nL2: +1-305-204-6505\nL3: \nL4: cite0†✉️ESCRÍBANOS L5: \nL6: +1-305-204-6505\nL7: \nL8: # Negocio Minorista en renta en 169 SW 7th Street CU-C & CU-D, Miami, FL 33130 con MLS-A11915404\nL9: \nL10: ## 📍 169 SW 7th Street CU-C & CU-D, Miami, FL 33130\nL11: \nL12: $75.00\nL13: \nL14: En Renta\nL15: \nL16: cite1†📷 VER MÁS FOTOS (1/34) cite2†📷 MOSTRAR 33 MÁS FOTOS L17: ## Descripción y Observaciones\nL18: \nL19: LO DESTACADO:\nL20: \nL21:   * Espacio comercial en Brickell con ±3.522 pies cuadrados de área en planta baja y una terraza al aire libre adicional de ±300 pies cuadrados\nL22:   * Visibilidad excepcional en la calle SW 7th Street y la 1ra Avenida con fuerte tráfico peatonal y vehicular durante el día y la noche\nL23:   * Entorno urbano vibrante y concurrido, ideal para restaurantes, cafeterías, tiendas boutique, gimnasios, salas de exposición o conceptos orientados al servicio\nL25: Este espacio comercial en Brickell ofrece ±3.522 pies cuadrados de área en planta baja más una terraza al aire libre adicional de ±300 pies cuadrados. Cuenta con visibilidad excepcional en la calle SW 7th Street y la 1ra Avenida, con fuerte tráfico peatonal y vehicular durante el día y la noche. Está rodeado de torres residenciales, edificios de oficinas de clase A, hoteles y conexiones de transporte, lo que crea una demanda constante de espacios para venta al por menor, restaurantes y servicios.\nL93: ### Impuestos y Gastos\nL94: \nL95: Cantidad del Impuesto de la propiedad anual: $16,414.00\nL96: \nL97: Información Importante Sobre el Impuesto Predial (Impuesto de la Propiedad en Florida)\nL98: \nL99: Al considerar la compra de la propiedad 169 SW 7th Street CU-C & CU-D, Miami, FL 33130, es fundamental tener en cuenta que no debe basar su presupuesto futuro en el monto del impuesto predial que paga el propietario actual.\nL137: ### Información Adicional\nL138: \nL139: Cortesía de: Weichert, Realtors – Capella Estates\nL140: \nL141: Atribución: No proveído\nL142: \nL143: ### Ubicación\nL144: \nL145: Nombre de la calle: 7th\nL146: \nL147: Número de Calle: 169\nL148: \nL149: Número de la Unidad: CU-C & CU-D\nL150: \nL151: Ciudad: Miami\nL152: \nL153: Estado: Florida\nL154: \nL155: Código Postal: 33130\nL156: \nL157: Condado: Miami-Dade\nL158: \nL159: Latitud: N25° 46' 4.4''\nL160: \nL161: Longitud: W81° 48' 13.6''\nL162: \nL163: Sufijo de la dirección: Calle\nL164: \nL165: Prefijo de dirección de calle: SW\nL166: \nL167: cite4†Ver Propiedad en inglés MLS# A11915404†rebonus.com L187: ### Otras propiedades que pudieran interesarle\nL188: \nL189:   * cite5†Oficina en Renta A12074586 25 SW 9th Street CU-5 suite 201, Miami, FL 33130 $70.00 L190:   * cite6†Negocio Minorista en Renta A12047975 650 SW 1st Street 1, Miami, FL 33130 $69.00 L191:   * cite7†Oficina en Renta A12022584 232 SW 8th Street ENTIRE BUILDING, Miami, FL 33130 $75.00 L192: \nL193: cite8†Image: Asociación de REALTORS® cite8†Image: Asociación de REALTORS® ",
+          "title": "Negocio minorista en renta 169 SW 7th Street CU-C & CU-D, Miami, FL 33130 (MLS-A11915404) – MiamiFl.Casa",
+          "url": "https://miamifl.casa/inmueble/a11915404-169-sw-7th-street-cu-c-cu-d-miami-fl-33130/"
+        }
+      ]
+    },
+    {
+      "id": "rs_0051b4a8be440fb1006ab34f7d887887d0ae243fd66737a33e",
+      "summary": [],
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqs0-NeTQC3UwTbxzdIbdCPAyJazb38b4t48GL6jADt9nehaYEhgSGuAAkSQQ_ZsSMipS0JvPhtBrxpR6gkfrAuGh8ZGmEgqEA0D8s60_itldpOQIPf44nvkMPI9bFmWiEHrzV_gCL1TiQTxlrp6yleiMRWMhxNxBdg7Y-WQDtInmNNPjThNje4NWEkkAVrMaSbWZ24G0wGeVasPgc1vsUejcvZJxEvbW08LOd-GAydPXCoT-lRzl0hdVC-3Xt5rcCEm4op66Ur3FvVmP-_XWUK7QiH2fgE62OpX5dzhdsDVU3d11sj30bmzkeyYRCvwiL6DnBLyNrj9OLxQmtnRmVybLgfR-ihzqkrSCBiq5kewWs5Pm5EvBIHZ59T5JSsNORSjaXkn4uj-p-oIVA5eUd3taU3YRNei1TkfvvwaEyiLqk5r9HnYp9fqZqe0zVxvTZnuGYBCchUU8cqynJ5yZWF5DTr6jC1R8k-gj9oQXOeAirneW7tjEiMTlXX2osfd8HLin3UBEKfAMXw9WPb0mScsLhvMjhrSQGWBcFPEnXpyO56ujvPCwBEESJCJmzlcLjEKwSUG3Z7ItDVOa5BqNpQu7MU7yjR65kSYlHWsbVhWuKRDfB9TShVvqw8wmHQocKJ1K7YxZs5l3Tt1h8oltxU-nhn77EjiNapcK5LA-rC74XCX_HRGijw2UaEGMVHctLCTP7r15R7qzTaH98QRy1SllO3DcOOMqs7CDRkg82InofJ1oXVViQ7aToc9FlnPS1zhjIkuzc0xNUwoXm2-Ia7wi_SHg3Tz5fi8c6xAjk7ls5XycS8JmtPj5MPM-fBcK1CpeaS5S50FIcoMPtNttKjj5UYIS6Kdi8596hMHPcIG2S1r43gX6m4wHiJCfoZlDBU85Jif0bvvLJxJP_5mAp0zuPTnM31eyxIAfCSCInKqQNxGzBiP7C1QeszqS3DmdfosjFZSr7DsIvgTXGdcN8Mh7hDUjCW4kv2k8p75Cr4ecHdKC5FYUJGZQCWK7X5OAiiCBpNzzs4orC77WV9WRK9SUp4-xA7a3WAo1ajajxrBtSaAqzutawPye3SGl8NOZK_7EtBRApkKOi0W4Z69DqESfQCgLjLboN-BBuqSfG8g_RwjzojpyF2HR6PlGWP_8YJCAZQnwmGyYyLmGx4zUF8-KngJjFqGvGw5VhHUul-UaO5C5AQ8du4bdeg-xijZiREQKw8cU4SlmLAsth2e_oGUzF277BnaQYPxIPYmR5P0O4jMY=",
+      "status": null
+    },
+    {
+      "id": "ws_0051b4a8be440fb1006ab34f7e00a887d09c00e2d6d04e7255",
+      "action": {
+        "type": "open_page",
+        "url": "https://www.restaurantji.com/fl/miami/cacao-cafe-/"
+      },
+      "status": "completed",
+      "type": "web_search_call",
+      "results": [
+        {
+          "type": "text_result",
+          "snippet": "citeturn4view0 [wordlim: 200] Crawled: 3 months ago; Content type: text/html; Source: open({\"ref_id\":\"turn3search7\",\"lineno\":null}); Total lines: 240\nL0:  cite0†  L1: \nL2: Find\nL3: \nL4: {{ group }}\nL5: \nL6:   * {{ item.name }}\nL7: \nL8: Near\nL9: \nL10:   * {{ item.properties.formatted }}\nL11: \nL12: SEARCH\nL13: \nL14: # Cacao Cafe\nL15: \nL16: $ • cite1†Coffee Shops , cite2†Cuban , cite3†Venezuelan L17: \nL18: Hours:\nL19: cite4†1713 W Flagler St, Miami L20: (786) 294-0839\nL21: \nL22: cite5†Menu cite6†Order Online L23: ## About Cacao Cafe\nL24: \nL25: Cacao Cafe serves tremendous empanadas made fresh in front of customers, weighing around half a kilo each. They offer the best Venezuelan empanadas in town, huge and yummy, reminiscent of homemade empanadas from Venezuela. The cafe uses fresh products and offers great varieties of Venezuelan flavors, making it a highly recommended spot.\nL26: \nL27: ## Customers' Favorites\nL28: \nL29: Empanadas Con Sansón de Nuestra Tierra Venezuela\nL30: \nL31: Con Carne Mechada\nL32: \nL33: Desayunos\nL34: \nL35: Queso\nL36: ## Cacao Cafe Reviews\nL37: \nL38: 4.5\nL39: \nL40: 38 ratings\nL41: \nL42: cite33†Image: Restaurantji Rating L43: \nL44: 5\nL45: \nL46: 84%\nL47: \nL48: 2\nL49: \nL50: 5%\nL51: \nL52: 1\nL53: \nL54: 11%\nL55: \nL56: Food\nL57: \nL58: 4.9\nL59: \nL60: Atmosphere\nL61: \nL62: 4.6\nL63: \nL64: Service\nL65: \nL66: 4.6\nL67: \nL68: Share your opinion about Cacao Cafe\nL69: \nL70: Write a review\nL71: \nL72: cite34†Image: Restaurantji Rating L73: \nL74: cite7†Read All Reviews(38) L75: \nL76: ## Menu\nL77: \nL78: Add a Menu\nL79: \nL80:   cite35†Image: Cacao Cafe Menu†www.restaurantji.com L81: \nL82:   cite36†Image: Cacao Cafe Menu†www.restaurantji.com L83: ## Photos\nL84: \nL85: Add a Photo\nL86: \nL87:   cite37†Image: Cacao Cafe†www.restaurantji.com L88: \nL89:   cite38†Image: Cacao Cafe†www.restaurantji.com L90: \nL91: cite8†View All Photos L92: \nL93: ## Hours\nL94: \nL95:   Monday 7AM - 10PM\nL96: \nL97:  Tuesday 7AM - 10PM\nL98: \nL99:  Wednesday 7AM - 10PM\nL100: \nL101:  Thursday 7AM - 10PM\nL102: \nL103:  Friday 7AM - 10PM\nL104: \nL105:  Saturday 7AM - 10PM\nL106: \nL107:  Sunday 7AM - 10PM\nL108: ## People in Miami Also Viewed\nL109: \nL110: cite9†Fiesta Café Shop L111: \nL112: cite39†Image L113: \nL114: Nicaraguan, Coffee & Tea\nL115: \nL116: * * *\nL117: \nL118: cite10†La Esquina del Pan con Bistec L119: \nL120: cite40†Image L121: \nL122: Cuban, Vegetarian\nL123: \nL124: * * *\nL125: \nL126: cite11†El Rey De Las Fritas L127: \nL128: cite41†Image L129: \nL130: Cuban, Burgers, Vegetarian\nL131: \nL132: * * *\nL133: \nL134: cite12†Restaurants in Miami, FL L135: \nL136: ## Location & Contact\nL137: \nL138: cite4†1713 W Flagler St, Miami, FL 33135 L139: (786) 294-0839\nL140: cite6†Order Online L141: Suggest an Edit\nL142: \nL143: cite13† †www.facebook.com cite14† †www.instagram.com L144: \nL145: ### Take-Out/Delivery Options\nL146: \nL147: delivery\nL148: \nL149: take-out\nL150: ### More Info\nL151: \nL152:  has outdoor seating\nL153: \nL154: #### Nearby Restaurants\nL155: \nL156: cite15† Thank You Miami Cocina & Beer House L157: \nL158: cite42†Image L159: \nL160: * * *\nL161: \nL162: cite9† Fiesta Café Shop L163: \nL164: cite43†Image L165: \nL166: * * *\nL167: \nL168: cite16† Paseo Universitario L169: \nL170: cite44†Image L171: \nL172: * * *\nL173: \nL174: cite17† Royal Banquet Halls - Wedg Reception L175: \nL176: cite45†Image L177: \nL178: * * *\nL179: \nL180: cite18† La Casa De Las Baleadas L181: \nL182: cite46†Image L183: \nL184: * * *\nL185: #### You May Also Like\nL186: \nL187: cite19† America’s Best Gas Station Restaurants and Takeouts  L188: \nL189: * * *\nL190: \nL191: cite20† Celebrate National Tortellini Day at These Restaurants  L192: \nL193: * * *\nL194: \nL195: cite21† 5 Restaurant Trends Making a Comeback in 2025  L196: \nL197: * * *\nL198: \nL199: cite22† Where to Celebrate Independence Day in Miami  L200: \nL201: * * *\nL202: \nL203: cite23† Gong Cha Unveils Tech-Driven Store Redesign  L204: \nL205: Updated on: May 02, 2026\nL206: \nL207: Cookies help us to deliver our services, provide you with a personalised experience on our websites.\nL208: \nL209: Decline\nL210: \nL211: Accept\nL212: ##### Quick Links\nL213: \nL214:   * cite24†Add Business L215:   * cite25†About L216:   * cite26†Privacy Policy L217:   * cite27†Contact L218:   * cite28†Blog L219: \nL220: ##### Follow Us\nL221: \nL222:   * cite29† †www.facebook.com L223:   * cite30† †www.instagram.com L224: \nL225:   *  cite31† †apps.apple.com L226: \nL227:   *  cite32† †play.google.com L228: \nL229: © 2026 Restaurantji\nL230: \nL231:  ✖ cite47†Image L232: \nL233: Get more info in our app\nL234: \nL235: cite48†Image L236: \nL237: Download app for free\nL238: \nL239: Open\n",
+          "title": "Cacao Cafe, Miami - Menu, Reviews (38), Photos (22) - Restaurantji",
+          "url": "https://www.restaurantji.com/fl/miami/cacao-cafe-/"
+        }
+      ]
+    },
+    {
+      "id": "ws_0051b4a8be440fb1006ab34f835e8087d0b36adde3209481bc",
+      "action": {
+        "type": "open_page",
+        "url": "https://miamifl.casa/inmueble/a11915404-169-sw-7th-street-cu-c-cu-d-miami-fl-33130/"
+      },
+      "status": "completed",
+      "type": "web_search_call",
+      "results": []
+    },
+    {
+      "id": "msg_0051b4a8be440fb1006ab34f8706ac87d0b4773c60350009a1",
+      "content": [
+        {
+          "annotations": [],
+          "text": "{\"leads\":[{\"address\":\"1713 W Flagler St, Miami, FL\",\"zipcode\":\"33135\",\"source_url\":\"https://www.bizbuysell.com/shared/listings/227/2272329/4239fa93-e1fe-4b0d-ad8f-f849680c3062.pdf\",\"source_site\":\"BizBuySell\",\"image_urls\":[]},{\"address\":\"801 S Miami Ave, Miami, FL\",\"zipcode\":\"33130\",\"source_url\":\"https://www.loopnet.com/Listing/801-S-Miami-Ave-Miami-FL/40717187/\",\"source_site\":\"LoopNet\",\"image_urls\":[\"https://images1.loopnet.com/i2/bcDmxZudjaS4UmsOkI8CPPaLL0PP4ioTmgXIub2aRIo/110/801-S-Miami-Ave-Miami-FL-Interior-Photo-3-Large.jpg\"]},{\"address\":\"169 SW 7th St, Units CU-C & CU-D, Miami, FL\",\"zipcode\":\"33130\",\"source_url\":\"https://southfloridacommercialpropertysearch.com/properties/FL/Miami/33130/10178/169-sw-7th-st-cu-c-cu-d-miami-fl-33130/654879577\",\"source_site\":\"South Florida Commercial Property Search\",\"image_urls\":[]},{\"address\":\"521 SW 8th St, Miami, FL\",\"zipcode\":\"33130\",\"source_url\":\"https://www.loopnet.com/Listing/521-SW-8th-St-Miami-FL/34834629/\",\"source_site\":\"LoopNet\",\"image_urls\":[]},{\"address\":\"1201 W Flagler St, Miami, FL\",\"zipcode\":\"33135\",\"source_url\":\"https://southfloridacommercialpropertysearch.com/properties/FL/Miami/33135/10178/1201-w-flagler-st-miami-fl-33135/494504673\",\"source_site\":\"South Florida Commercial Property Search\",\"image_urls\":[]}]}",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 1.0,
+  "tool_choice": "auto",
+  "tools": [
+    {
+      "type": "web_search",
+      "external_web_access": null,
+      "filters": null,
+      "search_context_size": "medium",
+      "user_location": {
+        "city": null,
+        "country": "US",
+        "region": null,
+        "timezone": null,
+        "type": "approximate"
+      },
+      "image_settings": {
+        "caption": true,
+        "max_results": 12
+      },
+      "return_token_budget": "default",
+      "search_content_types": [
+        "text",
+        "image"
+      ]
+    }
+  ],
+  "top_p": 0.98,
+  "background": false,
+  "completed_at": 1790136204.0,
+  "conversation": null,
+  "max_output_tokens": 6000,
+  "max_tool_calls": null,
+  "moderation": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_diagnostics": null,
+  "prompt_cache_key": null,
+  "prompt_cache_options": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "low",
+    "generate_summary": null,
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 42151,
+    "input_tokens_details": {
+      "cache_write_tokens": 4509,
+      "cached_tokens": 0
+    },
+    "output_tokens": 851,
+    "output_tokens_details": {
+      "reasoning_tokens": 427
+    },
+    "total_tokens": 43002
+  },
+  "user": null,
+  "access_programs": null,
+  "billing": {
+    "payer": "developer"
+  },
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "store": true,
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 3
+    }
+  }
+}

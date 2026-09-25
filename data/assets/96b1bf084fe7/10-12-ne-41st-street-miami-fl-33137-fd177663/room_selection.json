@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 9,
+      "room_label": "Gallery display area",
+      "rationale": "Enclosed art-display area with visible white walls and a clear, usable section of floor in the foreground.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 2,
+      "room_label": "Main gallery passage",
+      "rationale": "Distinct interior passage between gallery sections, with enclosing walls and visible usable floor around the visitors and cocktail table.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

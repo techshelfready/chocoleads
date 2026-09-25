@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 8,
+      "room_label": "Industrial office-adjacent warehouse area",
+      "rationale": "An enclosed industrial interior with visible walls and a clear, usable concrete floor beside the office enclosure.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 9,
+      "room_label": "Warehouse storage aisle",
+      "rationale": "An enclosed warehouse area with visible walls, overhead structure, and a clear, usable floor aisle.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

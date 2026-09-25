@@ -1,0 +1,69 @@
+{
+  "lead_id": "111b9a287c97e711",
+  "property_type": "commercial properties",
+  "address": "1106 S Miami Avenue, Suite 202, Miami, FL 33130",
+  "city": "",
+  "state": "",
+  "zipcode": "33130",
+  "title": "Empire Social Lounge — Brickell",
+  "source_site": "Empire Social Lounge",
+  "source_url": "https://www.empiresociallounge.com/brickell",
+  "price": "",
+  "size": "",
+  "notes": "Hosted web search response resp_0de297ad7a47fbb5006ab351bb18b087d0be67ee4603363c17",
+  "category": "",
+  "images": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/64d6506364adb60b5fa36092/b81556da-7d0e-49c0-a4ab-b8899d98ed49/_DSF9244.jpg",
+      "source": "https://www.empiresociallounge.com/brickell",
+      "caption": "A dimly lit lounge area with leather armchairs and small round wooden tables.",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/64d6506364adb60b5fa36092/9cfcdcf4-9ef5-4ed7-a2de-bfcebf029503/_DSF9223.jpg",
+      "source": "https://www.empiresociallounge.com/brickell",
+      "caption": "Interior of a cigar shop with wooden shelves filled with cigar boxes, a sign reading 'Empire Social' on the back wall, and warm lighting from an ornate ceiling fixture.",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/64d6506364adb60b5fa36092/dd945515-3e49-4c4f-9d57-b43d31353e0a/_DSF9212.jpg",
+      "source": "https://www.empiresociallounge.com/brickell",
+      "caption": "A cozy café with two brown leather armchairs and a small round wooden table between them. A ceramic bowl and a menu are on the table. Behind the window, there is a wooden display shelf filled with assorted cigar boxes in a warm, ambient-lit setting.",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/64d6506364adb60b5fa36092/440ada49-564f-42c0-9252-bd53fa22d4ab/_DSF9264.jpg",
+      "source": "https://www.empiresociallounge.com/brickell",
+      "caption": "A wooden hallway with many small, labeled compartments on both sides, and a vent and smoke in the ceiling.",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/64d6506364adb60b5fa36092/2dc8ea70-2e73-4be5-99c4-898f857114e9/_DSF9186_2.jpg",
+      "source": "https://www.empiresociallounge.com/brickell",
+      "caption": "Dimly lit bar with a dark wooden counter and shelves filled with various bottles of alcohol and glasses, and beige bar stools lined up in front.",
+      "room_type_hint": ""
+    }
+  ],
+  "selected_rooms": [
+    {
+      "before_image_url": "https://images.squarespace-cdn.com/content/v1/64d6506364adb60b5fa36092/b81556da-7d0e-49c0-a4ab-b8899d98ed49/_DSF9244.jpg",
+      "before_local_path": "work/live-e2e/prepared/111b9a287c97e711/candidate_1.jpg",
+      "after_local_path": "work/live-e2e/prepared/111b9a287c97e711/after_1.png",
+      "room_label": "Leather-chair lounge",
+      "style_label": "Bold Fusion",
+      "rationale": "Enclosed indoor lounge with visible walls, doors, and ceiling; usable carpeted floor is clearly visible between the seating and tables."
+    },
+    {
+      "before_image_url": "https://images.squarespace-cdn.com/content/v1/64d6506364adb60b5fa36092/9cfcdcf4-9ef5-4ed7-a2de-bfcebf029503/_DSF9223.jpg",
+      "before_local_path": "work/live-e2e/prepared/111b9a287c97e711/candidate_2.jpg",
+      "after_local_path": "work/live-e2e/prepared/111b9a287c97e711/after_2.png",
+      "room_label": "Walk-in cigar display room",
+      "style_label": "Royal Current",
+      "rationale": "Distinct enclosed display room with visible wood-paneled walls and ceiling, plus a clearly exposed tiled floor in the central aisle."
+    }
+  ],
+  "asset_dir": "",
+  "pdf_path": "",
+  "run_id": "",
+  "status": "rendered"
+}

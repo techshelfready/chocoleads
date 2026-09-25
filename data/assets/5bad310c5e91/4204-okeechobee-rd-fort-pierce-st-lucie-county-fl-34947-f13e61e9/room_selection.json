@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 4,
+      "room_label": "Warehouse interior",
+      "rationale": "Enclosed warehouse with visible walls and a large, clear concrete floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 5,
+      "room_label": "Interior lobby area",
+      "rationale": "A distinct enclosed room in the property with visible walls and substantial usable floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

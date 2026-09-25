@@ -27,6 +27,7 @@ class OpenAIFloorRenderer:
             content.append({"type": "input_image", "image_url": image_to_data_url(p)})
         resp = self.client.responses.create(
             model=settings.openai_vision_model,
+            reasoning={"effort": settings.openai_reasoning_effort},
             input=[{"role": "user", "content": content}],
             text={"format": {"type": "json_object"}},
         )
@@ -81,7 +82,7 @@ class OpenAIFloorRenderer:
             except Exception:
                 return None
         with ThreadPoolExecutor(max_workers=6) as pool:
-            for item in pool.map(download_candidate, enumerate(lead.images[:80])):
+            for item in pool.map(download_candidate, enumerate(lead.images)):
                 if not item:
                     continue
                 img, path = item
@@ -91,7 +92,7 @@ class OpenAIFloorRenderer:
                 image_hashes.add(digest)
                 downloaded.append(item)
         if len(downloaded) < 2:
-            return []
+            raise RuntimeError("The property photos could not be downloaded. Please retry; this home has not been marked used.")
 
         # Vision must positively verify the room; never fill missing selections blindly.
         paths = [p for _, p in downloaded]
@@ -134,6 +135,8 @@ class OpenAIFloorRenderer:
         (lead_dir/'room_selection.json').write_text(json.dumps(result,indent=2))
         selected = result.get("selected", [])
         if not isinstance(selected, list) or len(selected) != 2:
+            if lead.source_site.startswith("Imported ") and len(downloaded) < len({img.url for img in lead.images}):
+                raise RuntimeError("Some imported property photos were unavailable. Please retry so the complete gallery can be checked.")
             return []
         out = []
         indices = set()

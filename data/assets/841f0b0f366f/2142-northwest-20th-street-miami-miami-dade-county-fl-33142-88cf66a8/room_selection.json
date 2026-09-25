@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 21,
+      "room_label": "Clothing retail showroom",
+      "rationale": "Enclosed retail room with visible walls and a large area of usable floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 24,
+      "room_label": "Bathroom",
+      "rationale": "Separate enclosed bathroom with visible walls and usable floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

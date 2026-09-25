@@ -1,0 +1,34 @@
+{
+  "lead_id": "c29ee9503655562e",
+  "property_type": "commercial properties",
+  "address": "901 South Miami Avenue, Suite 108, Miami, FL 33130",
+  "city": "",
+  "state": "",
+  "zipcode": "33130",
+  "title": "Balan's Bar & Brasserie",
+  "source_site": "Balan's",
+  "source_url": "https://balansbrickell.com/",
+  "price": "",
+  "size": "",
+  "notes": "Hosted web search response resp_0de297ad7a47fbb5006ab351bb18b087d0be67ee4603363c17",
+  "category": "",
+  "images": [
+    {
+      "url": "https://static.spotapps.co/website_images/ab_websites/76408_website_v1/about_1_page.jpg",
+      "source": "https://balansbrickell.com/miami-brickell-balan-s-about",
+      "caption": "The restaurant's interior, set tables for dining",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://static.spotapps.co/website_images/ab_websites/76408_website_v1/about_2_page.jpg",
+      "source": "https://balansbrickell.com/miami-brickell-balan-s-about",
+      "caption": "Guests sitting at the outdoor patio under a giant parasol",
+      "room_type_hint": ""
+    }
+  ],
+  "selected_rooms": [],
+  "asset_dir": "",
+  "pdf_path": "",
+  "run_id": "",
+  "status": "new"
+}

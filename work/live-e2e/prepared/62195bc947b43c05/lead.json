@@ -1,0 +1,81 @@
+{
+  "lead_id": "62195bc947b43c05",
+  "property_type": "commercial properties",
+  "address": "145 SW 11th Street, Miami, FL 33130",
+  "city": "",
+  "state": "",
+  "zipcode": "33130",
+  "title": "Mosaico Kitchen + Bar",
+  "source_site": "Mosaico Kitchen + Bar",
+  "source_url": "https://www.mosaicokitchenandbar.com/",
+  "price": "",
+  "size": "",
+  "notes": "Hosted web search response resp_0de297ad7a47fbb5006ab351bb18b087d0be67ee4603363c17",
+  "category": "",
+  "images": [
+    {
+      "url": "https://static.wixstatic.com/media/074a8f_a1d1f8c64ec648fda2c35fb2fc93ef6c~mv2.jpg/v1/fill/w_250%2Ch_166%2Cal_c%2Cq_90%2Cenc_auto/074a8f_a1d1f8c64ec648fda2c35fb2fc93ef6c~mv2.jpg",
+      "source": "https://www.mosaicokitchenandbar.com/about",
+      "caption": "Main Restaurant Area",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://static.wixstatic.com/media/074a8f_8bab86e6b8654fd7a85716783a37e7d1~mv2.jpg/v1/fill/w_250%2Ch_169%2Cal_c%2Cq_90%2Cenc_auto/074a8f_8bab86e6b8654fd7a85716783a37e7d1~mv2.jpg",
+      "source": "https://www.mosaicokitchenandbar.com/about",
+      "caption": "Bar Front Area",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://static.wixstatic.com/media/074a8f_e7fabb432ba94defb28db80b98ea771f~mv2.jpg/v1/fill/w_250%2Ch_166%2Cal_c%2Cq_90%2Cenc_auto/074a8f_e7fabb432ba94defb28db80b98ea771f~mv2.jpg",
+      "source": "https://www.mosaicokitchenandbar.com/about",
+      "caption": "Lounge Area",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://static.wixstatic.com/media/074a8f_310032b11a9344eaa00e60dd6438622f~mv2.jpg/v1/fill/w_250%2Ch_166%2Cal_c%2Cq_90%2Cenc_auto/074a8f_310032b11a9344eaa00e60dd6438622f~mv2.jpg",
+      "source": "https://www.mosaicokitchenandbar.com/about",
+      "caption": "Bar Area",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://static.wixstatic.com/media/1f0f8f_a5f6edf1972d4bcdbf8509938c517d06~mv2.jpg/v1/fill/w_491%2Ch_327%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/1f0f8f_a5f6edf1972d4bcdbf8509938c517d06~mv2.jpg",
+      "source": "https://www.mosaicokitchenandbar.com/",
+      "caption": "Restaurant M - Copy.jpg",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://static.wixstatic.com/media/074a8f_7ed1e885a60945a7ac995bb9d4c2601b~mv2.jpg/v1/fill/w_250%2Ch_166%2Cal_c%2Cq_90%2Cenc_auto/074a8f_7ed1e885a60945a7ac995bb9d4c2601b~mv2.jpg",
+      "source": "https://www.mosaicokitchenandbar.com/about",
+      "caption": "Outdoor Terrace Area",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://static.wixstatic.com/media/074a8f_6cdd359acd184cfd98277b67dd926de4~mv2.jpg/v1/fill/w_250%2Ch_250%2Cal_c%2Cq_90%2Cenc_auto/074a8f_6cdd359acd184cfd98277b67dd926de4~mv2.jpg",
+      "source": "https://www.mosaicokitchenandbar.com/about",
+      "caption": "Outdoor Terrace",
+      "room_type_hint": ""
+    }
+  ],
+  "selected_rooms": [
+    {
+      "before_image_url": "https://static.wixstatic.com/media/074a8f_a1d1f8c64ec648fda2c35fb2fc93ef6c~mv2.jpg/v1/fill/w_250%2Ch_166%2Cal_c%2Cq_90%2Cenc_auto/074a8f_a1d1f8c64ec648fda2c35fb2fc93ef6c~mv2.jpg",
+      "before_local_path": "work/live-e2e/prepared/62195bc947b43c05/candidate_1.jpg",
+      "after_local_path": "",
+      "room_label": "Main dining area",
+      "style_label": "Bold Fusion",
+      "rationale": "Enclosed indoor dining area with visible walls and clearly visible usable floor between and around the tables."
+    },
+    {
+      "before_image_url": "https://static.wixstatic.com/media/074a8f_e7fabb432ba94defb28db80b98ea771f~mv2.jpg/v1/fill/w_250%2Ch_166%2Cal_c%2Cq_90%2Cenc_auto/074a8f_e7fabb432ba94defb28db80b98ea771f~mv2.jpg",
+      "before_local_path": "work/live-e2e/prepared/62195bc947b43c05/candidate_3.jpg",
+      "after_local_path": "",
+      "room_label": "Lounge seating area",
+      "style_label": "Royal Current",
+      "rationale": "Distinct enclosed indoor lounge area with visible wood-paneled walls and usable floor around the sofas, chairs, and coffee tables."
+    }
+  ],
+  "asset_dir": "",
+  "pdf_path": "",
+  "run_id": "",
+  "status": "new"
+}

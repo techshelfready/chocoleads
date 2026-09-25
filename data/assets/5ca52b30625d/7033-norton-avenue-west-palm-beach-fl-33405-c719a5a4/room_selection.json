@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 1,
+      "room_label": "Attached industrial office",
+      "rationale": "Separate enclosed office connected to the warehouse, with visible walls, a finished ceiling, and a large unobstructed floor area.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 2,
+      "room_label": "Warehouse loading-area interior",
+      "rationale": "Enclosed industrial warehouse with high ceilings, visible perimeter walls, closed loading doors, and extensive exposed concrete floor; distinct from the attached office.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 1,
+      "room_label": "Restaurant dining area",
+      "rationale": "Enclosed dining area with visible mural-covered walls, a ceiling, and substantial exposed floor around the tables.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 3,
+      "room_label": "Indoor lounge seating area",
+      "rationale": "Distinct lounge area enclosed by solid walls and full-height glazing, with clearly visible usable floor around the seating and rugs.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

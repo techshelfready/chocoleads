@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 78,
+      "room_label": "Enclosed garage",
+      "rationale": "Enclosed garage with visible walls, overhead garage-door tracks, and a large unobstructed floor area.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "garage"
+    },
+    {
+      "index": 69,
+      "room_label": "Empty bedroom",
+      "rationale": "Clearly enclosed interior room with visible walls, a window, and ample exposed usable floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

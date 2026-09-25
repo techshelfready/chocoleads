@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 6,
+      "room_label": "Industrial packing and loading room",
+      "rationale": "Enclosed industrial interior with storage racks, packing tables, a roll-up loading door, visible walls, and clearly exposed usable floor aisles.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 5,
+      "room_label": "Industrial bakery production room",
+      "rationale": "Distinct enclosed baking room with commercial ovens, extraction hoods, production equipment, visible walls, and substantial usable tiled floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

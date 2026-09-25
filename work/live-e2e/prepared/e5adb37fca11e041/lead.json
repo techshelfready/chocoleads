@@ -1,0 +1,40 @@
+{
+  "lead_id": "e5adb37fca11e041",
+  "property_type": "commercial properties",
+  "address": "333 Southeast 2nd Avenue, Miami, FL 33131",
+  "city": "",
+  "state": "",
+  "zipcode": "33131",
+  "title": "Wells Fargo Center — Office Property",
+  "source_site": "Wells Fargo Center Miami",
+  "source_url": "https://wellsfargocentermiami.com/gallery/",
+  "price": "",
+  "size": "",
+  "notes": "Hosted web search response resp_0b5f183bda73e78b006ab352880ae887d0b2d53947b2405814",
+  "category": "",
+  "images": [
+    {
+      "url": "https://images1.loopnet.com/i2/x7u8jGBDBjoMydylVjjeb933td4eJtlYSmbLpcWxTf0/110/333-SE-2nd-Ave-Miami-FL-Interior-Photo-2-Large.jpg",
+      "source": "https://www.loopnet.com/Listing/333-SE-2nd-Ave-Miami-FL/28667066/",
+      "caption": "Interior Photo",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://images1.loopnet.com/i2/x5xmVlTLH7qUgr923PQhigIZRYpZNQFjuhZSYKiK4_k/110/333-SE-2nd-Ave-Miami-FL-Interior-Photo-3-Large.jpg",
+      "source": "https://www.loopnet.com/Listing/333-SE-2nd-Ave-Miami-FL/28667066/",
+      "caption": "Interior Photo",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://images1.loopnet.com/i2/ox1QakNLzoEII3sJ5_Sogak8YsjoG6jk2MIlUMZ8JsM/116/333-SE-2nd-Ave-Miami-FL-Building-Photo-1-LargeHighDefinition.jpg",
+      "source": "https://www.loopnet.com/Listing/333-SE-2nd-Ave-Miami-FL/28667066/",
+      "caption": "Building Photo",
+      "room_type_hint": ""
+    }
+  ],
+  "selected_rooms": [],
+  "asset_dir": "",
+  "pdf_path": "",
+  "run_id": "",
+  "status": "new"
+}

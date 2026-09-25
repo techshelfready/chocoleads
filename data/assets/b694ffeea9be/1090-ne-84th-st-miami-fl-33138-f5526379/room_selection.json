@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 55,
+      "room_label": "Enclosed garage",
+      "rationale": "Fully enclosed garage with visible walls, ceiling, closed garage door, and a large unobstructed usable floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "garage"
+    },
+    {
+      "index": 50,
+      "room_label": "Empty interior room",
+      "rationale": "Clearly enclosed indoor room with visible walls, ceiling, windows, and a broad unobstructed floor suitable for an epoxy-floor concept.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

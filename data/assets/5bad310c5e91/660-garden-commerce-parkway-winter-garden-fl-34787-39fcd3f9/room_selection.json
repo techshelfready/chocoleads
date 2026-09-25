@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 16,
+      "room_label": "Warehouse interior",
+      "rationale": "Enclosed industrial space with visible walls and a large, unobstructed floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 14,
+      "room_label": "Industrial office room",
+      "rationale": "Enclosed room with visible walls and a clear, usable floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

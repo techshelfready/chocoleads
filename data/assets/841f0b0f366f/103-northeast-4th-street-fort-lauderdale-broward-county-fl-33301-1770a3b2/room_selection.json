@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 4,
+      "room_label": "Dining area",
+      "rationale": "Enclosed interior with visible walls and a clearly usable tiled floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    },
+    {
+      "index": 5,
+      "room_label": "Office",
+      "rationale": "Enclosed office with visible walls and a clearly usable wood floor.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

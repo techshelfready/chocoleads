@@ -1,0 +1,486 @@
+{
+  "id": "resp_046db25a716ab618006ab34fd126dc87d09efd3c3db53e4f94",
+  "created_at": 1790136273.0,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "gpt-6-astra",
+  "object": "response",
+  "output": [
+    {
+      "id": "ws_046db25a716ab618006ab34fd26dec87d0a324d421ed2a743b",
+      "action": {
+        "type": "open_page",
+        "url": "https://www.loopnet.com/Listing/801-S-Miami-Ave-Miami-FL/40717187/"
+      },
+      "status": "completed",
+      "type": "web_search_call",
+      "results": []
+    },
+    {
+      "id": "ws_046db25a716ab618006ab34fd47d9887d09b1590fdc8a3b7c6",
+      "action": {
+        "type": "search",
+        "queries": [
+          "site.loopnet.com/Listing/ \"40717187\""
+        ],
+        "query": "site.loopnet.com/Listing/ \"40717187\"",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://www.loopnet.com/Listing/801-S-Miami-Ave-Miami-FL/40717187/"
+          },
+          {
+            "type": "url",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12830501/"
+          },
+          {
+            "type": "url",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40717187/"
+          },
+          {
+            "type": "url",
+            "url": "https://lori.ru/40717187"
+          },
+          {
+            "type": "url",
+            "url": "https://graveleylabweb.cam.uchc.edu/ENCORE_TEST/gene/?rbp_name=COASY"
+          },
+          {
+            "type": "url",
+            "url": "https://openalex.org/W4412679794"
+          },
+          {
+            "type": "url",
+            "url": "https://www.squareyards.ca/sale/on/waterloo/cambridge/7-abbott-crescent-n3c-0c8"
+          },
+          {
+            "type": "url",
+            "url": "https://www.remax.ca/luxury/on/cambridge-real-estate/7-abbott-crescent-wp_idm73000004-28196199-lst"
+          },
+          {
+            "type": "url",
+            "url": "https://moskva.olan.ru/preobrazhenskaya-ploschad/sale-flat/sale-flat-period-completed-building"
+          },
+          {
+            "type": "url",
+            "url": "https://groups.google.com/g/forum4ca/c/GzhVg88UvoA"
+          },
+          {
+            "type": "url",
+            "url": "https://groups.google.com/g/forum4ca/c/1VCBIoI0DeE"
+          },
+          {
+            "type": "url",
+            "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-rs-tramandai-centro-120m2-RS810000/id-40717187/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.enel.com.br/content/dam/enel-br/informativos-regula%C3%B3rios_cear%C3%A1/relat%C3%B3rios-de-expurgos-e-indicadores-de-qualidade/2026/Relat%C3%B3rio%20de%20Interrup%C3%A7%C3%A3o%20em%20Situa%C3%A7%C3%A3o%20de%20Emerg%C3%AAncia%20-%20ISE%2013%20-%2003_2026%20-%20CE.pdf"
+          }
+        ]
+      },
+      "status": "completed",
+      "type": "web_search_call",
+      "results": [
+        {
+          "type": "text_result",
+          "snippet": "citeturn1search0 [wordlim: 200] Crawled: 6 days ago; ### Site Amenities ...   * #### Listing ID: 40717187 ...   * #### Address: 801 S Miami Ave, Miami, FL 33130\n\n# Turnkey Restaurant Opportunity | Brickell 801 S Miami Ave 450 Unit Apartment Building $650,000 ($1,444/Unit) Miami, FL 33130\n\nImage: 801 S Miami Ave, Miami, FL for sale - Interior Photo - Image 1 of 12\n\nImage: 801 S Miami Ave, Miami, FL for sale - Interior Photo - Image 2 of 12\n\nImage: 801 S Miami Ave, Miami, FL for sale - Interior Photo - Image 3 of 12\n\nMap\n\nSaved Save to Favorites\n\n#### Save this listing!\n\nFavorite this listing to get notified of price updates, new media and more\n\n### Investment Highlights\n\n  * Turnkey Luxury Restaurant Space\n  * 1,413 SF Ground Floor + 3,498 SF Mezzanine\n\n  * Business Sale with Key Money\n  * $22/SF NNN\n\n### Executive Summary\n\nTurnkey Luxury Restaurant Space\nBusiness Sale with Key Money\n1,413 SF ground floor + 3,498 SF mezzanine\n$4.5M+ replacement cost\nFully built-out with FF&E, HVAC, hoods, grease trap & bar\nLocated within a high-end mixed-use development\nStrong built-in foot traffic and affluent customer base\nSeating Capacity: 97 (Expandable to 120)\n7 assigned parking spaces\nValet parking via SLS lobby\n\n### Attachments\n\nBrochure - Turnkey Restaurant Opportunity _ Brickell - FA Commercial\n\n### Property Facts\n\nPrice  | $650,000  | Apartment Style  | Hi-Rise\nPrice Per Unit  | $1,444  | Building Class  | A\nSale Type  | Investment  | Lot Size  | 2.21 AC\nSale Condition  | Business Value Included  | Building Size  | 938,984 SF\nNo. Units  | 450  | No. Stories  | 57\nProperty Type  | Multifamily  | Year Built  | 2018\nProperty Subtype  | Apartment  |  | \nZoning  | 6408\nPrice  | $650,000\nPrice Per Unit  | $1,444\nSale Type  | Investment\nSale Condition  | Business Value Included\nNo. Units  | 450\nProperty Type  | Multifamily\nProperty Subtype  | Apartment\nApartment Style  | Hi-Rise\nBuilding Class  | A\nLot Size  | 2.21 AC\nBuilding Size  | 938,984 SF\nNo. Stories  | 57\nYear Built  | 2018\nZoning  | 6408\n\n### Amenities\n\n### Unit Amenities\n\n  * Air Conditioning\n  * Balcony\n  * Dishwasher\n  * Disposal\n\n  * Microwave\n  * Washer/Dryer\n  * Kitchen\n  * Hardwood Floors\n\n  * Refrigerator\n  * Oven\n  * Stainless Steel Appliances\n  * Tub/Shower\n\n  * Walk-In Closets\n  * Wheelchair Accessible (Rooms)\n  * Quartz Countertops\n  * Floor to Ceiling Windows\n\n### Site Amenities\n\n  * Concierge\n  * Fitness Center\n  * Playground\n\n  * Pool\n  * Spa\n  * Tennis Court\n\n  * Grill\n  * Elevator\n\n  * Lounge\n  * Multi Use Room\n\n[Input]\n\n1 1\n\n  * Aerial\n  * Map\n\nImage: 801 S Miami Ave, Miami, FL - Aerial map view - Image1\n\nExceptionally walkable\n\n90/100\n\nModerately drivable\n\n70/100\n\nExceptional public transit\n\n100/100\n\nFairly bikeable\n\n50/100\n\nSource: Local Logic^{®}\n\n### Property Taxes\n\nParcel Numbers  | Multiple\n\n  * 01-0205-050-1045\n  * 01-0205-050-1055\n | Improvements Assessment  | $0\nLand Assessment  | $0  | Total Assessment  | $20,627,695\n\n### Property Taxes\n\nParcel Numbers\n\nMultiple\n\n  * 01-0205-050-1045\n  * 01-0205-050-1055\n\nLand Assessment\n\n$0\n\nImprovements Assessment\n\n$0\n\nTotal Assessment\n\n$20,627,695\n\n[Button: Call ] (786) 905-3140\n\n[Button: Message ]\n\n#### Still interested?\n\nContact the brokers for more information about this property\n\n### Contacts\n\n  * Fabio F. Faerman\n\n  * Sebastian Faerman\n\n  * Fortune Christie's International\n\n  * #### Listing ID: 40717187\n\n  * #### Date on Market: 5/29/2026\n\n  * #### Last Updated:\n\n  * #### Address: 801 S Miami Ave, Miami, FL 33130",
+          "title": "801 S Miami Ave, Miami, FL 33130 - Turnkey Restaurant Opportunity | Brickell | LoopNet",
+          "url": "https://www.loopnet.com/Listing/801-S-Miami-Ave-Miami-FL/40717187/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn1search1 [wordlim: 200] Published: 1.2 years ago; Crawled: last month; PMCID: PMC12830501  PMID: 40717187 ... Meanwhile, next-generation PET systems can achieve an intrinsic spatial resolutions comparable to the mean positron range of ^{68}Ga [11–13], which was reported to be around ~ 2.2 mm in water [14]. ... State-of-the-art of FAPI-PET imaging: a systematic review and meta-analysis.\nTo view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.\n\nPMC Copyright notice\n\nPMCID: PMC12830501  PMID: 40717187\n\n## Abstract\n\n### Purpose\n\nPositron range correction (PRC) can mitigate the effect of the larger positron range on the image quality of Gallium-68 (^{68}Ga) PET-imaging. The aim of this study is to evaluate the improvement in ^{68}Ga-PET image quality by applying a tissue-dependent and spatially-variant PRC (TDSV PRC) for ^{68}Ga in a clinical setting.\n\n### Methods\n\nA TDSV PRC technique was developed employing CT-driven segmentation masks of different tissue types (soft tissue, bone, lung) and the corresponding tissue-specific positron range kernels. OSEM reconstructions were performed using the proposed TDSV PRC, a tissue-independent PRC, and without any PRC (non-PRC). For lesions identified in [^{68}Ga]Ga-DOTATOC or [^{68}Ga]Ga-PSMA PET/CT data from 20 patients, the maximum standardized uptake value (SUV_{max}) and contrast-to-noise ratio (CNR) of this technique was compared to tissue-independent PRC and non-PRC images.\n",
+          "title": "Clinical evaluation of tissue-dependent and spatially-variant positron range correction for Gallium-68 PET imaging - PMC",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12830501/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn1search2 [wordlim: 200] Published: 1.2 years ago; Crawled: last month; PMID: 40717187 ... Journal NLM unique ID: 101140988\n# Clinical evaluation of tissue-dependent and spatially-variant positron range correction for Gallium-68 PET imaging.\n\nEuropean journal of nuclear medicine and molecular imaging\n\nPMID: 40717187\n\nPublication date: 2026 01\n\nArticle date: 2025 07 28\n\nPublication status: ppublish\n\nJournal abbreviation: Eur J Nucl Med Mol Imaging\n\nJournal country: Germany\n\nJournal NLM unique ID: 101140988\n\nJournal linking ISSN: 1619-7070\n\nISSN: 1619-7089\n\nVolume: 53\n\nIssue: 2\n\nPages: 1299-1312\n\n## Identifiers\n\n  * DOI: 10.1007/s00259-025-07456-z\n  * PII: 10.1007/s00259-025-07456-z\n  * PMC: PMC12830501\n\n## Authors\n\n  * Prodromos Gavriilidis\n  * Michel Koole\n  * Felix M Mottaghy\n  * Floris P Jansen\n  * Roel Wierts\n\n\n## Affiliations\n\n  * Department of Radiology and Nuclear Medicine, Maastricht University Medical Center, Maastricht, The Netherlands.\n  * Research Institute for Oncology and Reproduction (GROW), Maastricht University, Maastricht, The Netherlands.\n  * Nuclear Medicine and Molecular Imaging, Department of Imaging & Pathology, KU Leuven, Leuven, Belgium.\n  * Department of Nuclear Medicine, RWTH Aachen University Hospital, Aachen, Germany.\n  * Molecular Imaging, GE HealthCare, Waukesha, WI, USA.\n  * Department of Radiology and Nuclear Medicine, Maastricht University Medical Center, Maastricht, The Netherlands. roel.wierts@mumc.nl.\n\n## Languages\n\n  * eng\n\n## Publication types\n\n  * Journal Article\n\n## Abstract\n\nPURPOSE: Positron range correction (PRC) can mitigate the effect of the larger positron range on the image quality of Gallium-68 (68Ga) PET-imaging. The aim of this study is to evaluate the improvement in 68Ga-PET image quality by applying a tissue-dependent and spatially-variant PRC (TDSV PRC) for 68Ga in a clinical setting.\n\nMETHODS: A TDSV PRC technique was developed employing CT-driven segmentation masks of different tissue types (soft tissue, bone, lung) and the corresponding tissue-specific positron range kernels. OSEM reconstructions were performed using the proposed TDSV PRC, a tissue-independent PRC, and without any PRC (non-PRC). For lesions identified in [68Ga]Ga-DOTATOC or [68Ga]Ga-PSMA PET/CT data from 20 patients, the maximum standardized uptake value (SUVmax) and contrast-to-noise ratio (CNR) of this technique was compared to tissue-independent PRC and non-PRC images.\n\nRESULTS: A total of 93 lesions were analyzed (48 soft tissue, 35 bone, 10 lung lesions). For soft tissue lesions, TDSV and tissue-independent PRC showed similar increases in SUVmax (13.7%, p < 0.001 vs. 13.6%, p < 0.001) and CNR (11.0%, p < 0.001 vs. 11.1%, p < 0.001) compared to non-PRC. For bone lesions, tissue-independent PRC showed slightly higher not statistically significant increases than TDSV PRC in SUVmax (18.6%, p < 0.001 vs. 17.4%, p < 0.001) and CNR (14.6%, p < 0.001 vs. 13.8%, p < 0.001). In lung lesions, TDSV PRC increased SUVmax and CNR compared to non-PRC (SUVmax: 57.9%, p = 0.012; CNR: 43.9%, p = 0.012) and tissue-independent PRC (SUVmax: 46.0%, p = 0.012; CNR: 32.5%, p = 0.012).\n\nCONCLUSION: TDSV PRC for 68Ga PET/CT demonstrated to be feasible in clinical patient data, showing the greatest benefits for lung lesions.\n\n## MeSH terms\n\n  * Humans\n  * Gallium Radioisotopes\n  * Positron Emission Tomography Computed Tomography / methods\n  * Male\n  * Image Processing, Computer-Assisted / methods\n  * Female\n  * Middle Aged\n  * Aged\n  * Radiopharmaceuticals\n\n## Keywords\n\n  * Gallium-68\n  * Positron emission tomography\n  * Positron range\n  * Positron range correction\n\n## Substances\n\n  * Gallium Radioisotopes\n  * Gallium-68 (Registry number: 98B30EPP5S)\n  * Radiopharmaceuticals\n\n## Conflict of interest\n\nDeclarations. Ethics approval: This study was performed in line with the principles of the Declaration of Helsinki. Approval for this study was granted by the medical ethics committee METC azM/UM, Maastricht, The Netherlands (Date: 09-July-2021, No: 2021-2795). Consent to participate: Written informed consent was obtained from all individual participants included in the study. Consent to publish: Informed consent was obtained from all participants to publish their anonymized data. Competing interests: Felix M. Mottaghy reports institutional grants/contracts from GE Precision Healthcare LLC, NanoMab Technology Ltd., Radiopharm Ltd., and Siemens Healthcare; and personal/consulting fees from Advanced Accelerator Applications (AAA) GmbH/Novartis, CURIUMTM, NanoMab Technology Ltd., and Telix Pharmaceuticals outside the submitted work. ",
+          "title": "Clinical evaluation of tissue-dependent and spatially-variant positron range correction for Gallium-68 PET imaging.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40717187/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn1search3 [wordlim: 200] Crawled: 1.3 years ago; Изображение № 40717187\n\n[Input]\n\nImage Image: Autumn yellow leaves on the ground. Стоковое AI-изображение, AI-художник Кирилл Черезов / Фотобанк Лори\n\n## Лицензии для этого изображения\n\nСтандартные¹ Расширенные²\n\n### Только интернет\n\n[Input]  | www  | 945×529 пикс  | 250 ₽р. пакетом от 125 ₽р.\n\n### Интернет, полиграфия и видео\n\n[Input]  | A7  | 12×7 см / 1401×785 пикс  | 340 ₽р. пакетом от 170 ₽р.\n[Input]  | A6  | 17×9 см / 1981×1110 пикс  | 470 ₽р. пакетом от 235 ₽р.\n[Input]  | A5  | 24×13 см / 2802×1570 пикс  | 900 ₽р. пакетом от 360 ₽р.\n[Input]  | A4  | 34×19 см / 3962×2221 пикс  | 2 200 ₽р. пакетом от 360 ₽р.\n[Input]  | A3+  | 63×35 см / 7455×4178 пикс  | 4 700 ₽р. пакетом от 2 350 ₽р.\n\n### Другое использование\n\n[Input]  | Печать в частных целях³ 7455×4178 пикс  | 1 800 ₽р.\n\nКупить!\n\nРазмеры в сантиметрах указаны для справки, и соответствуют печати с разрешением 300 dpi. Купленные файлы предоставляются в формате JPEG.\n\n¹ Стандартная лицензия разрешает однократную публикацию изображения в интернете или в печати (тиражом до 250 тыс. экз.) в качестве иллюстрации к информационному материалу или обложки печатного издания, а также в рамках одной рекламной или промо-кампании в интернете. При использовании требуется указывать источник произведения.\n\n² Расширенная лицензия разрешает прочие виды использования, в том числе в рекламе, упаковке, дизайне сайтов и так далее.\n\nПодробнее об условиях лицензий\n\n³ Лицензия Печать в частных целях разрешает использование изображения в дизайне частных интерьеров и для печати для личного использования тиражом не более пяти экземпляров.\n\n* Пакеты изображений дают значительную экономию при покупке большого числа работ (подробнее)\n\nРазмер оригинала: 7455×4178 пикс. (31.1 Мп)\n\nУказанная в таблице цена складывается из стоимости лицензии на использование изображения (75% полной стоимости) и стоимости услуг фотобанка (25% полной стоимости). Это разделение проявляется только в выставляемых счетах и в конечных документах (договорах, актах, реестрах), в остальном интерфейсе фотобанка всегда присутствуют полные суммы к оплате.\n\nВнимание! Использование произведений из фотобанка возможно только после их покупки. Любое иное использование (в том числе в некоммерческих целях и со ссылкой на фотобанк) запрещено и преследуется по закону.\n\n    \n\n[Input] [Input] [Input] [Input] [Input] [Input] [Input] [Input] Купить!\n\n    \n\nЭто изображение создано с использованием искусственного интеллекта.\n\nТакие изображения могут иметь недостаточное качество при использовании в больших форматах (больше А5).\n\nРекомендуем посмотреть изображение при 100%-ом увеличении перед покупкой.\n\n    \n\nИзображение № 40717187\n\n# Autumn yellow leaves on the ground\n\n© Кирилл Черезов / Фотобанк Лори\n\nAutumn yellow leaves on the ground. Beautiful background for your design\n    \nРубрики каталога\n    \n\nАбстрактное Форма\n\nРастения Кустарники\n\nКлючевые слова\n    \n\n(48 шт.)\n\nautumn, yellow, season, nature, orange, leaf, fall, maple, foliage, ground, red, colorful, seasonal, brown, tree, october, beautiful, leaves, plant, background, color, texture, vibrant, dry, golden, gold, september, abstract, pattern, vivid, oak, poster, assortment, outdoor, border, template, lay, landscape, decoration, wind, set, wallpaper, frame, scenic, natural, environment, ai, generated",
+          "title": "Autumn yellow leaves on the ground. Стоковое AI-изображение № 40717187, AI-художник Кирилл Черезов / Фотобанк Лори",
+          "url": "https://lori.ru/40717187"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn1search4 [wordlim: 200] Crawled: yesterday; chr17  | 40717187  | 40717251  | +  | CDS,intron-Proximal  | 3.57608  | 3.13970  | HepG2  | SF3B4\nchr17  | 40717507  | 40717547  | +  | CDS  | 3.90430  | 7.80656  | HepG2  | GRWD1\nchr17  | 40717187  | 40717251  | +  | CDS,intron-Proximal  | 3.57608  | 3.13970  | HepG2  | SF3B4\nchr17  | 40716444  | 40716482  | +  | CDS,intron-Proximal  | 3.57145  | 5.90397  | HepG2  | SF3A3\nchr17  | 40717269  | 40717330  | +  | CDS,intron-Proximal  | 4.11966  | 4.13050  | K562  | LIN28B\nchr17  | 40717413  | 40717490  | +  | CDS,intron-Proximal  | 5.64339  | 7.81477  | K562  | SF3B4\nchr17  | 40717572  | 40717609  | +  | CDS,intron-Proximal  | 4.46871  | 7.99161  | HepG2  | PRPF8\nchr17  | 40717295  | 40717370  | +  | CDS,intron-Proximal  | 3.91833  | 9.83690  | HepG2  | PRPF8\nchr17  | 40714750  | 40714801  | +  | CDS,intron-Distal  | 3.79905  | 7.28749  | K562  | YBX3\nchr17  | 40714848  | 40714894  | +  | CDS,intron-Distal,intron-Proximal  | 3.83151  | 3.93112  | K562  | RBM15\nchr17  | 40717495  | 40717566  | +  | CDS  | 3.71565  | 4.82429  | K562  | TARDBP\n",
+          "title": "COASY",
+          "url": "https://graveleylabweb.cam.uchc.edu/ENCORE_TEST/gene/?rbp_name=COASY"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn1search5 [wordlim: 200] Published: 1.2 years ago; Crawled: 3 weeks ago; PMID: 40717187 ... Name: European Journal of Nuclear Medicine and Molecular Imaging ... Domain: Health Sciences ... Open-access URL: https://link.springer.com/content/pdf/10.1007/s00259-025-07456-z.pdf\n# Clinical evaluation of tissue-dependent and spatially-variant positron range correction for Gallium-68 PET imaging\n\nOpenAlex ID: W4412679794\n\nDOI: 10.1007/s00259-025-07456-z\n\nPMID: 40717187\n\nType: article\n\nYear: 2025\n\nPublication date: 2025-07-28\n\n\n## Source\n\nName: European Journal of Nuclear Medicine and Molecular Imaging\n\nISSN-L: 1619-7070\n\nISSN: 1619-7070, 1619-7089\n\nPublisher: Springer Science+Business Media\n\n## Citation\n\nVolume: 53\n\nIssue: 2\n\nPages: 1299–1312\n\n## Article links\n\n  * Article website\n  * Article PDF\n  * Location website\n  * Location website\n  * Location website\n  * Location website\n\n## Authors\n\n  * Prodromos Gavriilidis (ORCID) — Maastricht University (ROR); KU Leuven (ROR)\n",
+          "title": "Clinical evaluation of tissue-dependent and spatially-variant positron range correction for Gallium-68 PET imaging",
+          "url": "https://openalex.org/W4412679794"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn1search6 [wordlim: 200] Published: 8 months ago; Crawled: 3 months ago; Listing ID #40717187\n\nImage: 7 Abbott Crescent, Cambridge, ON, \n\nImage\n\nMLS Number: XXXXXXX\n\n7 Abbott Crescent, Cambridge\n\nSign in to View\n\n  * Image Photos\n  * Image Sold Data\n  * Image Listing Details\n\nReal estate boards require a verified account\n\n[Button: Sign In Now]\n\n# 7 Abbott Crescent, Cambridge MLS Number: 40717187\n\nCambridge, Waterloo, ON, N3C 0C8\n\nBrochure\n\nFavourite\n\nShare\n\n$699,900\n\nStatus: Sold\n\nRequest For Call\n\n  * 3+ Beds\n  * 3 Baths\n  * Area : 1206 sqft\n  * Property Type: Residential (Row/Townhouse)\n  * Property Taxes : $3732 (Tax Year:2024)\n  * Listing Courtesy : Homelife Power Realty Inc.\n\n  * Description\n  * Property Facts\n  * Property Price & Tax Insights\n  * Property Details\n  * History\n  * Questions and Answers\n\n## 7 Abbott Crescent Property Description\n\nWelcome to 7 ABBOTT CRES Stunning 3 Bed 2.5 Bath Freehold Townhome for Sale in Highly Sought after Neighborhood in Hespeler Milpond community. Featuring an attached garage, Open Concept Main Floor has Hardwood Floors, Large size Kitchen with Breakfast Bar and Backsplash and Tile floor. Bright ,Spacious main floor and Good size fully fenced backyard for your out door parties and get to gathers or entertain friends. The second level features a primary bedroom with a gorgeous 4-piece ensuite and walk in closet, 2 more spacious bedrooms and a second 4 piece bath. Spacious Basement needs your personal touch to finish as per your preferences. .Nestled close to , walking trails, Grand River, Hespeler down town, schools and steps away from restaurants, shopping, Transit and all amenities! This home is Facing to beautiful Park!! Great Family Friendly Location!\n\nRead More\n\n## 7 Abbott Crescent Property Facts\n\nProperty Type  | :Residential\nMLS Number  | :40717187\nListing Type  | :Sale\nProperty Age  | :6-15 Years\nPossession Date  | :[Button: Know more]Image: know more link icon\nLast Updated  | :06 Jan, 2026 (156 Days ago)\nSource  | :Waterloo Region\n\nArea  | :Waterloo\nCity  | :Cambridge\nArea Major  | :14 - Hespeler\nArea Minor  | :44 - Blackbridge/Fisher Mills/Glenchristie/Hagey/Silver Heights\nPostal Code  | : N3C 0C8\nDirections  | :MICHIGAN AVE TO ABBOTT CRES\n\n## 7 Abbott Crescent Property Price & Tax Insights\n\nPrice  | : $699,900\nProperty Taxes  | :$3732\n\nTax Year  | :2024\n\n## 7 Abbott Crescent, Cambridge Property Details\n\nBedrooms  | :3 +\nNo. of Rooms  | :9\nAir Conditioning  | :Central Air\nHeating  | :Forced Air\n\nBathrooms  | :3\nApprox Square Footage  | :1206 sqft\n\nDimensions 6\n\n[Button: Meters] [Button: Feet]\n\nKitchen  | :2.79 m x 2.51 m\nDining Room  | :2.79 m x 1.73 m\nBedroom  | :3.10 m x 4.06 m\n\nGreat Room  | :3.96 m x 4.88 m\nBedroom Primary  | :3.68 m x 3.71 m\nBedroom  | :2.90 m x 2.82 m\n\n## 7 Abbott Crescent, Cambridge - Price History\n\n2025-07\n\n08 Jul, 2025\n\nTREB #40717187\n\nPrice Change\n\n$699900\n\nImage: property sold history blur background\n\nView More\n\nSign in to view full price history of this property\n\n$699,900\n\n7 Abbott Crescent, Waterloo, ON\n\nListing ID #40717187\n\nFavourite Share",
+          "title": "7 Abbott Crescent, Cambridge, ON N3C 0C8 | Sold",
+          "url": "https://www.squareyards.ca/sale/on/waterloo/cambridge/7-abbott-crescent-n3c-0c8"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn1search7 [wordlim: 200] Crawled: 1.3 years ago; MLS® #: 40717187 ... MLS® #: 40717187\n\nDescriptionDetailsNeighbourhoodSimilar Listings\n\n[Button: Contact An Agent]\n\n$699,900\n\n61 days on remax.ca\n\n3 bed 3 bath\n\n1,206 sqft House\n\n3 bed 3 bath 1,206 sqft\n\n# \n\n7 ABBOTT CRESCENT, CAMBRIDGE, ON N3C0C8\n\nCourtesy of HomeLife Power Realty Inc.\n\nMLS® #: 40717187\n\nCourtesy of HomeLife Power Realty Inc.\n\nMLS® #: 40717187\n\n[Button: Contact An Agent]\n\n35\n\nDescriptionDetailsNeighbourhoodSimilar Listings\n\n* * *\n\n## Property Description for 7 ABBOTT Crescent\n\nWelcome to 7 ABBOTT CRES Stunning 3 Bed 2.5 Bath Freehold Townhome for Sale in Highly Sought after Neighborhood in Hespeler Milpond community. Featuring an attached garage, Open Concept Main Floor has Hardwood Floors, Large size Kitchen with Breakfast Bar and Backsplash and Tile floor. Bright ,Spacious main floor and Good size fully fenced backyard for your out door parties and get to gathers or entertain friends. The second level features a primary bedroom with a gorgeous 4-piece ensuite and walk in closet, 2 more spacious bedrooms and a second 4 piece bath. Spacious Basement needs your personal touch to finish as per your preferences. .Nestled close to , walking trails, Grand River, Hespeler down town, schools and steps away from restaurants, shopping, Transit and all amenities! This home is Facing to beautiful Park!! Great Family Friendly Location! (id:38686)\n\nSee more\n\n## Tour this home\n\n[Button: Schedule A Viewing]\n\n### Property Details\n\n  * #### Property Tax\n\n: $3,732\n  * #### MLS® #\n\n: 40717187\n\n### Home Features\n\n  * #### Property Type\n\n: Single Family\n  * #### Square Footage\n\n: 1,206 SQFT\n  * #### Subdivision\n\n: 44 - Blackbridge/Fisher Mills/Glenchristie/Hagey/Silver Heights\n\n### Room Details\n\n  * #### Partial Bathroom\n\n: 1\n\n### Interior Features\n\n  * #### Heating\n\n: Forced air\n  * #### Basement\n\n: Unfinished, Full\n\n### Utilities\n\n  * #### Sewer\n\n: Municipal sewage system\n\n### Other\n\n  * #### Parking Features\n\n: Attached Garage\n  * #### Exterior Features\n\n: Brick, Aluminum siding\n\nSee more details\n\nInterested in this property?\n\nWe are here to help you in your home buying journey. Would you like us to send you more information about 7 ABBOTT Crescent, listed for $699,900?[Button: Yes, send me more info]\n",
+          "title": "7 ABBOTT Crescent, Cambridge, ON N3C0C8 House For Sale | RE/MAX | 40717187",
+          "url": "https://www.remax.ca/luxury/on/cambridge-real-estate/7-abbott-crescent-wp_idm73000004-28196199-lst"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn1search8 [wordlim: 200] Crawled: 2 months ago; 40717187 ₽ 607719 ₽/м²\n26871000 ₽ 319893 ₽/м²\n\n18 фев в 01:12\n\nзастройщик\n\nЗабронировать\n\n  * Image: ул 1-я Бухвостова 2к/3 фото\n\n4-комнатная квартира в новостройке 115.0 м² этаж 17/17\n\nг Москва, метро Преображенская площадь, ул 1-я Бухвостова, 2к/3\n\nРассрочка 0% с первоначальным взносом от 20% Квартира на 17 этаже в жилом комплексе премиум-класса \"Преображенская площадь\". Общая площадь: 115.1 кв.м. Проект премиум-класса в историческом районе Москвы. До метро \"Преображенская площадь\" 3 минуты пешко...\n\n78810657 ₽ 685310 ₽/м²\n\n17 фев в 22:35\n\nзастройщик\n\nЗабронировать\n\n  *   * Image: ул 1-я Бухвостова 2к/3 муниципальный округ Преображенское фото\n\n2-комнатная квартира в новостройке 67.0 м² этаж 4/14\n\nг Москва, метро Преображенская площадь, ул 1-я Бухвостова, 2к/3, муниципальный округ Преображенское\n\nПродаётся 2-комнатная квартира в сданном доме (Корпус 2 (I очередь)), срок сдачи: II-кв. 2025, общей площадью 67.7 кв.м., на 4 этаже. Жилой комплекс с подземной автостоянкой, отдельно стоящими ДОУ, БНК (учебный корпус) и многофункциональным центром.\n\n40717187 ₽ 607719 ₽/м²\n\n16 фев в 21:58\n\nзастройщик\n\nЗабронировать\n\n  * Image: ул 1-я Бухвостова 2к/3 муниципальный округ Преображенское фото\n\n",
+          "title": "Купить квартиру 🏢 в сданном доме рядом с метро Преображенская площадь в Москве — 176 объявлений по продаже квартир — Олан ру",
+          "url": "https://moskva.olan.ru/preobrazhenskaya-ploschad/sale-flat/sale-flat-period-completed-building"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn1search9 [wordlim: 200] Published: 10.4 years ago; Crawled: last month; Mobile: 9830027784, Office: 033+40717187 ... Mobile: 9830027784, Office: 033+40717187 ... On Fri, May 13, 2016 at 1:22 PM, Parmeswar Chandak <par...@chandak.net> wrote:\n",
+          "title": "Online TDS return",
+          "url": "https://groups.google.com/g/forum4ca/c/GzhVg88UvoA"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn1search10 [wordlim: 200] Published: 10.0 years ago; Crawled: 2 months ago; Mobile: +91 9830027784, Office: +033 40717187\n",
+          "title": "Tax Audit in Case of Multiple Proprietory Businesses",
+          "url": "https://groups.google.com/g/forum4ca/c/1VCBIoI0DeE"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn1search11 [wordlim: 200] Published: 6 months ago; Crawled: 6 months ago; Fale com o anunciante ... Street View Dê uma volta na vizinhança\n",
+          "title": "Apartamento com 3 quartos na Rua Otto Alfredo Müller, 71, Centro, Tramandaí - RS - ID: 40717187 | Chaves na Mão",
+          "url": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-rs-tramandai-centro-120m2-RS810000/id-40717187/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn1search12 [wordlim: 200] Published: 3 months ago; 40717187\n",
+          "title": "Relatório de Interrupção em Situação de Emergência - ISE 13 - 03_2026 - CE",
+          "url": "https://www.enel.com.br/content/dam/enel-br/informativos-regula%C3%B3rios_cear%C3%A1/relat%C3%B3rios-de-expurgos-e-indicadores-de-qualidade/2026/Relat%C3%B3rio%20de%20Interrup%C3%A7%C3%A3o%20em%20Situa%C3%A7%C3%A3o%20de%20Emerg%C3%AAncia%20-%20ISE%2013%20-%2003_2026%20-%20CE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "ws_046db25a716ab618006ab34fd69f3487d0901a430f93c17920",
+      "action": {
+        "type": "open_page",
+        "url": "https://www.loopnet.com/Listing/801-S-Miami-Ave-Miami-FL/40717187/"
+      },
+      "status": "completed",
+      "type": "web_search_call",
+      "results": [
+        {
+          "type": "text_result",
+          "snippet": "citeturn2view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({\"ref_id\":\"turn1search0\",\"lineno\":null}); Total lines: 575\nL0: ## Complete Your Profile\nL1: \nL2: The contact details listed below are missing from your profile and are required to proceed. You'll only need to enter these one time.\nL3: \nL4: [Input: Office Phone Number]\nL5: \nL6: [Input: Cell Phone Number]\nL7: \nL8: [Button: Continue]\nL9: \nL10: cite0†Image: LoopNet L11: \nL12:   * For Lease\nL13:   * For Sale\nL14:   * Auctions\nL15:   * Businesses For Sale\nL16: \nL17: US\nL18: \nL19:   * Language and Region\nL20:   * Currency\nL21: \nL22: English\nL23: \nL24: United States\nL25: \nL26: English\nL27: \nL28: Canada\nL29: \nL30: English\nL31: \nL32: United Kingdom\nL33: \nL34: Español\nL35: \nL36: España\nL37: \nL38: Français\nL39: \nL40: Canada\nL41: \nL42: Français\nL43: \nL44: France\nL45: US Dollar USD $ Australian Dollar AUD $ Canadian Dollar CAD $ Euro EUR € Pound Sterling GBP £\nL46: \nL47: cite1†View My Preferences L48: \nL49:   * Sign In\nL50: \nL51: Log In/Sign Up\nL52: \nL53: Enter your email to login or create a free account\nL54: \nL55: The username or password you entered is incorrect. Please try again. Remember passwords are case sensitive. If you forgot your password, cite2†click to reset it†secure.costargroup.com .\nL56: If you continue to see this message, your account may be locked due to too many failed attempts. Please contact Customer Support at 1-800-613-1303.\nL57: \nL58: Email*\nL59: \nL60: [Input: Enter email address]\nL61: \nL62: Email is required This value should be a valid email.\nL63: \nL64: Password*\nL65: \nL66: [Input: Enter password]\nL67: \nL68: Password is required\nL69: \nL70: cite3†Forgot Password?†secure.costargroup.com [Input] Remember Me\nL71: \nL72: [Button: Log In]\nL73: \nL74: [Button: Continue]\nL75: \nL76: or continue with\nL77: By clicking the button, you agree to LoopNet's cite4†Terms of Use and cite5†Privacy Notice†www.costar.com .\nL78: \nL79: You must register your contact information to view secure information on this listing.\nL80: \nL81: Error occurred with your registration, please try again.\nL82: \nL83: That email address has already been registered. Please try another or click cite2†forgot password†secure.costargroup.com .\nL84: \nL85: {{signup.invalidData.message}}\nL86: \nL87: First Name*\nL88: \nL89: [Input: First Name]\nL90: \nL91: First name is required\nL92: \nL93: Last Name*\nL94: \nL95: [Input: Last Name]\nL96: Last name is required\nL97: \nL98: Email*\nL99: \nL100: [Input: Enter email address]\nL101: \nL102: Email is required This value should be a valid email.\nL103: \nL104: Password*\nL105: \nL106: [Input: Enter password]\nL107: \nL108: Password is required Password is too common or does not have at least 8 characters\nL109: \nL110: [Input]\nL111: \nL112: I agree to receive marketing messages from CoStar Group and its affiliates by email, SMS, and phone, including automated or prerecorded messages. I can unsubscribe at any time. Standard message and data rates may apply. Privacy Notice\nL113: \nL114: [Button: Sign Up]\nL115: [Button: Continue]\nL116: \nL117: or continue with\nL118: \nL119: By clicking the button, you agree to LoopNet's\nL120: cite4†Terms of Use and Privacy Notice.\nL121: ### Thank you!\nL122: Your account has successfully been created.\nL123: \nL124: Are you primarily looking to use LoopNet to...\nL125: \nL126: [Input] FIND properties to lease or buy\nL127: \nL128: [Input] LIST properties to lease or sell\nL129: \nL130: [Button: Finish]\nL131: #### This feature is unavailable at the moment.\nL132: \nL133: We apologize, but the feature you are trying to access is currently unavailable. We are aware of this issue and our team is working hard to resolve the matter.\nL134: \nL135: Please check back in a few minutes. We apologize for the inconvenience.\nL136: \nL137: - LoopNet Team\nL138: \nL139: cite6†Close L140: ### Share This Listing\nL141: \nL142: [Input] [Input]\nL143: \nL144: Email*\nL145: \nL146: [Input: Email Address]\nL147: \nL148: Please enter a valid email address.\nL149: \nL150: To send this property to multiple individuals, insert a semi-colon between each recipient's email address.\nL151: \nL152: Message\nL153: \nL154: Please take a look at Turnkey Restaurant Opportunity | Brickell | 801 S Miami Ave\nL155: \nL156: 919 characters remaining\nL157: \nL158: Hmm, there seems to have been an error sending your message. Please try again.\nL159: \nL160: [Input] Send me a copy\nL161: \nL162: Cancel [Button: Send ]\nL163: \nL164: Your email has been sent.\nL165: \nL166: [Button: Call ]\nL167: Message\nL168: #### Still interested?\nL169: \nL170: Contact the brokers for more information about this property\nL171: # Turnkey Restaurant Opportunity | Brickell 801 S Miami Ave 450 Unit Apartment Building $650,000 ($1,444/Unit) Miami, FL 33130\nL172: \nL173: cite7†Image: 801 S Miami Ave, Miami, FL for sale - Interior Photo - Image 1 of 12†images1.loopnet.com L174: \nL175: cite8†Image: 801 S Miami Ave, Miami, FL for sale - Interior Photo - Image 2 of 12†images1.loopnet.com L176: \nL177: cite9†Image: 801 S Miami Ave, Miami, FL for sale - Interior Photo - Image 3 of 12†images1.loopnet.com L178: \nL179: Map\nL180: \nL181: Saved Save to Favorites\nL182: #### Save this listing!\nL183: \nL184: Favorite this listing to get notified of price updates, new media and more\nL185: \nL186: ### Investment Highlights\nL187: \nL188:   * Turnkey Luxury Restaurant Space\nL189:   * 1,413 SF Ground Floor + 3,498 SF Mezzanine\nL190: \nL191:   * Business Sale with Key Money\nL192:   * $22/SF NNN\nL193: ### Executive Summary\nL194: \nL195: Turnkey Luxury Restaurant Space\nL196: Business Sale with Key Money\nL197: 1,413 SF ground floor + 3,498 SF mezzanine\nL198: $4.5M+ replacement cost\nL199: Fully built-out with FF&E, HVAC, hoods, grease trap & bar\nL200: Located within a high-end mixed-use development\nL201: Strong built-in foot traffic and affluent customer base\nL202: Seating Capacity: 97 (Expandable to 120)\nL203: 7 assigned parking spaces\nL204: Valet parking via SLS lobby\nL205: ### Attachments\nL206: \nL207: cite10†Brochure - Turnkey Restaurant Opportunity _ Brickell - FA Commercial†images1.loopnet.com L208: ### Property Facts\nL209: Price  | $650,000  | Apartment Style  | Hi-Rise\nL210: Price Per Unit  | $1,444  | Building Class  | A\nL211: Sale Type  | Investment  | Lot Size  | 2.21 AC\nL212: Sale Condition  | Business Value Included  | Building Size  | 938,984 SF\nL213: No. Units  | 450  | No. Stories  | 57\nL214: Property Type  | Multifamily  | Year Built  | 2018\nL215: Property Subtype  | Apartment  |  |\nL216: Zoning  | 6408\nL217: Price  | $650,000\nL218: Price Per Unit  | $1,444\nL219: Sale Type  | Investment\nL220: Sale Condition  | Business Value Included\nL221: No. Units  | 450\nL222: Property Type  | Multifamily\nL223: Property Subtype  | Apartment\nL224: Apartment Style  | Hi-Rise\nL225: Building Class  | A\nL226: Lot Size  | 2.21 AC\nL227: Building Size  | 938,984 SF\nL228: No. Stories  | 57\nL229: Year Built  | 2018\nL230: Zoning  | 6408\nL231: ### Amenities\nL232: \nL233: ### Unit Amenities\nL234: \nL235:   * Air Conditioning\nL236:   * Balcony\nL237:   * Dishwasher\nL238:   * Disposal\nL239: \nL240:   * Microwave\nL241:   * Washer/Dryer\nL242:   * Kitchen\nL243:   * Hardwood Floors\nL244: \nL245:   * Refrigerator\nL246:   * Oven\nL247:   * Stainless Steel Appliances\nL248:   * Tub/Shower\nL249: \nL250:   * Walk-In Closets\nL251:   * Wheelchair Accessible (Rooms)\nL252:   * Quartz Countertops\nL253:   * Floor to Ceiling Windows\nL254: ### Site Amenities\nL255: \nL256:   * Concierge\nL257:   * Fitness Center\nL258:   * Playground\nL259: \nL260:   * Pool\nL261:   * Spa\nL262:   * Tennis Court\nL263: \nL264:   * Grill\nL265:   * Elevator\nL266: \nL267:   * Lounge\nL268:   * Multi Use Room\nL269: \nL270: [Input]\nL271: \nL272: 1 1\nL273: \nL274:   * Aerial\nL275:   * Map\nL276: \nL277: cite11†Image: 801 S Miami Ave, Miami, FL - Aerial map view - Image1†images1.loopnet.com L278: \nL279: Exceptionally walkable\nL280: \nL281: 90/100\nL282: \nL283: Moderately drivable\nL284: \nL285: 70/100\nL286: \nL287: Exceptional public transit\nL288: \nL289: 100/100\nL290: \nL291: Fairly bikeable\nL292: \nL293: 50/100\nL294: \nL295: cite12†Source: Local Logic^{®}†docs.locallogic.co L296: ### Property Taxes\nL297: \nL298: Parcel Numbers  | Multiple\nL299: \nL300:   * 01-0205-050-1045\nL301:   * 01-0205-050-1055\nL302:  | Improvements Assessment  | $0\nL303: Land Assessment  | $0  | Total Assessment  | $20,627,695\nL304: \nL305: ### Property Taxes\nL306: \nL307: Parcel Numbers\nL308: \nL309: Multiple\nL310: \nL311:   * 01-0205-050-1045\nL312:   * 01-0205-050-1055\nL313: \nL314: Land Assessment\nL315: \nL316: $0\nL317: \nL318: Improvements Assessment\nL319: \nL320: $0\nL321: \nL322: Total Assessment\nL323: \nL324: $20,627,695\nL325: \nL326: [Button: Call ] (786) 905-3140\nL327: \nL328: [Button: Message ]\nL329: \nL330: #### Still interested?\nL331: \nL332: Contact the brokers for more information about this property\nL333: ### Contacts\nL334: \nL335:   * Fabio F. Faerman\nL336: \nL337:   * Sebastian Faerman\nL338: \nL339:   * cite13†Fortune Christie's International L340: \nL341:   * #### Listing ID: 40717187\nL342: \nL343:   * #### Date on Market: 5/29/2026\nL344: \nL345:   * #### Last Updated:\nL346: \nL347:   * #### Address: 801 S Miami Ave, Miami, FL 33130\nL348: \nL349: The cite14†Brickell Multifamily Property at 801 S Miami Ave, cite15†Miami , FL cite16†33130 is currently available. Contact Fortune Christie's International for more information.\nL350: ### MULTIFAMILY PROPERTIES IN NEARBY NEIGHBORHOODS\nL351:   * cite17†Downtown Miami Apartment Buildings L352:   * cite18†North Beach Apartment Buildings L353:   * cite19†South Beach Apartment Buildings L354:   * cite20†Mid-Beach Apartment Buildings L355:   * cite21†Little Havana Apartment Buildings L356:   * cite22†Flamingo Apartment Buildings L357:   * cite23†Allapattah Apartment Buildings L358:   * cite24†North Shore Apartment Buildings L359:   * cite14†Brickell Apartment Buildings L360:   * cite25†Wynwood Apartment Buildings L361:   * cite26†Normandy Isles Apartment Buildings L362:   * cite27†Douglas Apartment Buildings L363:   * cite28†Coral Way Apartment Buildings L364:   * cite29†Liberty City Apartment Buildings L365:   * cite30†Little River Apartment Buildings L366: ### NEW NEARBY MULTIFAMILY LISTINGS\nL367:   * cite31†3760 SW 1st St, Fort Lauderdale FL L368:   * cite32†2904 N Ocean Blvd, Fort Lauderdale FL L369:   * cite33†1091 E 17th St, Hialeah FL L370:   * cite34†828 Pennsylvania Ave, Miami Beach FL L371:   * cite35†1607 Ponce de Leon, Coral Gables FL L372:   * cite36†1700 NW 58th Ter, Sunrise FL L373:   * cite37†921-925 NE 17th Ave, Fort Lauderdale FL L374:   * cite38†2221 NW 58th Ave, Lauderhill FL L375:   * cite39†1859 Lincoln St, Hollywood FL L376:   * cite40†625 Michigan Ave, Miami Beach FL L377:   * cite41†465 E 30th St, Hialeah FL L378:   * cite42†3740 W Hallandale Beach Blvd, Pembroke Park FL L379: ### NEARBY LISTINGS\nL380: \nL381:   * cite43†918 NW 5th St, Miami FL L382:   * cite44†727 Collins Ave, Miami Beach FL L383:   * cite45†1212 SW 30th Pl, Miami FL L384:   * cite46†2160 NW 18th Ter, Miami FL L385:   * cite47†1915 NW 28th St, Miami FL L386:   * cite48†2170 NW Flagler Ter, Miami FL L387:   * cite49†2080-2090 NW 31st St, Miami FL L388:   * cite50†1300 Lincoln Rd, Miami Beach FL L389:   * cite51†501 NE 31st St, Miami FL L390:   * cite52†1440 SW 4th St, Miami FL L391: \nL392: 1 of 13\nL393: \nL394: Videos\nL395: \nL396: Matterport 3D Exterior\nL397: \nL398: Matterport 3D Tour\nL399: \nL400: Photos\nL401: \nL402: Street View Street\nL403: \nL404: Map\nL405: cite53†Image: 801 S Miami Ave, Miami, FL for sale Interior Photo- Image 1 of 13†images1.loopnet.com Interior - For Visual Purposes Only\nL406: \nL407: Interior\nL408: \nL409: Interior\nL410: \nL411: Interior\nL412: \nL413: Interior\nL414: \nL415: 1st Floor Plan\nL416: \nL417: Mezzanine Floor Plan\nL418: \nL419: SLS Lux Aerial\nL420: \nL421: SLS Lux Interioir\nL422: \nL423: SLS Lux Aerial\nL424: \nL425: SLS Lux Exterior\nL426: \nL427: Brickell\nL428: \nL429: 1 of 1\nL430: \nL431:   * Aerial\nL432:   * Map\nL433: \nL434: cite11†Image†images1.loopnet.com L435: \nL436: Connect with us\nL437: \nL438: © 2026 CoStar Group\nL439: The LoopNet service and information provided therein, while believed to be accurate, are provided \"as is\". LoopNet disclaims any and all representations, warranties, or guarantees of any kind.\nL440:   * cite54†About Us L441:   * cite55†Careers†careers.costargroup.com L442:   * cite56†Contact Us L443:   * cite57†Search L444:   * cite58†Find a Broker L445:   * cite59†Product Overview L446:   * cite60†Mobile L447:   * cite4†Terms of Use L448:   * cite5†Privacy Notice†www.costar.com L449:   * cite61†Cookie Policy†www.costar.com L450:   * cite62†Exercise Your Rights†privacy.costar.com L451:   * cite63†Licensing†www.ten-x.com L452: \nL453: [Input] [Input] [Input]\nL454: \nL455: Contact the Sale Advisors\nL456: \nL457: Turnkey Restaurant Opportunity | Brickell | 801 S Miami Ave\nL458: \nL459: Have an account? Log In\nL460: \nL461: What's your inquiry about?*\nL462: Select Option\nL463: \nL464: [Input] Financials\nL465: \nL466: [Input] Pricing\nL467: \nL468: [Input] Request a Tour\nL469: \nL470: [Input] Other\nL471: \nL472: Select at least one option\nL473: \nL474: Preferred Date*\nL475: \nL476: [Input: Select Tour Date]\nL477: \nL478: Preferred date is required\nL479: \nL480: First Name*\nL481: \nL482: [Input: First Name]\nL483: \nL484: First name is required\nL485: \nL486: Last Name*\nL487: \nL488: [Input: Last Name]\nL489: \nL490: Last name is required\nL491: \nL492: Email*\nL493: \nL494: [Input: Email Address]\nL495: \nL496: Email address is required\nL497: \nL498: Valid email address is required This email address is already in use. Please Login or try a different email address.\nL499: \nL500: Phone*\nL501: \nL502: [Input: Phone Number]\nL503: Valid phone number is required\nL504: \nL505: Ext (optional)\nL506: \nL507: [Input: Extension]\nL508: \nL509: Company (optional)\nL510: \nL511: [Input: Company Name]\nL512: \nL513: Please enter a company.\nL514: \nL515: Message*\nL516: \nL517: Message is required\nL518: \nL519: {{getContactFormMessageFieldCharacterCount()}} out of 600\nL520: \nL521: New to LoopNet? No problem. We'll automatically create a free account for you. By clicking the button, you agree to LoopNet's cite4†Terms of Use and cite5†Privacy Notice.†www.costar.com L522: This site is protected by reCAPTCHA and the Google cite64†Privacy Policy†www.google.com and cite65†Terms of Service†policies.google.com apply.\nL523: \nL524: Hmm, there seems to have been an error sending your message. Please refresh the page and try again.\nL525: \nL526: [Input]\nL527: \nL528: Send Message\nL529: \nL530: Your message will be sent to all agents listed.\nL531: \nL532: Your message has been sent.\nL533: \nL534: Link copied\nL535: \nL536: Your LoopNet account has been created!\nL537: \nL538: Thank you for your feedback.\nL539: ### Please Share Your Feedback\nL540: \nL541: We welcome any feedback on how we can improve LoopNet to better serve your needs.\nL542: \nL543: [Input]\nL544: \nL545: {{ getErrorText(feedbackForm.starRating, \"rating\") }}\nL546: \nL547: 255 character limit ({{ remainingChars() }} character characters remaining over)\nL548: \nL549: {{ getErrorText(feedbackForm.msg, \"rating\") }}\nL550: \nL551: [Input: First Name]\nL552: \nL553: {{ getErrorText(feedbackForm.fname, \"first name\") }}\nL554: \nL555: [Input: Last Name]\nL556: \nL557: {{ getErrorText(feedbackForm.lname, \"last name\") }}\nL558: \nL559: [Input: Phone Number (numbers only)]\nL560: {{ getErrorText(feedbackForm.phone, \"phone number\") }}\nL561: \nL562: [Input: Ext.]\nL563: \nL564: {{ getErrorText(feedbackForm.phonex, \"phone extension\") }}\nL565: \nL566: [Input: Email Address]\nL567: \nL568: {{ getErrorText(feedbackForm.email, \"email address\") }}\nL569: \nL570: You can provide feedback any time using the Help button at the top of the page.\nL571: \nL572: [Button: Cancel] [Button: Submit]\nL573: \nL574: cite66†Image†px.ads.linkedin.com cite67†iframe†www.googletagmanager.com ",
+          "title": "801 S Miami Ave, Miami, FL 33130 - Turnkey Restaurant Opportunity | Brickell | LoopNet",
+          "url": "https://www.loopnet.com/Listing/801-S-Miami-Ave-Miami-FL/40717187/"
+        }
+      ]
+    },
+    {
+      "id": "ws_046db25a716ab618006ab34fd7e4f887d0abee87a46d03a79b",
+      "action": {
+        "type": "open_page",
+        "url": "https://www.loopnet.com/Listing/801-S-Miami-Ave-Miami-FL/40717187/"
+      },
+      "status": "completed",
+      "type": "web_search_call",
+      "results": []
+    },
+    {
+      "id": "rs_046db25a716ab618006ab34fda15fc87d09064275d8efde940",
+      "summary": [],
+      "type": "reasoning",
+      "content": [],
+      "encrypted_content": "gAAAAABqs0_il-A0lKqRVMXDC8rJapV25T6E1Hn20C9ECLEbwVD4lzFl4-de_DRkS15lxIBYVynPGxHwWDZw03osh4J36tHuUsGStBFXkq6FgmMCv032K0ZmWE8kncIqaXNiwGnLezzOur2CeTKWBrFrOeJqtih9KTMJxo-OwzRBtMfT-iUf6GecFNLHf-1vcHm17_jeKt6dHLjQX9hhgtDnF1lk9ls16vXVl7s2a30G-vbEGg9zY5C7E_NJou3ujIiKlU_FlOiTWZ-AusbzEazQZjKg7X4SPfaKZWufb5xdEkiCFWBNHDmvVunB6GKTevE43GBr8QyikBaKcXPbLxpuSp_zLOuhVZG5oiL2cjm29ghJjC0UCym02m4VnJ4HMIHlKUHJ33tVg6BjVfQS_ADuxc46LScy6pdkm_XP2bMi0oUm7lJrYArgQICGVNn6zMPKA7qU7bYdyDxUiD2euzQhDCZoZ4UDjgdj7Ih7ul8Vje8xzllVCd7wJmIsLBbaC_67dKQrjxW3DfzvO9r8xUg7BzC8N4k98RsK6hYFLrdvkF1TudZ7ejlbt3_Zi2kZx4DDOabM43ge8VtfH2QJF8vnWuadGX_VOYEKSL4m-ttsjDZLLR_zJgnZIKyZmDOSqmWyYDdA2Z9yBOBcs0SYs5cFXKsdimIGAtd1GfzM1p-IyBApFSQyjgIfAJ6etzEpRbl0gv8bsNVIMmUxSwFrqGGmjNNmyoJr7n2AbA5y0ty7BfnGd_4PiKjJDlMkIye7V-YBzosMEEoOQkLPfsqmebj5-CFacXFfwYPLB8NwjJukQnoOflqR24ZdLGKBGRFFt0E8JZ0UyTRhbg0FKB1sOYklSBePDE-6BejMNPuManiCvBGZbmXxgYjZwpy4ah5qrB-Hr15lPHdbkDfe2_0VSjx8996LocHDLShhnlcP7O0G1nRwiUS_T5g1fJvOMB9CCCQMeZ89bnMX5qdaS8J0-e80IgLSHxjI8mRJ8xyRScDbxQTg0BEE9BXiR_55urBGoVTmH7RWT3YUaUx2b0MhaZ9azzIP4dYIcc2XiMFVtyyR1614nQKO6K8g7u3NyH-gTkHWhJ_kshAIFK5yYX9H5dCrzju8WLwMPHqVMh0YfBAHFPfajOZUPiyYZJUn6ekzYPYU-DMB1ELdjNapr2oMFZHWqfh-IQgHQ0t5ACK0p6iAiuXHXhQwgIlrJ8Ku2hND3LML4ZG8CwU4ZDiCqYuelzEQAyk5cN8g-xwfyK1_0UGR8BRmPQleZJnpX5DMt_o6-C_Ndvr49Uti8qwufg_CQwJfRXj76TM3NhU1_aAmI12U9hTB2Ch64Uw=",
+      "status": null
+    },
+    {
+      "id": "ws_046db25a716ab618006ab34fdaaecc87d098d35019e3d43ea8",
+      "action": {
+        "type": "search",
+        "queries": [
+          "site.loopnet.com/Listing/801-S-Miami-Ave-Miami-FL/40717187/ \"Interior\" \"images\"",
+          "site.images1.loopnet.com \"801-S-Miami-Ave\" \"Interior-Photo-4\""
+        ],
+        "query": "site.loopnet.com/Listing/801-S-Miami-Ave-Miami-FL/40717187/ \"Interior\" \"images\"",
+        "sources": [
+          {
+            "type": "url",
+            "url": "https://sta-ure-luxury.uregwebsites.com/home/for-sale/miami-fl/801-s-miami-ave-unit-1603/50161854"
+          },
+          {
+            "type": "url",
+            "url": "https://frankevans.ppirfl.com/for-sale/801-s-miami-ave-2405-miami-fl-33130/id_1855957"
+          },
+          {
+            "type": "url",
+            "url": "https://images1.showcase.com/d2/ZPXeIq9mW97Vranhlv08hPoGSA-IE4-fHVY-pGJWHOU/document.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://own.miami/listings/A12050897-801-s-miami-ave-3903"
+          },
+          {
+            "type": "url",
+            "url": "https://wwwlistingssearchcbrecus.blob.core.windows.net/fileassets/US-SMPL-176382/62b8a043/e751bb13-2587-49ec-a538-40e720664030.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.byowner.com/condo/miami/801-s-miami-ave-fl-33130-a11818080"
+          },
+          {
+            "type": "url",
+            "url": "https://www.byowner.com/condo/miami/801-s-miami-avenue-fl-33130-a12067608"
+          },
+          {
+            "type": "url",
+            "url": "https://www.byowner.com/condo/miami/801-s-miami-avenue-fl-33130-a12027466"
+          },
+          {
+            "type": "url",
+            "url": "https://images1.showcase.com/d2/O0iB535YGWpgMtwso9vnALKx00aV1OEtT9pWF6jaGYw/document.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.langrealty.com/property/43-A12085783-801-S-Miami-Ave-1810-Miami-FL-33130/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.langrealty.com/property/43-A12025744-801-S-Miami-Ave-2004-Miami-FL-33130/"
+          },
+          {
+            "type": "url",
+            "url": "https://images1.showcase.com/d2/HvibHYg49GhHnB9PKEVgpi9Dr92RvZvKVhjKoT4gd14/document.pdf"
+          },
+          {
+            "type": "url",
+            "url": "https://www.langrealty.com/property/43-A12071975-801-S-Miami-Ave-2707-Miami-FL-33130/"
+          },
+          {
+            "type": "url",
+            "url": "https://www.langrealty.com/property/43-A12089162-801-S-Miami-Ave-1506-Miami-FL-33130/"
+          },
+          {
+            "type": "url",
+            "url": "https://vn4-2.cs.fiu.edu/cgi-bin/arquery.cgi?arcriteria=1&category=flproperties-15&srvc=&vid=RAM&x1=-80.1930972&y1=25.76599"
+          },
+          {
+            "type": "url",
+            "url": "https://www.langrealty.com/property/43-A12053399-801-S-Miami-Ave-3006-Miami-FL-33130/"
+          }
+        ]
+      },
+      "status": "completed",
+      "type": "web_search_call",
+      "results": [
+        {
+          "type": "text_result",
+          "snippet": "citeturn4search0 [wordlim: 200] Published: 5 months ago; Crawled: 2 months ago; ### 801 S Miami Ave Unit# 1603, Miami, FL 33130 ... • Interior Features: BedroomOnMainLevel,EntranceFoyer,Elevator,Bar ... Image Source MLS: MAR\n",
+          "title": "801 S Miami Ave Unit# 1603 - Miami - Florida - #(A11924",
+          "url": "https://sta-ure-luxury.uregwebsites.com/home/for-sale/miami-fl/801-s-miami-ave-unit-1603/50161854"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn4search1 [wordlim: 200] Published: 4 months ago; Crawled: 4 months ago; Image: 801 S Miami Ave 2405 Property Photo 1 ... Image: 801 S Miami Ave 2405 Property Photo 1 ... Floor-to-ceiling impact windows flood the interior with natural light, creating an open and airy atmosphere ideal for both everyday living and working from home.\n",
+          "title": "801 S Miami Ave 2405, Miami, FL 33130 | MLS#: A11936867 | Miami Real Estate",
+          "url": "https://frankevans.ppirfl.com/for-sale/801-s-miami-ave-2405-miami-fl-33130/id_1855957"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn4search12 [wordlim: 200] Published: 7 months ago; Interior ImagesO F F I C E  S P A C E\n",
+          "title": "FOR  LEASE\n101 NW 8th Street\nMiami, FL 33136\nU p s",
+          "url": "https://images1.showcase.com/d2/ZPXeIq9mW97Vranhlv08hPoGSA-IE4-fHVY-pGJWHOU/document.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn4search2 [wordlim: 200] Published: 2 months ago; Crawled: last week; The items show are not included.Image: 801 S Miami Ave #3903 photo 4 Image: 801 S Miami Ave #3903 photo 5+15 more ... The interior includes an Italian kitchen with marble countertops and an LED-illuminated backsplash, tile flooring, and a master closet with custom finishes and textures. ... #3211712) · MLS #A11770876$750,000$895/sqft 1 bd · 2.5 ba · 838 sqft 801 S Miami Ave #3803 Listing courtesy of FACCIN Group Realty — Cassio Faccin (Lic.\n",
+          "title": "801 S Miami Ave #3903, Brickell — $690K for sale",
+          "url": "https://own.miami/listings/A12050897-801-s-miami-ave-3903"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn4search13 [wordlim: 200] Published: 1.5 years ago; Crawled: 1.5 years ago; 1 SE 3rd Avenue | Miami, FL 33131 ... • Building offers a state-of-the-art fitness center, conference facilities and rooftop terrace; Tenants can also enjoy exceptional neighborhood amenities including direct access to a Premo’s Deli, Walgreens Pharmacy, Bank of America and SunTrust banking centers, Bayside Marketplace, and more dining options ... Interior office photo: narrow private office with desk, chairs, and city view through windows at the far end.\n",
+          "title": "One Downtown",
+          "url": "https://wwwlistingssearchcbrecus.blob.core.windows.net/fileassets/US-SMPL-176382/62b8a043/e751bb13-2587-49ec-a538-40e720664030.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn4search3 [wordlim: 200] Published: last month; Crawled: last month; # 801 S Miami Ave #3704 ... ## [Button: Interior Features ] ... Image: Images ... Active $1,000,050 Apartment For Sale 22600 SW 207th Avenue, Miami, FL, 33170\n",
+          "title": "801 S Miami Ave #3704 For Sale, Miami, FL 33130 Condo | ByOwner",
+          "url": "https://www.byowner.com/condo/miami/801-s-miami-ave-fl-33130-a11818080"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn4search4 [wordlim: 200] Published: last month; Crawled: last month; # 801 S Miami Avenue #3101 ... ## [Button: Interior Features ] ... Image: Images ... 801 S Miami Ave #1808, Miami, FL, 33130  | $580,000  | 1  | 2  | 849  | 849 SqFt ... 45 SW 9th St #4108, Miami, FL, 33130  | $1,079,000  | 3  | 3  | 1,238  | 1,238 SqFt\n",
+          "title": "801 S Miami Avenue #3101 For Sale, Miami, FL 33130 Condo | ByOwner",
+          "url": "https://www.byowner.com/condo/miami/801-s-miami-avenue-fl-33130-a12067608"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn4search5 [wordlim: 200] Published: last month; Crawled: last month; ## [Button: Interior Features ] ... Image: Images ... 801 S Miami Avenue #4204, Miami, FL, 33130  | $1,149,000  | 3  | 3  | 1,334  | 1,334 SqFt801 S Miami Avenue #1808, Miami, FL, 33130  | $580,000  | 1  | 2  | 849  | 849 SqFt\n",
+          "title": "801 S Miami Avenue #2901 For Sale, Miami, FL 33130 Condo | ByOwner",
+          "url": "https://www.byowner.com/condo/miami/801-s-miami-avenue-fl-33130-a12027466"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn4search14 [wordlim: 200] Published: 2.6 years ago; Crawled: 2.6 years ago; Interior Images\n",
+          "title": "3470 N. Miami Ave.indd",
+          "url": "https://images1.showcase.com/d2/O0iB535YGWpgMtwso9vnALKx00aV1OEtT9pWF6jaGYw/document.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn4search6 [wordlim: 200] Crawled: 4 days ago; Image: 801 S Miami Ave 1810 Miami, FL - Image 0 Image: 801 S Miami Ave 1810 Miami, FL - Image 1 Image: 801 S Miami Ave 1810 Miami, FL - Image 2 Image: 801 S Miami Ave 1810 Miami, FL - Image 3 Image: 801 S Miami Ave 1810 Miami, FL - Image 4 Image: 801 S Miami Ave 1810 Miami, FL - Image 5 Image: 801 S Miami Ave 1810 Miami, FL - Image 6 Image: 801 S Miami Ave 1810 Miami, FL - Image 7 Image: 801 S Miami Ave 1810 Miami, FL - Image 8 Image: 801 S Miami Ave 1810 Miami, FL - Image 9 Image: 801 S Miami Ave 1810 Miami, FL - Image 10 Image: 801 S Miami Ave 1810 Miami, FL - Image 11 Image: 801 S Miami Ave 1810 Miami, FL - Image 12 Image: 801 S Miami Ave 1810 Miami, FL - Image 13 Image: 801 S Miami Ave 1810 Miami, FL - Image 14 Image: 801 S Miami Ave 1810 Miami, FL - Image 15 Image: 801 S Miami Ave 1810 Miami, FL - Image 16 ... ## 801 S Miami Ave 1810, Miami, FL 33130 ... ## Interior Features\n",
+          "title": "801 S Miami Ave 1810, Miami, FL 33130 | MLS# A12085783 | Lang Realty",
+          "url": "https://www.langrealty.com/property/43-A12085783-801-S-Miami-Ave-1810-Miami-FL-33130/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn4search7 [wordlim: 200] Crawled: 5 days ago; Image: 801 S Miami Ave 2004 Miami, FL - Image 0 Image: 801 S Miami Ave 2004 Miami, FL - Image 1 Image: 801 S Miami Ave 2004 Miami, FL - Image 2 Image: 801 S Miami Ave 2004 Miami, FL - Image 3 Image: 801 S Miami Ave 2004 Miami, FL - Image 4 Image: 801 S Miami Ave 2004 Miami, FL - Image 5 Image: 801 S Miami Ave 2004 Miami, FL - Image 6 Image: 801 S Miami Ave 2004 Miami, FL - Image 7 Image: 801 S Miami Ave 2004 Miami, FL - Image 8 Image: 801 S Miami Ave 2004 Miami, FL - Image 9 Image: 801 S Miami Ave 2004 Miami, FL - Image 10 Image: 801 S Miami Ave 2004 Miami, FL - Image 11 Image: 801 S Miami Ave 2004 Miami, FL - Image 12 Image: 801 S Miami Ave 2004 Miami, FL - Image 13 Image: 801 S Miami Ave 2004 Miami, FL - Image 14 Image: 801 S Miami Ave 2004 Miami, FL - Image 15 Image: 801 S Miami Ave 2004 Miami, FL - Image 16 Image: 801 S Miami Ave 2004 Miami, FL - Image 17 Image: 801 S Miami Ave 2004 Miami, FL - Image 18 Image: 801 S Miami Ave 2004 Miami, FL - Image 19 Image: 801 S Miami Ave 2004 Miami, FL - Image 20 Image: 801 S Miami Ave 2004 Miami, FL - Image 21 Image: 801 S Miami Ave 2004 Miami, FL - Image 22 Image: 801 S Miami Ave 2004 Miami, FL - Image 23 Image: 801 S Miami Ave 2004 Miami, FL - Image 24 Image: 801 S Miami Ave 2004 Miami, FL - Image 25 Image: 801 S Miami Ave 2004 Miami, FL - Image 26\n",
+          "title": "801 S Miami Ave 2004, Miami, FL 33130 | MLS# A12025744 | Lang Realty",
+          "url": "https://www.langrealty.com/property/43-A12025744-801-S-Miami-Ave-2004-Miami-FL-33130/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn4search15 [wordlim: 200] Published: 7 months ago; 2400 NE 2nd Ave & 161 NE 24th St, Miami, FL 33137 ... Interior photo collage of a retail/office space with four images arranged in a 2×2 grid. ... No warranty or representation, express or implied, is made to the accuracy or completeness of the information contained herein, and same is submitted subject to errors, omissions, change of price, rental or other conditions, withdrawal without notice, and to any special listing conditions imposed by the property owner(s).\n",
+          "title": "Edgewater + Midtown Retail Corner Portfolio",
+          "url": "https://images1.showcase.com/d2/HvibHYg49GhHnB9PKEVgpi9Dr92RvZvKVhjKoT4gd14/document.pdf"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn4search8 [wordlim: 200] Crawled: yesterday; Image: 801 S Miami Ave 2707 Miami, FL - Image 0 Image: 801 S Miami Ave 2707 Miami, FL - Image 1 Image: 801 S Miami Ave 2707 Miami, FL - Image 2 Image: 801 S Miami Ave 2707 Miami, FL - Image 3 Image: 801 S Miami Ave 2707 Miami, FL - Image 4 Image: 801 S Miami Ave 2707 Miami, FL - Image 5 Image: 801 S Miami Ave 2707 Miami, FL - Image 6 Image: 801 S Miami Ave 2707 Miami, FL - Image 7 Image: 801 S Miami Ave 2707 Miami, FL - Image 8 Image: 801 S Miami Ave 2707 Miami, FL - Image 9 Image: 801 S Miami Ave 2707 Miami, FL - Image 10 Image: 801 S Miami Ave 2707 Miami, FL - Image 11 Image: 801 S Miami Ave 2707 Miami, FL - Image 12 Image: 801 S Miami Ave 2707 Miami, FL - Image 13 Image: 801 S Miami Ave 2707 Miami, FL - Image 14 ... ## 801 S Miami Ave 2707, Miami, FL 33130 ... ## Interior Features\n",
+          "title": "801 S Miami Ave 2707, Miami, FL 33130 | MLS# A12071975 | Lang Realty",
+          "url": "https://www.langrealty.com/property/43-A12071975-801-S-Miami-Ave-2707-Miami-FL-33130/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn4search9 [wordlim: 200] Crawled: 4 days ago; Image: 801 S Miami Ave 1506 Miami, FL - Image 0 Image: 801 S Miami Ave 1506 Miami, FL - Image 1 Image: 801 S Miami Ave 1506 Miami, FL - Image 2 Image: 801 S Miami Ave 1506 Miami, FL - Image 3 Image: 801 S Miami Ave 1506 Miami, FL - Image 4 Image: 801 S Miami Ave 1506 Miami, FL - Image 5 Image: 801 S Miami Ave 1506 Miami, FL - Image 6 Image: 801 S Miami Ave 1506 Miami, FL - Image 7 Image: 801 S Miami Ave 1506 Miami, FL - Image 8 Image: 801 S Miami Ave 1506 Miami, FL - Image 9 Image: 801 S Miami Ave 1506 Miami, FL - Image 10 Image: 801 S Miami Ave 1506 Miami, FL - Image 11 Image: 801 S Miami Ave 1506 Miami, FL - Image 12 Image: 801 S Miami Ave 1506 Miami, FL - Image 13 Image: 801 S Miami Ave 1506 Miami, FL - Image 14 Image: 801 S Miami Ave 1506 Miami, FL - Image 15 Image: 801 S Miami Ave 1506 Miami, FL - Image 16 Image: 801 S Miami Ave 1506 Miami, FL - Image 17 Image: 801 S Miami Ave 1506 Miami, FL - Image 18 Image: 801 S Miami Ave 1506 Miami, FL - Image 19 Image: 801 S Miami Ave 1506 Miami, FL - Image 20 Image: 801 S Miami Ave 1506 Miami, FL - Image 21 Image: 801 S Miami Ave 1506 Miami, FL - Image 22\n",
+          "title": "801 S Miami Ave 1506, Miami, FL 33130 | MLS# A12089162 | Lang Realty",
+          "url": "https://www.langrealty.com/property/43-A12089162-801-S-Miami-Ave-1506-Miami-FL-33130/"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn4search10 [wordlim: 200] Crawled: 4 days ago;  Image: <b>Details:</b> Click <img src=/images/TF150817_search.svg class=bttn><font color=blue><b> - 801 SMA DESIGNER SUITES CONDO</b></font> for detailed information about the property.<hr><b>Location data:</b><p>Arrow <img border=0 src=/images/TF150821_direction_north-east.svg> shows direction (north-east) and distance to the property (<a href=. ...  | 102050501040  | Misc--Outdoor-recreational (97)  |    |    |    | 1920  |    |    | AMCO PRH 801 S MIA AVE LLC  | CITY OF MIAMI SOUTH PB B-41  | 16 SE 8 ST  | Miami  |    |\n",
+          "title": "",
+          "url": "https://vn4-2.cs.fiu.edu/cgi-bin/arquery.cgi?arcriteria=1&category=flproperties-15&srvc=&vid=RAM&x1=-80.1930972&y1=25.76599"
+        },
+        {
+          "type": "text_result",
+          "snippet": "citeturn4search11 [wordlim: 200] Crawled: 4 days ago; Image: 801 S Miami Ave 3006 Miami, FL - Image 0 Image: 801 S Miami Ave 3006 Miami, FL - Image 1 Image: 801 S Miami Ave 3006 Miami, FL - Image 2 Image: 801 S Miami Ave 3006 Miami, FL - Image 3 Image: 801 S Miami Ave 3006 Miami, FL - Image 4 Image: 801 S Miami Ave 3006 Miami, FL - Image 5 Image: 801 S Miami Ave 3006 Miami, FL - Image 6 Image: 801 S Miami Ave 3006 Miami, FL - Image 7 ... ## Interior Features\n",
+          "title": "801 S Miami Ave 3006, Miami, FL 33130 | MLS# A12053399 | Lang Realty",
+          "url": "https://www.langrealty.com/property/43-A12053399-801-S-Miami-Ave-3006-Miami-FL-33130/"
+        }
+      ]
+    },
+    {
+      "id": "msg_046db25a716ab618006ab34fde8c9087d0ae0e6cac32f3ef64",
+      "content": [
+        {
+          "annotations": [],
+          "text": "{\n  \"address\": \"801 S Miami Ave, Miami, FL 33130\",\n  \"images\": [\n    {\n      \"url\": \"https://images1.loopnet.com/i2/_fXMnpw8htu8mXSiL7oGo4XZ3vRGVe22a600RG3DfDg/116/801-S-Miami-Ave-Miami-FL-Interior-Photo-1-LargeHighDefinition.png\",\n      \"caption\": \"Interior — For Visual Purposes Only (listing caption).\"\n    },\n    {\n      \"url\": \"https://images1.loopnet.com/i2/tWj0pQ5CLw2t25V7l168VPbYuP0KyI_LtoQjApmBG-8/110/801-S-Miami-Ave-Miami-FL-Interior-Photo-2-Large.jpg\",\n      \"caption\": \"Interior photo 2.\"\n    },\n    {\n      \"url\": \"https://images1.loopnet.com/i2/bcDmxZudjaS4UmsOkI8CPPaLL0PP4ioTmgXIub2aRIo/110/801-S-Miami-Ave-Miami-FL-Interior-Photo-3-Large.jpg\",\n      \"caption\": \"Interior photo 3.\"\n    }\n  ],\n  \"note\": \"Only three distinct interior image URLs were exposed by the accessible listing. Additional gallery captions were present, but their URLs could not be retrieved. These are exact observed image-link targets; original upload resolution could not be verified.\"\n}",
+          "type": "output_text",
+          "logprobs": []
+        }
+      ],
+      "role": "assistant",
+      "status": "completed",
+      "type": "message",
+      "phase": "final_answer"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "temperature": 1.0,
+  "tool_choice": "auto",
+  "tools": [
+    {
+      "type": "web_search",
+      "external_web_access": null,
+      "filters": null,
+      "search_context_size": "medium",
+      "user_location": {
+        "city": null,
+        "country": "US",
+        "region": null,
+        "timezone": null,
+        "type": "approximate"
+      },
+      "return_token_budget": "default",
+      "search_content_types": [
+        "text"
+      ]
+    }
+  ],
+  "top_p": 0.98,
+  "background": false,
+  "completed_at": 1790136290.0,
+  "conversation": null,
+  "max_output_tokens": 4500,
+  "max_tool_calls": null,
+  "moderation": null,
+  "previous_response_id": null,
+  "prompt": null,
+  "prompt_cache_diagnostics": null,
+  "prompt_cache_key": null,
+  "prompt_cache_options": null,
+  "prompt_cache_retention": "24h",
+  "reasoning": {
+    "context": "all_turns",
+    "effort": "low",
+    "generate_summary": null,
+    "mode": "standard",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "status": "completed",
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "medium"
+  },
+  "top_logprobs": 0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 23292,
+    "input_tokens_details": {
+      "cache_write_tokens": 117,
+      "cached_tokens": 4370
+    },
+    "output_tokens": 653,
+    "output_tokens_details": {
+      "reasoning_tokens": 317
+    },
+    "total_tokens": 23945
+  },
+  "user": null,
+  "access_programs": null,
+  "billing": {
+    "payer": "developer"
+  },
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "store": true,
+  "tool_usage": {
+    "image_gen": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "image_tokens": 0,
+        "text_tokens": 0
+      },
+      "total_tokens": 0
+    },
+    "web_search": {
+      "num_requests": 2
+    }
+  }
+}

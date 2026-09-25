@@ -1,0 +1,75 @@
+{
+  "lead_id": "b5be6ccf680dd7ac",
+  "property_type": "commercial properties",
+  "address": "1102 Brickell Bay Drive, 2nd Floor, Miami, FL 33131",
+  "city": "",
+  "state": "",
+  "zipcode": "33131",
+  "title": "Caña Restaurant and Lounge",
+  "source_site": "Caña Miami",
+  "source_url": "https://www.canamiami.com/private-events/",
+  "price": "",
+  "size": "",
+  "notes": "Hosted web search response resp_0b5f183bda73e78b006ab352880ae887d0b2d53947b2405814",
+  "category": "",
+  "images": [
+    {
+      "url": "https://images.getbento.com/accounts/0eee5e7a3fd571e794b52ce15ec660cd/media/Gp7M8urpTDy6Dww74y0q_MIACT_P008_Restaurant.jpg?auto=compress%2Cformat&cs=origin&fit=max&h=1800&w=1800",
+      "source": "https://www.canamiami.com/gallery/space/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://images.getbento.com/accounts/0eee5e7a3fd571e794b52ce15ec660cd/media/ze549zbbS0KZVaR44l85_MIACT_P002_Dining_Cana.jpg?auto=compress%2Cformat&cs=origin&fit=max&h=1800&w=1800",
+      "source": "https://www.canamiami.com/gallery/space/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://images.getbento.com/accounts/0eee5e7a3fd571e794b52ce15ec660cd/media/O4cU5oZLQdGA7FtrGKtH_MIACT_P011_Bar_Restaurant_Lounge_Seating.jpg?auto=compress%2Cformat&cs=origin&fit=max&h=1800&w=1800",
+      "source": "https://www.canamiami.com/gallery/space/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://images.getbento.com/accounts/0eee5e7a3fd571e794b52ce15ec660cd/media/padsRaj8Seu4BEet6Rfv_190528_Hyatt-Centric-Brickell_F%26B_CP-11.jpg?auto=compress%2Cformat&cs=origin&fit=max&h=1800&w=1800",
+      "source": "https://www.canamiami.com/gallery/space/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://images.getbento.com/accounts/0eee5e7a3fd571e794b52ce15ec660cd/media/oLLEY2HhSrmWYirBEfXK_190528_Hyatt-Centric-Brickell_F%26B_CP-9.jpg?auto=compress%2Cformat&cs=origin&fit=max&h=1800&w=1800",
+      "source": "https://www.canamiami.com/gallery/space/",
+      "caption": "",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://images.getbento.com/accounts/0eee5e7a3fd571e794b52ce15ec660cd/media/images/38161MURAL.jpg?auto=compress%2Cformat&cs=origin&fit=max&h=1800&w=1800",
+      "source": "https://www.canamiami.com/gallery/space/",
+      "caption": "",
+      "room_type_hint": ""
+    }
+  ],
+  "selected_rooms": [
+    {
+      "before_image_url": "https://images.getbento.com/accounts/0eee5e7a3fd571e794b52ce15ec660cd/media/Gp7M8urpTDy6Dww74y0q_MIACT_P008_Restaurant.jpg?auto=compress%2Cformat&cs=origin&fit=max&h=1800&w=1800",
+      "before_local_path": "work/live-e2e/prepared/b5be6ccf680dd7ac/candidate_1.jpg",
+      "after_local_path": "",
+      "room_label": "Restaurant dining area",
+      "style_label": "Bold Fusion",
+      "rationale": "Enclosed dining area with visible mural-covered walls, a ceiling, and substantial exposed floor around the tables."
+    },
+    {
+      "before_image_url": "https://images.getbento.com/accounts/0eee5e7a3fd571e794b52ce15ec660cd/media/O4cU5oZLQdGA7FtrGKtH_MIACT_P011_Bar_Restaurant_Lounge_Seating.jpg?auto=compress%2Cformat&cs=origin&fit=max&h=1800&w=1800",
+      "before_local_path": "work/live-e2e/prepared/b5be6ccf680dd7ac/candidate_3.jpg",
+      "after_local_path": "",
+      "room_label": "Indoor lounge seating area",
+      "style_label": "Royal Current",
+      "rationale": "Distinct lounge area enclosed by solid walls and full-height glazing, with clearly visible usable floor around the seating and rugs."
+    }
+  ],
+  "asset_dir": "",
+  "pdf_path": "",
+  "run_id": "",
+  "status": "new"
+}

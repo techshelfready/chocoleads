@@ -1,0 +1,52 @@
+{
+  "lead_id": "0aa7fec54cb1d983",
+  "property_type": "commercial properties",
+  "address": "100 Chopin Plaza, Miami, FL 33131",
+  "city": "",
+  "state": "",
+  "zipcode": "33131",
+  "title": "Toro Toro Restaurant",
+  "source_site": "Toro Toro Miami",
+  "source_url": "https://www.torotoromiami.com/gallery",
+  "price": "",
+  "size": "",
+  "notes": "Hosted web search response resp_0b5f183bda73e78b006ab352880ae887d0b2d53947b2405814",
+  "category": "",
+  "images": [
+    {
+      "url": "https://symphony.cdn.tambourine.com/toro-toro/media/torotoro-privatedining-header-69c6fb1faa512.jpg",
+      "source": "https://www.torotoromiami.com/private-dining",
+      "caption": "a long table with plates and napkins",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://symphony.cdn.tambourine.com/toro-toro/media/toro-toro-privatedining-elmatador-5e6bdfdc31ef5-optimized.jpg",
+      "source": "https://www.torotoromiami.com/private-dining",
+      "caption": "Private dining event space",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://symphony.cdn.tambourine.com/toro-toro/media/toro-toro-privatedining-table40-60e8c407bb320.jpg",
+      "source": "https://www.torotoromiami.com/private-dining",
+      "caption": "Private dining table at Table40, set with fourteen plates and dim lighting to set the dinner mood",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://symphony.cdn.tambourine.com/toro-toro/media/191030_toro-toro-october_cp-1-1-6a8f005788967.jpg",
+      "source": "https://www.torotoromiami.com/private-dining",
+      "caption": "a long table with lights and glasses",
+      "room_type_hint": ""
+    },
+    {
+      "url": "https://symphony.cdn.tambourine.com/toro-toro/media/torotoro-homepage-elevate-626af5f09ed14.jpg",
+      "source": "https://www.torotoromiami.com/",
+      "caption": "A wooden table with white and gold accents",
+      "room_type_hint": ""
+    }
+  ],
+  "selected_rooms": [],
+  "asset_dir": "",
+  "pdf_path": "",
+  "run_id": "",
+  "status": "new"
+}

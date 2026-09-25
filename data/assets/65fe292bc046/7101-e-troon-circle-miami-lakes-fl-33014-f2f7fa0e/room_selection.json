@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 1,
+      "room_label": "Enclosed garage",
+      "rationale": "Fully enclosed garage with visible walls, a closed sectional garage door, and a broad, unobstructed floor area.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "garage"
+    },
+    {
+      "index": 21,
+      "room_label": "Bedroom",
+      "rationale": "Clearly enclosed interior room with visible walls, closet doors, and a large usable floor area unobstructed by furniture.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}

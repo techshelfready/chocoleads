@@ -1,0 +1,22 @@
+{
+  "selected": [
+    {
+      "index": 56,
+      "room_label": "Enclosed garage",
+      "rationale": "Garage interior with visible enclosing walls, ceiling, and a large, clearly exposed concrete floor suitable for an epoxy-floor concept.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "garage"
+    },
+    {
+      "index": 12,
+      "room_label": "Spacious bedroom",
+      "rationale": "Enclosed bedroom with clearly visible walls and a broad, unobstructed area of usable floor in the foreground.",
+      "is_indoor": true,
+      "has_walls": true,
+      "visible_floor": true,
+      "room_kind": "interior"
+    }
+  ]
+}
